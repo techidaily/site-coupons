@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Gshopper - Tuya European Standard RH-EU411-4U-WIFI Doodle Smart Row Plug German Standard WIFI Power Board Surge Protector ZIGBEE Home Switch Row Socket
-date: 2024-09-04T12:54:24.968Z
-updated: 2024-09-04T12:54:24.968Z
+date: 2024-09-04T12:55:50.707Z
+updated: 2024-09-04T12:55:50.707Z
 categories:
   - Smart Home &Amp;amp; Garden
 ---
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.98 <span class="font-normal text-slate-400">(7.01k)</span></span>
+        <span>4.98 <span class="font-normal text-slate-400">(21.61k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

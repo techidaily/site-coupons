@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 38.49%% Off for SMOK Novo 2C Pod Kit 800mAh, only $7.99
-date: 2024-09-04T12:54:25.174Z
-updated: 2024-09-04T12:54:25.174Z
+date: 2024-09-04T12:55:50.847Z
+updated: 2024-09-04T12:55:50.847Z
 categories:
   - Starter Kits
 ---
@@ -21,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>5.00 <span class="font-normal text-slate-400">(9.29k)</span></span>
+        <span>4.95 <span class="font-normal text-slate-400">(4.67k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of GEEKMAXI.COM - 139,99 ? For JustNow GT240 240W Portable Power Station, 240Wh LiFePO4 Battery Solar Generator
-date: 2024-09-04T12:54:24.854Z
-updated: 2024-09-04T12:54:24.854Z
+date: 2024-09-04T12:55:50.609Z
+updated: 2024-09-04T12:55:50.609Z
 categories:
   - Sports&amp;amp;Outdoors
 ---
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(6.69k)</span></span>
+        <span>4.99 <span class="font-normal text-slate-400">(41.99k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Gshopper - DERE Laptops M16 2023 New 16  2.5K IPS Ultra HD Intel N95 12GB DDR5+512GB SSD Study Office Laptop Computer Windows 11 Notebook
-date: 2024-09-04T12:54:24.967Z
-updated: 2024-09-04T12:54:24.967Z
+date: 2024-09-04T12:55:50.707Z
+updated: 2024-09-04T12:55:50.707Z
 categories:
   - Computer &Amp;amp; Tablet
 ---
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.96 <span class="font-normal text-slate-400">(43.98k)</span></span>
+        <span>4.99 <span class="font-normal text-slate-400">(35.45k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

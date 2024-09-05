@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - $19.99 for Any 2PCS Disposable Kit
-date: 2024-09-04T12:54:24.902Z
-updated: 2024-09-04T12:54:24.902Z
+date: 2024-09-04T12:55:50.659Z
+updated: 2024-09-04T12:55:50.659Z
 categories:
   - Disposable Pod Kits
 ---
@@ -21,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>5.00 <span class="font-normal text-slate-400">(25.32k)</span></span>
+        <span>4.98 <span class="font-normal text-slate-400">(12.44k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

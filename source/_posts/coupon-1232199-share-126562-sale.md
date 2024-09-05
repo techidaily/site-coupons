@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Anker | Fantasia Trading LLC - Anker SOLIX C300 Portable Power Station - 288Wh | 300W
-date: 2024-09-04T12:54:24.829Z
-updated: 2024-09-04T12:54:24.829Z
+date: 2024-09-04T12:55:50.588Z
+updated: 2024-09-04T12:55:50.588Z
 categories:
   - Power Station
 ---
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.96 <span class="font-normal text-slate-400">(24.98k)</span></span>
+        <span>5.00 <span class="font-normal text-slate-400">(7.68k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

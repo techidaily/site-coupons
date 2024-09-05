@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of WYBOTICS INC - WYBOT S2 Pro with Charging Dock High-End Cordless Robotic Pool Cleaner
-date: 2024-09-04T12:54:24.873Z
-updated: 2024-09-04T12:54:24.873Z
+date: 2024-09-04T12:55:50.627Z
+updated: 2024-09-04T12:55:50.627Z
 categories:
   - Product
 ---
@@ -21,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.98 <span class="font-normal text-slate-400">(26.87k)</span></span>
+        <span>4.95 <span class="font-normal text-slate-400">(19.85k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">

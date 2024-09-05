@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of GEEKMAXI.COM - 559,00 ? For KuKirin V2 City Foldable Electric Bike, 20&Amp;#39;&amp;#39; Tires, 7.5Ah Removable Battery
-date: 2024-09-04T12:54:24.845Z
-updated: 2024-09-04T12:54:24.845Z
+date: 2024-09-04T12:55:50.602Z
+updated: 2024-09-04T12:55:50.602Z
 categories:
   - Sports&amp;amp;Outdoors
 ---
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>5.00 <span class="font-normal text-slate-400">(11.95k)</span></span>
+        <span>4.95 <span class="font-normal text-slate-400">(22.96k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
