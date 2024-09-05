@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of EightVape - $38.44 for VOOPOO Drag 5 177W Mod
-date: 2024-09-04T12:06:55.223Z
-updated: 2024-09-05T12:06:55.223Z
+date: 2024-09-04T12:19:15.755Z
+updated: 2024-09-04T12:19:15.755Z
 categories:
   - Deals
 ---
 
-## $38.44 for VOOPOO Drag 5 177W Mod
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">$38.44 for VOOPOO Drag 5 177W Mod</h1>
     </div>
@@ -23,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>5.00 <span class="font-normal text-slate-400">(37.32k)</span></span>
+        <span>4.96 <span class="font-normal text-slate-400">(27.49k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,51 +44,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1098515-share-127380-sale/"><u>Share Coupon Code Of AOHI - Grab a Bargain in AOHI MID-MONTH BIG SALE!</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098865-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $10.88 for Drip More GOAT Berry Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098864-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $10.88 for Drip More GOAT Cola Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098868-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $10.88 for Jam Monster NTD Mango Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098872-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $10.88 for Jam Monster NTD Mango Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098867-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $10.88 for Vapetasia Pod Punch Blue Razz Lemon Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098866-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $10.88 for Vapetasia Pod Punch Hawaiian P.O.G. Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097647-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $12.88 for Uwell Caliburn AK3 13W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097675-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $21.88 for Uwell Caliburn X 20W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097651-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $21.88 for Vaporesso Luxe XR 40W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097663-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $25.88 for VooPoo Drag H80 S Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099381-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Berries Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098874-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Gold Kiwi Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098876-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Gold Kiwi Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098877-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Mango Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099383-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Original Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098878-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Strawberry Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099377-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for Reds Salts Apple Strawberry Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097648-share-59344-sale/"><u>Share Coupon Code Of EightVape - $14.88 for Vaporesso XROS 3 Mini 16W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097662-share-59344-sale/"><u>Share Coupon Code Of EightVape - $14.88 for Vaporesso Zero S Pod Kit System</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097682-share-59344-sale/"><u>Share Coupon Code Of EightVape - $19.88 for DotMod DotStick Revo 35W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099379-share-59344-sale/"><u>Share Coupon Code Of EightVape - $7.88 for Reds Salts Apple Berries Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097916-share-96416-sale/"><u>Share Coupon Code Of Netvue - Netvue Home Security Camera</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1052142-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.02%% Off Fifty Bar Disposable Vape Kit 6500 Puffs 16Ml, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056160-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.68%% Off Puff PIXI Pro Disposable Vape Kit 8000 Puffs 14Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097873-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 27.01%% Off Freemax Galex Nano 2 Pod System 900mAh 25W, only $14.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097872-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 27.84%% Off Vaporesso XROS Cube Pod System 900mAh 16W, only $16.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1060473-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 31.78%% Off ICEWAVE X8500 Disposable Vape Kit 8500 Puffs 18Ml, only $11.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1041867-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 36.02%% Off Whiff Hero Disposable Vape Kit 6000 Puffs 13Ml, only $9.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1006996-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 40.93%% Off for Eleaf iStick Amnis 3 Vape Mod Kit 900mAh 20W, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1049262-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 41.08%% Off Timesvape Heavy Hitter Mechanical Mod, only $32.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1016033-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 50.03%% Off Snowplus Go Disposable Vape Kit 10000 Puffs 20Ml, only $8.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

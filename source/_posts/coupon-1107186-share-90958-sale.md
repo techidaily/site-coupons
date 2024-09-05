@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - $18.99 for Sleepy Sloth CBD Gummies 3000Mg (75Pcs/Pack)
-date: 2024-09-04T12:02:13.804Z
-updated: 2024-09-05T12:02:13.804Z
+date: 2024-09-04T12:19:15.953Z
+updated: 2024-09-04T12:19:15.953Z
 categories:
   - General
 ---
 
-## $18.99 for Sleepy Sloth CBD Gummies 3000mg (75pcs/pack)
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">$18.99 for Sleepy Sloth CBD Gummies 3000mg (75pcs/pack)</h1>
     </div>
@@ -23,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>5.00 <span class="font-normal text-slate-400">(17.58k)</span></span>
+        <span>4.95 <span class="font-normal text-slate-400">(15.57k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,57 +44,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1120262-share-59344-sale/"><u>Share Coupon Code Of EightVape - $3 Off for Geek Bar Pulse Frozen Edition Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120267-share-59344-sale/"><u>Share Coupon Code Of EightVape - $3 Off for Lucid Boost X Yogi Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120261-share-59344-sale/"><u>Share Coupon Code Of EightVape - $3 Off for OXBAR X Pod Juice Magic Maze 2.0 30K Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120264-share-59344-sale/"><u>Share Coupon Code Of EightVape - $3 Off for SMOK Morf Bar Touch 20K Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120266-share-59344-sale/"><u>Share Coupon Code Of EightVape - $3 Off for SOFI Surge 25000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120263-share-59344-sale/"><u>Share Coupon Code Of EightVape - $3 Off for Spaceman Nebula 25K Plus Disposable Vape (5%%, 25000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118729-share-97331-sale/"><u>Share Coupon Code Of Gshopper - 2023 IMILAB EC3 Lite 2K Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118724-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global Version Mi Smart Kettle Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118718-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global Version Wanbo T2 MAX</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118719-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global VersionWanbo T6 MAX Projector</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118728-share-97331-sale/"><u>Share Coupon Code Of Gshopper - IMILAB C30 IP Camera Home Security Camera 1080P WiFi Camera Indoor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118727-share-97331-sale/"><u>Share Coupon Code Of Gshopper - IMILAB EC4 Camera Solar Panel Outdoor Spotlight</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118725-share-97331-sale/"><u>Share Coupon Code Of Gshopper - IMILAB EC5 Floodlight Camera 2KGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118720-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiao Mi 4L Smart Air Fryer ProGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118721-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiao Mi 6L Smart Air FryerGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118730-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Camera C200Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118726-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Camera C400 Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118722-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Mijia Instant Hot Water Dispenser</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118723-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Mijia Smart Wall Breaker Home</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119500-share-116593-sale/"><u>Share Coupon Code Of Kaiweets - $30 Off for KOTC01 Paint Thickness Gauge</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119441-share-114666-sale/"><u>Share Coupon Code Of OBSBOT - Enjoy Extra 5%% OFF of New Product- OBSBOT Tiny 2 Lite</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117276-share-128178-sale/"><u>Share Coupon Code Of Oukitel - Oukitel Phone &Amp;Amp;amp; Tablets 10%% Off</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117275-share-128178-sale/"><u>Share Coupon Code Of Oukitel - Oukitel Phone &Amp;Amp;amp; Tablets 5%% Off</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120283-share-92020-sale/"><u>Share Coupon Code Of Relx ES - ES_buy 6 Pod Pro Get 1 Mini Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120270-share-92020-sale/"><u>Share Coupon Code Of Relx ES - ES_Essential Mini Bundle</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120279-share-92020-sale/"><u>Share Coupon Code Of RELX Global - ES_buy 6 Pod Pro*1 Get 1 Mini Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119770-share-93338-sale/"><u>Share Coupon Code Of TRANYA - 60%% Off -Tranya New Sale</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106530-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.09%% Off Equator EQ30000 Disposable Vape Kit 30Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1043618-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 24.39%% Off for BP MODS Lightsaber X Pod Mod Kit 60W, only $39.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119447-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.02%% Off HorizonTech Talons TW Pod System Kit 1200mAh 32W, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120248-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.81%% Off Lost Vape Centaurus E40 Max Pod System Kit 1400mAh 40W, only $22.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119450-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.68%% Off Smoant Charon T50 Pod System 1500mAh 50W, only $21.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119449-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.70%% Off Uwell COZI Pod System Kit 800mAh 25W, only $6.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119444-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 27.79%% Off SMOK Solus GT Box Pod System Kit 1000mAh, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1063588-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 28.03%% Off Kangvape TC8000 Disposable Vape Kit 8000 Puffs 20Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092628-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 28.03%% Off NEXA N20000 Disposable Vape 20000 Puffs, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120246-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 28.59%% Off Vaporesso Eco One Pod System Kit 1100mAh 16W, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081664-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 34.68%% Off SMOK Novo Pro 30W Pod System, only $14.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 41.08%% Off Timesvape Heavy Hitter Mechanical Mod, only $32.99
-date: 2024-09-04T12:01:41.290Z
-updated: 2024-09-05T12:01:41.290Z
+date: 2024-09-04T12:19:15.978Z
+updated: 2024-09-04T12:19:15.978Z
 categories:
   - Vaporizers
 ---
 
-## 41.08% off Timesvape Heavy Hitter Mechanical Mod, only $32.99
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">41.08% off Timesvape Heavy Hitter Mechanical Mod, only $32.99</h1>
     </div>
@@ -23,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(9.30k)</span></span>
+        <span>4.95 <span class="font-normal text-slate-400">(11.92k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,39 +44,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1104978-share-127380-sale/"><u>Share Coupon Code Of AOHI - AOHI MID-MONTH BIGGGGGGG SALE LIVE NOW!!!</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104879-share-128862-sale/"><u>Share Coupon Code Of Apemans.com - Apeman 13%% OFF Sitewide, No Threshold Required</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104126-share-122475-sale/"><u>Share Coupon Code Of Bellavapor - 18%% Off of Spring Sale Sitewide</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1103151-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $3.00 Off RabBeats RC10000 Touch Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1103149-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - 18%% Off GeekVape Digi Q Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104965-share-59344-sale/"><u>Share Coupon Code Of EightVape - $11.88 for Mr Fog Switch SW15000 Disposable Vape (5%%, 15000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1105482-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.54%% Off STARX S20000 Disposable Vape Kit 20Ml, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1105483-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.54%% Off True Story 20000 Puffs Disposable Vape Kit 20Ml, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104232-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.02%% Off for Joyetech eGo NexO Pod System Kit 1500mAh 20W, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1105247-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.02%% Off Smoant Levin PK Pod System Kit 1000mAh 25W, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104902-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.70%% Off Freemax Galex Nano S Pod System Kit 22W, only $6.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104900-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.70%% Off VOOPOO Doric Galaxy S1 Pod System Kit 800mAh 16W, only $6.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1103103-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.93%% Off Uwell Caliburn GK3 Tenet Pod System Kit 25W, only $18.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1105513-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 29.17%% Off for Timesvape The Dreamer Clutch Mechanical Mod, only $50.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1105514-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 29.17%% Off for Timesvape The Dreamer Clutch Mechanical Mod, only $50.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104228-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 29.74%% Off for Auguse Era V2 RDA 22Mm, only $25.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1074718-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.45%% Off VOOPOO VMATE Pro Pod System, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1057867-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 31.05%% Off for Rincoe Manto Aio Plus 2 Pod Kit 80W, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1087676-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 37.52%% Off Exeek EK15000 Disposable Vape, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1062294-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 43.78%% Off Fat Boy FB10000 Disposable Vape Kit 10000 Puffs 15Ml, only $8.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

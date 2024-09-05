@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of EightVape - 20%% Off All Freebase
-date: 2024-09-04T12:01:44.082Z
-updated: 2024-09-05T12:01:44.082Z
+date: 2024-09-04T12:19:15.977Z
+updated: 2024-09-04T12:19:15.977Z
 categories:
   - Deals
 ---
 
-## 20% Off All Freebase
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">20% Off All Freebase</h1>
     </div>
@@ -23,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.95 <span class="font-normal text-slate-400">(23.08k)</span></span>
+        <span>4.97 <span class="font-normal text-slate-400">(48.72k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,39 +44,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1054313-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 169,00 ? For FOSSiBOT DT1 10.4in FHD Tablet, MT8788 Octa-Core, 8GB RAM 256GB ROM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1049410-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 2%% Off for 3D Printers &Amp;Amp;amp; Laser Engravers</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1038529-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 209,99 ? For KTC H32S17 Gaming Monitor 32-Inch 2560X1440 QHD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054430-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 3%% Off for Vacuum Cleaners</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081671-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 469,99 ? For Mecpow X5 22W Laser Engraving Machine, 600X600mm Engraving Area</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106573-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 479,00 ? For NEJE Max 4 E80 Laser Engraver Cutter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112490-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 50? OFF for DUOTTS C29 Electric Bike With Rear Rack , 750W, 48V 15Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-761158-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 500? - 25? Discount for Sitewide - Shareasale</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971600-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 559,00 ? For KUGOO KIRIN M4 Pro Foldable Electric Scooter - 500W Motor &Amp;Amp;amp; 48V 16Ah Lithium Battery Or 18Ah Lithium Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093808-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 569,00 ? For ENGWE T14 Foldable Electric City Bicycle,250W Brushless Motor &Amp;Amp;amp; 48V 10Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106577-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 569,00 ? For JOYOR S5-Z Electric Scooter, 48V 13Ah Battery, 600W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099684-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 59,00 ? For WANBO MINI LCD Projector, Multimedia Version, 1080P HD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106554-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 599,00 ? For Touroll U1 26 MTB Electric Bike With 250W Motor, 13Ah Removable Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107232-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 6,5%% OFF for Projectors</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107229-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 6%% OFF for Mini PC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-997399-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 609,00 ? For SCULPFUN S30 Pro Max 20W Laser Engraver Cutter, Automatic Air-Assist, 0.08X0.1mm Laser Focus 32-Bit Motherboard, 410X400mm</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-985138-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 64,99 ? For Tronsmart Bang SE Bluetooth Party Speaker, 3 Lighting Modes, 24 Hours Of Playtime, IPX6 Waterproof</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106555-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 649,00 ? For Touroll U1 29 MTB Electric Bike With 250W Motor, 13Ah Removable Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083522-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 659,00 ? For KUGOO G2 MAX Foldable Electric Scooter, 10&Amp;Amp;quot; Pneumatic Tires, 1500W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099687-share-77450-sale/"><u>Share Coupon Code Of GEEKMAXI.COM - 76,00 ? For WANBO Mini Pro LCD Projector, Android 9.0, HD 720P Native &Amp;Amp;amp;1080P Support</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

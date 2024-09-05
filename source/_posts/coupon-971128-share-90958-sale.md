@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.56%% Off for Eleaf iStick I40 Vape Kit With GTL D20 Tank, only $24.99
-date: 2024-09-04T12:01:47.007Z
-updated: 2024-09-05T12:01:47.007Z
+date: 2024-09-04T12:19:15.979Z
+updated: 2024-09-04T12:19:15.979Z
 categories:
   - Starter Kits
 ---
 
-## 30.56% off for Eleaf iStick i40 Vape Kit With GTL D20 Tank, only $24.99
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">30.56% off for Eleaf iStick i40 Vape Kit With GTL D20 Tank, only $24.99</h1>
     </div>
@@ -23,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(17.18k)</span></span>
+        <span>4.96 <span class="font-normal text-slate-400">(11.79k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,54 +44,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1116682-share-115200-sale/"><u>Share Coupon Code Of Eufy | Fantasia Trading LLC - 10%%Off Exclusive Discount for SoloCam S340 Best Selling</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-855359-share-79370-sale/"><u>Share Coupon Code Of Fast Technology Limited - FastestVPN Lifetime Plan with 15 Multi-Logins for $40 and Get 2TB Cloud Storage + Password Manager FREE.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081675-share-38812-sale/"><u>Share Coupon Code Of Geekbuying - 6%% Off Sitewide Coupon, Max Save $10</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117276-share-128178-sale/"><u>Share Coupon Code Of Oukitel - Oukitel Phone &Amp;Amp;amp; Tablets 10%% Off</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117275-share-128178-sale/"><u>Share Coupon Code Of Oukitel - Oukitel Phone &Amp;Amp;amp; Tablets 5%% Off</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120729-share-92020-sale/"><u>Share Coupon Code Of Relx - GL_Portuguese_Buy a Infinity 2 Get a Free Infinity Device</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120561-share-92020-sale/"><u>Share Coupon Code Of Relx CA - CA_Buy a Infinity 2 Get a Free Infinity Device</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120310-share-92020-sale/"><u>Share Coupon Code Of Relx FR - FR_buy 6 Pod Pro Get 1 Essential Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120297-share-92020-sale/"><u>Share Coupon Code Of Relx FR - FR_buy1 Essential Get 1 Pod Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120298-share-92020-sale/"><u>Share Coupon Code Of Relx FR - FR_buy1 Essential Get 1 Pod Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106531-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 15.40%% Off Chris Brown CB15K Disposable Vape 15Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121402-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 17.54%% Off Geek Bar Pulse X 25K Patriot Edition Disposable Vape 18Ml, only $12.69</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109762-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 17.91%% Off Buy 1 Get 1 Free RAZ DC25000 Disposable Vape by Geek Vape, only $12.88</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121932-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 22.25%% Off Joyetech eGo Slim Pod System Kit 800mAh 18W, only $6.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1095763-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.08%% Off ThunderHead Creations Blaze AIO Boro Mod 88W, only $79.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106530-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.09%% Off Equator EQ30000 Disposable Vape Kit 30Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-921239-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 24.84%% Off for SMOK MAG 18 Vape Kit 230W With TFV18 Tank 7.5Ml, only $29.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121112-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.02%% Off Mecha King Blade 25K Disposable Vape 22Ml, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120542-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.43%% Off VOOPOO Drag 5 Vape Mod Kit 177W, only $43.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1120539-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.54%% Off VOOPOO Drag 5 Box Mod 177W, only $34.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1103108-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.96%% Off VAPGO BAR X 12000 Disposable Vape, only $6.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121401-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.68%% Off Ignite V150 Disposable Vape 15000 Puffs, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121111-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 27.03%% Off Lost Mary Off-Stamp SW16000 Disposable Vape 17Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1063588-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 28.03%% Off Kangvape TC8000 Disposable Vape Kit 8000 Puffs 20Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092628-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 28.03%% Off NEXA N20000 Disposable Vape 20000 Puffs, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1017154-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.78%% Off for Vaporesso XROS 3 Nano Pod Kit 1000mAh 16W, only $17.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094544-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.79%% Off for Elux Cyberover 18K Disposable Vape 18000 Puffs, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081664-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 34.68%% Off SMOK Novo Pro 30W Pod System, only $14.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-681876-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 36.12%% Off for SMOK RPM 2 Pod Mod Kit, only $22.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056483-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 38.25%% Off for Vandy Vape Jackaroo 18650 Pod Mod Kit 70W, only $20.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971155-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 41.20%% Off for Uwell Caliburn A3 Pod Kit 520mAh 13W, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1040487-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 42.88%% Offf for Joyetech eGo AIO 2 Vape Pen Kit 1700mAh, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-983589-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 50.02%% Off for Rincoe Jellybox XS Pod Kit 1000mAh 30W, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-893730-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 65.25%% Off for Geekvape AP2 (Aegis Pod 2) Kit 900mAh, only $7.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058162-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - Buy 1 Get 2 ELFWORLD Ice King Disposable Vape Kit 8500 Puffs 17Ml</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

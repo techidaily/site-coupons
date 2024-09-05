@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of GEEKMAXI.COM - 6%% OFF for Mini PC
-date: 2024-09-04T12:07:32.940Z
-updated: 2024-09-05T12:07:32.940Z
+date: 2024-09-04T12:19:15.724Z
+updated: 2024-09-04T12:19:15.724Z
 categories:
   - Promotion
 ---
 
-## 6% OFF for Mini PC
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">6% OFF for Mini PC</h1>
     </div>
@@ -20,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(11.68k)</span></span>
+        <span>4.99 <span class="font-normal text-slate-400">(47.09k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -43,42 +41,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118536-share-97331-sale/"><u>Share Coupon Code Of Gshopper - 360 S8 Plus Robot Vacuum</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118599-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Funwater KOI11 6 INFLATABLE STAND UP PADDLE BOARD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118600-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Funwater| EMBLEM 10��6�� STAND UP PADDLE BOARD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118597-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global Version Xiaomi Smart Camera C500 Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118534-share-97331-sale/"><u>Share Coupon Code Of Gshopper - IMILAB C20 Home Security Camera 1080P</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118535-share-97331-sale/"><u>Share Coupon Code Of Gshopper - IMILAB C21 Home Security Camera 2.5K</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118531-share-97331-sale/"><u>Share Coupon Code Of Gshopper - KOWOLL M18EX Robotic</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118530-share-97331-sale/"><u>Share Coupon Code Of Gshopper - MIUI 10L Air Fryer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118527-share-97331-sale/"><u>Share Coupon Code Of Gshopper - MIUI 3.5L Air Fryer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118528-share-97331-sale/"><u>Share Coupon Code Of Gshopper - MIUI 5L Air Fryer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118529-share-97331-sale/"><u>Share Coupon Code Of Gshopper - MIUI 9L Air Fryer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118537-share-97331-sale/"><u>Share Coupon Code Of Gshopper - New Design 10 in 1 Type-C HUB TF&amp;amp;amp;SD Card Reader VGA HDMI 4K 3.5Mm Audio Compatible RJ45 PD Charger USB3.0 Laptop Hub</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118525-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Xiaomi Inspiration Stylus Pen Second Generation Magnetic 150 Hour Long Range Suitable for Mi Pad5/6/6 Pro Tablets</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118526-share-97331-sale/"><u>Share Coupon Code Of Gshopper - POWKIDDY X18s Handheld Game Player</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118598-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Square Bottle Round Bottle Glass Bottle Cutting Tool Wine Bottle Cutter DIY</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118532-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Tuya Smartlife Remote Control EU 16A Wifi Smart Plug</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118533-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Tuya WiFi Intelligent Curtain Switch</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118596-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi 65W GaN Charger (Type-A + Type-C) EU</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118595-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi 67W GaN Charger 2C1A -EU</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118594-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Youpin Fire Spinning Fidget Spinner</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118592-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Youpin Jingchu Electric Vacuum Machine + Free Fresh-Keeping Bag Trial Pack</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118591-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Youpin Jingchu Multifunctional Drum Vegetable Cutter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118593-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Youpin Telescopic Clothesline White</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,16 +1,14 @@
 ---
 title: Share Coupon Code Of Gshopper - FNIRSI 2C23T 3IN1 Dual Channel 10MHZ*2 50MS/S Handheld Digital Oscilloscope Multimeter + Function Signal Generator
-date: 2024-09-04T12:05:42.991Z
-updated: 2024-09-05T12:05:42.991Z
+date: 2024-09-04T12:19:15.809Z
+updated: 2024-09-04T12:19:15.809Z
 categories:
   - Tool &Amp;amp; 3D Printer
 ---
 
-## FNIRSI 2C23T 3IN1 Dual Channel 10MHZ*2 50MS/s Handheld Digital Oscilloscope Multimeter + Function Signal Generator
 
-<hr>
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1 lg:max-w-5xl lg:grid-cols-2 lg:gap-x-20">
+  <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
       <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">FNIRSI 2C23T 3IN1 Dual Channel 10MHZ*2 50MS/s Handheld Digital Oscilloscope Multimeter + Function Signal Generator</h1>
     </div>
@@ -20,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(48.77k)</span></span>
+        <span>4.99 <span class="font-normal text-slate-400">(21.30k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -43,48 +41,3 @@ categories:
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1227451-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for AC180 and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227453-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for AC200L and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227455-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for AC240 and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227456-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for EP760 and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227457-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for Power Below 1000W</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081569-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $11.88 for Monster Bar MAX Disposable Vape (5%%, 6000 Puff)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081516-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for U Toob Bar Disposable Vape (5%%, 5000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232885-share-115200-sale/"><u>Share Coupon Code Of Eufy | Fantasia Trading LLC - Get 39%% OFF on eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232887-share-115200-sale/"><u>Share Coupon Code Of Eufy | Fantasia Trading LLC - Get 44%% OFF on eufyCam S300 (eufyCam 3C) 4-Cam Kit + 1 TB Hard Drive</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232636-share-38812-sale/"><u>Share Coupon Code Of Geekbuying - &Quot;Code:NNNRG40X, $65 for ANBERNIC RG40XXV Retro Game Console&quot;</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233067-share-153229-sale/"><u>Share Coupon Code Of Godbricks - September Month Offer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232914-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - 10%% OFF  Entire Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232915-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - 20%% OFF  Entire Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232916-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - 30%% Discount on Orders over $400</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233059-share-154766-sale/"><u>Share Coupon Code Of Herbsdaily Inc - Celebrate Labor Day with Exclusive Discounts on Herbal Supplements!</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233060-share-154766-sale/"><u>Share Coupon Code Of Herbsdaily Inc - Enhance Your Yoga Practice with Our Special Supplements!</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1072100-share-136652-sale/"><u>Share Coupon Code Of Homefi - 10%% Off on Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1007207-share-136652-sale/"><u>Share Coupon Code Of Homefi - 10%% Off on Your First Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-807525-share-80525-sale/"><u>Share Coupon Code Of LogMeOnce - Get 10%% Off Your Family Edition Password Manager</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-807524-share-80525-sale/"><u>Share Coupon Code Of LogMeOnce - Get 10%% Off Your Ultimate Edition Password Manager</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232239-share-92020-sale/"><u>Share Coupon Code Of Relx CA - CA_DUO</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232238-share-92020-sale/"><u>Share Coupon Code Of RELX Global - WAKA CA_Alpha-1 Bundle</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067717-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 16.13%% Off for VOOPOO Drag X2 Pod Mod Kit 80W, only $25.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121400-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 20.30%% Off SWFT Meta 30000 Puffs Disposable Vape 24Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-967927-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 21.27%% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-997665-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 21.88%% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067067-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.20%% Off iJoy Bar SD10000 Disposable Kit, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067684-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 33.34%% Off Geekvape AN2 (Aegis Nano 2) Pod System, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1037475-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 40.04%% Off for Innokin Klypse Zip Pod Kit 650mAh, only $6.59</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
