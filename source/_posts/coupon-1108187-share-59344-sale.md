@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of EightVape - $10 Off for Geekvape L200 (Aegis Legend 2) Box Mod Kit 200W
-date: 2024-09-04T11:37:50.334Z
-updated: 2024-09-05T11:37:50.334Z
+date: 2024-09-04T12:01:04.913Z
+updated: 2024-09-04T12:01:04.913Z
 categories:
   - Coupon Code
 ---
@@ -20,7 +20,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(26.13k)</span></span>
+        <span>4.99 <span class="font-normal text-slate-400">(26.17k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -43,21 +43,3 @@ categories:
     </p>
   </div>
 </main>
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

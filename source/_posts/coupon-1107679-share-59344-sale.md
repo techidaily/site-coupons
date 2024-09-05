@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of EightVape - $3 Off for THATTHAT Dooby 18000 Disposable Vape
-date: 2024-09-04T11:37:50.239Z
-updated: 2024-09-05T11:37:50.239Z
+date: 2024-09-04T12:01:04.915Z
+updated: 2024-09-04T12:01:04.915Z
 categories:
   - Coupon Code
 ---
@@ -23,7 +23,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.99 <span class="font-normal text-slate-400">(45.83k)</span></span>
+        <span>4.98 <span class="font-normal text-slate-400">(18.15k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,15 +46,3 @@ categories:
     </p>
   </div>
 </main>
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

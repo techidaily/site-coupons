@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 34.49%% Off for Lost Vape Thelema Elite 40 Pod System 1400mAh 40W, only $18.99
-date: 2024-09-04T11:37:48.351Z
-updated: 2024-09-05T11:37:48.351Z
+date: 2024-09-04T12:01:04.971Z
+updated: 2024-09-04T12:01:04.971Z
 categories:
   - Starter Kit
 ---
@@ -23,7 +23,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(5.50k)</span></span>
+        <span>4.97 <span class="font-normal text-slate-400">(23.95k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,15 +46,3 @@ categories:
     </p>
   </div>
 </main>
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

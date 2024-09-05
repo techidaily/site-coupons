@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 40.93%% Off for Eleaf iStick Amnis 3 Vape Mod Kit 900mAh 20W, only $12.99
-date: 2024-09-04T11:37:49.206Z
-updated: 2024-09-05T11:37:49.206Z
+date: 2024-09-04T12:01:04.938Z
+updated: 2024-09-04T12:01:04.938Z
 categories:
   - Starter Kit
 ---
@@ -23,7 +23,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>5.00 <span class="font-normal text-slate-400">(44.24k)</span></span>
+        <span>4.95 <span class="font-normal text-slate-400">(29.18k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -46,21 +46,3 @@ categories:
     </p>
   </div>
 </main>
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
