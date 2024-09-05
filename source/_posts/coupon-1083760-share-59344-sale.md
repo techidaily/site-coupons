@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Eight Vape - $10.88 for Funky Republic Ti7000 Disposable Vape
-date: 2024-09-04T11:37:28.220Z
-updated: 2024-09-04T11:37:28.220Z
+date: 2024-09-04T11:37:48.184Z
+updated: 2024-09-05T11:37:48.184Z
 categories:
   - Coupon Code
 ---
@@ -46,3 +46,15 @@ categories:
     </p>
   </div>
 </main>
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
