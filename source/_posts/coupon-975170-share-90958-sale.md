@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 36.40%% Off for VOOPOO Argus Z Pod Kit 900mAh 17W, only $6.99
-date: 2024-09-04T12:20:53.807Z
-updated: 2024-09-05T12:20:53.807Z
+date: 2024-09-04T12:54:25.134Z
+updated: 2024-09-04T12:54:25.134Z
 categories:
   - Starter Kit
 ---
@@ -10,7 +10,7 @@ categories:
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
   <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
-      <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">36.40% off for VOOPOO Argus Z Pod Kit 900mAh 17W, only $6.99</h1>
+      <h3 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">36.40% off for VOOPOO Argus Z Pod Kit 900mAh 17W, only $6.99</h3>
     </div>
         <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
       <img src="https://static.shareasale.com/image/90958/deal/000000_16687556918613.png" alt="" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
@@ -21,7 +21,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(39.18k)</span></span>
+        <span>4.97 <span class="font-normal text-slate-400">(3.46k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -36,48 +36,14 @@ categories:
         Expires June 30, 2025      </dd>
     </dl>
     <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D975170%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D975170%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">
+       GET DEAL
+      </button>
     </div>
-    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">36.40% off for VOOPOO Argus Z Pod Kit 900mAh 17W, only $6.99 Keywords: </p>
+    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">36.40% off for VOOPOO Argus Z Pod Kit 900mAh 17W, only $6.99 
+</p>
     <p class="mt-4">
-      <code class="bg-purple-900 p-4 text-sm font-bold tracking-widest text-white">VAZK</code>
+      <code class="bg-purple-900 p-4 text-sm font-bold text-white" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D975170%26m%3D90958%26u%3D4338022'), '_blank');void(0);">Coupon Code: <span class="bg-green-500 p-2 rounded tracking-widest">VAZK</span></code>
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1226648-share-59344-sale/"><u>Share Coupon Code Of EightVape - &Quot;$6.88 for https://www.eightvape.com/products/lost-mary-x-urban-tale-watermelon-ice-salt-nic-vape-juice&quot;</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226651-share-59344-sale/"><u>Share Coupon Code Of EightVape - $6.88 for Lost Mary X Urban Tale Strawberry Mango Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226650-share-59344-sale/"><u>Share Coupon Code Of EightVape - $6.88 for Lost Mary X Urban Tale Triple Berry Ice Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226649-share-59344-sale/"><u>Share Coupon Code Of EightVape - $6.88 for Lost Mary X Urban Tale Tropic Mango Ice Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226646-share-59344-sale/"><u>Share Coupon Code Of EightVape - $7.88 for LYF Strawberry Lemonade Ice Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226652-share-59344-sale/"><u>Share Coupon Code Of EightVape - $7.88 FOR Pachamama Plus+ Strawberry Orange Banana TFN Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226647-share-59344-sale/"><u>Share Coupon Code Of EightVape - $8.88 for Pod Juice X RAZ Blue Razz Cotton Clouds TFN Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107188-share-92020-sale/"><u>Share Coupon Code Of RELX Global - UK_40%% Off On Devices</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226329-share-92020-sale/"><u>Share Coupon Code Of Relx UK - UK_POD51_buy 5 Get 1 for Free</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1102163-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.09%% Off HQD Wapor Pro Disposable Vape Kit 20000 Puffs, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067068-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 24.33%% Off Horizon Binaries SV15000 Disposable Vape, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086350-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 24.33%% Off SnowWolf Smart HD 15K Disposable Vape 15000 Puffs Quick Charge, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100387-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.14%% Off Geek Bar Digiflavor Lush 20K Disposable Vape Kit 18Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058966-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 28.13%% Off SMOK Novo Master Pod System Kit 1000mAh, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-943112-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 31.83%% Off for Geekvape AU(Aegis U) Pod System Kit 800mAh 20W, only $14.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1068463-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 31.83%% Off Rincoe Jellybox Nano 3 Pod System Kit, only $14.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1021176-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 39.66%% Off for Geekvape Wenax K2 Pod Kit 1000mAh 18W, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116901-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 40.03%% Off Remit Mega 18000 Disposable Vape 18Ml, only $9.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108208-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 42.70%% Off ELFWORLD G20000 Disposable Vape Kit 22Ml, only $8.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1029700-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 45.02%% Off for Uwell Caliburn A3S Pod Kit 520mAh 16W, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-898502-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 45.50%% Off for Samsung 30Q 18650 Battery 15A 3.6V 3000mAh (1Pc/Pack), only $5.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

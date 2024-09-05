@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Gshopper - Mija Polarized Sunglasses Set
-date: 2024-09-04T12:21:33.584Z
-updated: 2024-09-05T12:21:33.584Z
+date: 2024-09-04T12:54:25.068Z
+updated: 2024-09-04T12:54:25.068Z
 categories:
   - Smart Home &Amp;amp; Garden
 ---
@@ -10,7 +10,7 @@ categories:
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
   <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
-      <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">Mija Polarized Sunglasses Set</h1>
+      <h3 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">Mija Polarized Sunglasses Set</h3>
     </div>
         <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
       <dt class="sr-only">Reviews</dt>
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.99 <span class="font-normal text-slate-400">(10.28k)</span></span>
+        <span>4.97 <span class="font-normal text-slate-400">(7.63k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -33,53 +33,14 @@ categories:
         Expires October 8, 2024      </dd>
     </dl>
     <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1117938%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1117938%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">
+       GET DEAL
+      </button>
     </div>
-    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">Free Shipping Keywords: </p>
+    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">Free Shipping 
+</p>
     <p class="mt-4">
-      <code class="bg-purple-900 p-4 text-sm font-bold tracking-widest text-white">DPF10OFF</code>
+      <code class="bg-purple-900 p-4 text-sm font-bold text-white" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1117938%26m%3D97331%26u%3D4338022'), '_blank');void(0);">Coupon Code: <span class="bg-green-500 p-2 rounded tracking-widest">DPF10OFF</span></code>
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118401-share-97331-sale/"><u>Share Coupon Code Of Gshopper - 2024 N-One Nbook Air</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118408-share-97331-sale/"><u>Share Coupon Code Of Gshopper - 70Mai True 2.7K 1944P Ultra Full HD Dash Cam Pro Plus+ A500S, Front and Rear</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118483-share-97331-sale/"><u>Share Coupon Code Of Gshopper - AFERIY 2001A Portable Power Station 2000W 1997Wh��5 Years Warranty��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118482-share-97331-sale/"><u>Share Coupon Code Of Gshopper - AFERIY P110 Portable Power Station 1200W 1248Wh��5 Years Warranty��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118481-share-97331-sale/"><u>Share Coupon Code Of Gshopper - AFERIY P210 Portable Power Station 2400W 2048Wh(5 Years Warranty)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118484-share-97331-sale/"><u>Share Coupon Code Of Gshopper - AFERIY P310 Portable Power Station 3600W 3840Wh��5 Years Warranty��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118400-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Baseus 20000mAh Power Bank</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118406-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Blackview N6000</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118405-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Blackview Shark 8</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118414-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Funwater Stand Up Paddle Board -Size 330*84*15��10&Amp;#39;8 ��33 ��6 ��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118402-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Funwater Stand Up Paddle Board -Size335*81*15 �� 11&Amp;#39; ��33  ��6  ��90*38*20</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118410-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Funwater Stand Up Surfboard Inflatable Pulp Board Sup Paddle Board Water Sports Adult Thickened PVC Water Ski Board Size 320*83*15 �� 10&Amp;#39;6  ��33  ��6  ��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118412-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global Version Q1 SE Mini Projector 1080P HD LED</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118411-share-97331-sale/"><u>Share Coupon Code Of Gshopper - KuKirin G2 Master Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118413-share-97331-sale/"><u>Share Coupon Code Of Gshopper - N-ONE Nbook Plus Laptop Intel Alder Lake-N N100 14.1 Inch YOGA 360-Degree Touchscreen 16GB DDR4 512GB SSD Windows 11 Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118409-share-97331-sale/"><u>Share Coupon Code Of Gshopper - N-ONE Nbook Ultra Laptop</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118403-share-97331-sale/"><u>Share Coupon Code Of Gshopper - New Retroid Pocket 4Pro Handheld Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118415-share-97331-sale/"><u>Share Coupon Code Of Gshopper - ROIDMI EVE CC Robot Vacuum and Mop Cleaner with Cleaning Base</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118404-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Umeiqi M1-D 201-500W 48V 13AH Off Road E Scooter 10 Inch Foldable Electric Scooter with Seat</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118407-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Miband 8Global Version</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

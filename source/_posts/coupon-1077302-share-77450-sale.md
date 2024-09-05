@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of GEEKMAXI.COM - 104,99 ? For KTC H27V13 27-Inch Gaming Monitor, 100Hz 1920 X 1080
-date: 2024-09-04T12:24:39.571Z
-updated: 2024-09-05T12:24:39.571Z
+date: 2024-09-04T12:54:24.898Z
+updated: 2024-09-04T12:54:24.898Z
 categories:
   - Electronics
 ---
@@ -10,7 +10,7 @@ categories:
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
   <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
-      <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">104,99 ? for KTC H27V13 27-Inch Gaming Monitor, 100Hz 1920 X 1080</h1>
+      <h3 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">104,99 ? for KTC H27V13 27-Inch Gaming Monitor, 100Hz 1920 X 1080</h3>
     </div>
         <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
       <dt class="sr-only">Reviews</dt>
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.99 <span class="font-normal text-slate-400">(21.66k)</span></span>
+        <span>4.98 <span class="font-normal text-slate-400">(45.29k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -33,59 +33,14 @@ categories:
         Expires September 30, 2024      </dd>
     </dl>
     <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1077302%26m%3D77450%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1077302%26m%3D77450%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">
+       GET DEAL
+      </button>
     </div>
-    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">5? off Keywords: KTC H27V13, Gaming Monitor,</p>
+    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">5? off 
+KTC H27V13, Gaming Monitor,</p>
     <p class="mt-4">
-      <code class="bg-purple-900 p-4 text-sm font-bold tracking-widest text-white">85WPQDW3</code>
+      <code class="bg-purple-900 p-4 text-sm font-bold text-white" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1077302%26m%3D77450%26u%3D4338022'), '_blank');void(0);">Coupon Code: <span class="bg-green-500 p-2 rounded tracking-widest">85WPQDW3</span></code>
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118353-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Dangbei Atom First Google TV? Laser Projector 1200 ISO Lumens 1080P ALPD? Dolby Audio</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118290-share-97331-sale/"><u>Share Coupon Code Of Gshopper - DriveTron S9plus-15AH</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118351-share-97331-sale/"><u>Share Coupon Code Of Gshopper - GameSir Gaijin Chick Gamepad Charging Dock ZHP501 PS5 Dock Charger</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118352-share-97331-sale/"><u>Share Coupon Code Of Gshopper - GameSir Gaijin Chick Gamepad Charging Dock ZHP501 XBOX Stand Charger</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118357-share-97331-sale/"><u>Share Coupon Code Of Gshopper - GameSir X2s Type-C Mobile Phone Gaming Controller</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118356-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global Version Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118348-share-97331-sale/"><u>Share Coupon Code Of Gshopper - HUAWEI Watch Fit Elegant Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118347-share-97331-sale/"><u>Share Coupon Code Of Gshopper - HUAWEI Watch Fit NEW Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118346-share-97331-sale/"><u>Share Coupon Code Of Gshopper - HUAWEI Watch Fit ��Active�� Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118349-share-97331-sale/"><u>Share Coupon Code Of Gshopper - HUAWEI Watch GT 2 Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118358-share-97331-sale/"><u>Share Coupon Code Of Gshopper - KUGOO KIRIN G2 PRO</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118354-share-97331-sale/"><u>Share Coupon Code Of Gshopper - KuKirin G4 Off-Road Electric Scooter with 2000W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118350-share-97331-sale/"><u>Share Coupon Code Of Gshopper - MIUI Electric Citrus Juicer Squeezer with 2 Cones</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118359-share-97331-sale/"><u>Share Coupon Code Of Gshopper - NexTool 3600Lm 450M High Power Led Flashlights 10000mAh High-Light Lamp</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118341-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore AeroFit Pro Secure Open-Ear Sport Earbuds</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118342-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore AeroFit Superior Comfort Open-Ear Earbuds</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118339-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore H30i On-Ear Bluetooth Headphones A3012</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118343-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore Liberty 4 NC True-Wireless Noise Cancelling Earbuds</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118340-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore P20i Earbuds</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118344-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore Sport X10 True Wireless Earbuds for Exercise</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118338-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Original Soundcore V30i Open-Ear Earbuds</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118355-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Redmi 12 without NFCGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118337-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Solar Hand Crank Power Generation Emergency NOAA Radio 5000Mah Rechargeable Treasure Power Display</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118345-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Soundcore Space Q45 Noise Canceling Headphones</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118336-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Ugreen KU005 Bluetooth / 2.4 GHz Wireless Membrane Keyboard - Black</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118335-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Youpin Car Front Sun Protection and Insulated Parasol 79X140cm</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

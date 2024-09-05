@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of EightVape - $3 Off for Pachamama Plus+ Strawberry Passionfruit Ice TFN Salt Vape Juice 30Ml
-date: 2024-09-04T12:24:15.885Z
-updated: 2024-09-05T12:24:15.885Z
+date: 2024-09-04T12:54:24.927Z
+updated: 2024-09-04T12:54:24.927Z
 categories:
   - Coupon Code
 ---
@@ -10,7 +10,7 @@ categories:
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
   <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
-      <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">$3 Off for Pachamama Plus+ Strawberry Passionfruit Ice TFN Salt Vape Juice 30ml</h1>
+      <h3 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">$3 Off for Pachamama Plus+ Strawberry Passionfruit Ice TFN Salt Vape Juice 30ml</h3>
     </div>
         <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
       <dt class="sr-only">Reviews</dt>
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.96 <span class="font-normal text-slate-400">(31.93k)</span></span>
+        <span>4.97 <span class="font-normal text-slate-400">(27.84k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -33,58 +33,14 @@ categories:
         Expires December 31, 2024      </dd>
     </dl>
     <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1123218%26m%3D59344%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1123218%26m%3D59344%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">
+       GET DEAL
+      </button>
     </div>
-    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400"> Keywords: </p>
+    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400"> 
+</p>
     <p class="mt-4">
-      <code class="bg-purple-900 p-4 text-sm font-bold tracking-widest text-white">NEW3</code>
+      <code class="bg-purple-900 p-4 text-sm font-bold text-white" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1123218%26m%3D59344%26u%3D4338022'), '_blank');void(0);">Coupon Code: <span class="bg-green-500 p-2 rounded tracking-widest">NEW3</span></code>
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1227451-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for AC180 and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227453-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for AC200L and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227455-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for AC240 and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227456-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for EP760 and Its Bundles</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227457-share-109567-sale/"><u>Share Coupon Code Of BLUETTI AU - 5%% OFF for Power Below 1000W</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081569-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $11.88 for Monster Bar MAX Disposable Vape (5%%, 6000 Puff)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081516-share-59344-sale/"><u>Share Coupon Code Of Eight Vape - $7.88 for U Toob Bar Disposable Vape (5%%, 5000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232885-share-115200-sale/"><u>Share Coupon Code Of Eufy | Fantasia Trading LLC - Get 39%% OFF on eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232887-share-115200-sale/"><u>Share Coupon Code Of Eufy | Fantasia Trading LLC - Get 44%% OFF on eufyCam S300 (eufyCam 3C) 4-Cam Kit + 1 TB Hard Drive</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232636-share-38812-sale/"><u>Share Coupon Code Of Geekbuying - &Quot;Code:NNNRG40X, $65 for ANBERNIC RG40XXV Retro Game Console&quot;</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233067-share-153229-sale/"><u>Share Coupon Code Of Godbricks - September Month Offer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232914-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - 10%% OFF  Entire Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232915-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - 20%% OFF  Entire Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232916-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - 30%% Discount on Orders over $400</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233059-share-154766-sale/"><u>Share Coupon Code Of Herbsdaily Inc - Celebrate Labor Day with Exclusive Discounts on Herbal Supplements!</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233060-share-154766-sale/"><u>Share Coupon Code Of Herbsdaily Inc - Enhance Your Yoga Practice with Our Special Supplements!</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1072100-share-136652-sale/"><u>Share Coupon Code Of Homefi - 10%% Off on Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1007207-share-136652-sale/"><u>Share Coupon Code Of Homefi - 10%% Off on Your First Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-807525-share-80525-sale/"><u>Share Coupon Code Of LogMeOnce - Get 10%% Off Your Family Edition Password Manager</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-807524-share-80525-sale/"><u>Share Coupon Code Of LogMeOnce - Get 10%% Off Your Ultimate Edition Password Manager</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232238-share-92020-sale/"><u>Share Coupon Code Of RELX Global - WAKA CA_Alpha-1 Bundle</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-928711-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - $12.99 Pod King XC5000 5000 Puffs Rechargeable Disposable Vape Kit 13.5Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067717-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 16.13%% Off for VOOPOO Drag X2 Pod Mod Kit 80W, only $25.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121400-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 20.30%% Off SWFT Meta 30000 Puffs Disposable Vape 24Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-967927-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 21.27%% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-997665-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 21.88%% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-941775-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.48%% Off for SMOK RPM 85&Amp;Amp;amp;100 Pod Mod Kit, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067067-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.20%% Off iJoy Bar SD10000 Disposable Kit, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067684-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 33.34%% Off Geekvape AN2 (Aegis Nano 2) Pod System, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1037475-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 40.04%% Off for Innokin Klypse Zip Pod Kit 650mAh, only $6.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-933468-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 40.95%% Off for Vapcell INR21700 Battery 4200mAh 3.7V 30A, only $6.49</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

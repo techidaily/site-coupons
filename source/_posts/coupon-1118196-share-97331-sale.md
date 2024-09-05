@@ -1,7 +1,7 @@
 ---
 title: Share Coupon Code Of Gshopper - HOCO/Hoco C96A Single Port Charger
-date: 2024-09-04T12:22:15.922Z
-updated: 2024-09-05T12:22:15.922Z
+date: 2024-09-04T12:54:25.040Z
+updated: 2024-09-04T12:54:25.040Z
 categories:
   - Consumer Electronics
 ---
@@ -10,7 +10,7 @@ categories:
 <main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
   <div class="mx-auto grid max-w-4xl grid-cols-1">
     <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
-      <h1 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">HOCO/hoco C96A single port charger</h1>
+      <h3 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">HOCO/hoco C96A single port charger</h3>
     </div>
         <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
       <dt class="sr-only">Reviews</dt>
@@ -18,7 +18,7 @@ categories:
         <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
           <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
         </svg>
-        <span>4.95 <span class="font-normal text-slate-400">(15.29k)</span></span>
+        <span>4.98 <span class="font-normal text-slate-400">(38.01k)</span></span>
       </dd>
       <dt class="sr-only">ExpiresDate</dt>
       <dd class="flex items-center">
@@ -33,52 +33,14 @@ categories:
         Expires October 8, 2024      </dd>
     </dl>
     <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118196%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118196%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">
+       GET DEAL
+      </button>
     </div>
-    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">Free Shipping Keywords: </p>
+    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">Free Shipping 
+</p>
     <p class="mt-4">
-      <code class="bg-purple-900 p-4 text-sm font-bold tracking-widest text-white">GPSS10</code>
+      <code class="bg-purple-900 p-4 text-sm font-bold text-white" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118196%26m%3D97331%26u%3D4338022'), '_blank');void(0);">Coupon Code: <span class="bg-green-500 p-2 rounded tracking-widest">GPSS10</span></code>
     </p>
   </div>
 </main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1116087-share-151407-sale/"><u>Share Coupon Code Of DODOSKIN.COM - Glampalm</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1115869-share-151407-sale/"><u>Share Coupon Code Of DODOSKIN.COM - Glow Your Skin with Mega Saving</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1115868-share-151407-sale/"><u>Share Coupon Code Of DODOSKIN.COM - K-Beauty Rocket Shipping</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116686-share-115200-sale/"><u>Share Coupon Code Of Eufy | Fantasia Trading LLC - Eufy Robovac and Camera Accessories Deals</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116766-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - SuperBox S5 Max 10%% OFF</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116767-share-155620-sale/"><u>Share Coupon Code Of Hangzhou Loonxi - SuperBox S5 Max 10%% OFF</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114909-share-156160-sale/"><u>Share Coupon Code Of Monport Laser - 10%% Discount on the Entire Monport Website</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114928-share-156160-sale/"><u>Share Coupon Code Of Monport Laser - 8%% Off for All Monport Products</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114929-share-156160-sale/"><u>Share Coupon Code Of Monport Laser - Shop and Get 8%% Off at Monport Laser</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1115874-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 15.80%% Off Firerose Upload 25000 Disposable Vape, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1115291-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 23.69%% Off Lost Vape Quest Centaurus P200 Box Mod 200W, only $28.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116332-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 25.94%% Off VOOPOO Vmate Max Pod System Kit, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117095-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 26.68%% Off Innokin Klypse Pro Pod System Kit 1000mAh 25W, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-767142-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 27.69%% Off for SMOK ACRO Pod System Kit, only $17.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1115870-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 30.03%% Off SMOK Mavic Pro RF Pod System Kit 1000mAh, only $6.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-829868-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 43.34%% Off for Geekvape M100 Kit (Aegis Mini 2) 100W with Zeus Nano 2 Tank, only $33.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-794855-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 56.68%% Off Geekvape L200 (Aegis Legend 2) Kit 200W with Z Sub Ohm Tank 2021, only $25.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-832299-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 56.83%% Off for VOOPOO Drag S Pro Pod Mod Kit Get Free E-Juice, only $18.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-794856-share-90958-sale/"><u>Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 60.01%% Off for Geekvape L200 (Aegis Legend 2) 200W Box Mod, only $19.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
