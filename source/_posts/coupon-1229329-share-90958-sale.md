@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 25.00%% Off Geekvape S100 (Aegis Solo 3) Vape Mod Kit 3000mAh 100W, only $44.99
-date: 2024-09-05T08:17:07.096Z
-updated: 2024-09-06T08:17:07.096Z
+date: 2024-09-05T12:48:51.069Z
+updated: 2024-09-05T12:48:51.069Z
 categories:
   - Starter Kit
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(38.76k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(19.61k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,39 +44,3 @@ categories:
     25.00% off Geekvape S100 (Aegis Solo 3) Vape Mod Kit 3000mAh 100W, only $44.99 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1027762-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $12.59 for Lost Mary OS5000 Luster Disposable Vape Kit 5000 Puffs 13Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1049654-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $8.99 for ELFWORLD PE10000 Disposable Vape Kit 10000 Puffs 20Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1001823-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 22.68% Off Posh MAX 2.0 5200 Puffs Disposable Vape Kit 5%, only $11.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-967926-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.29% Off for Lost Vape Centaurus M200 Box Mod 200W, only $39.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1000280-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.68% Off Mr Fog Switch 5500 Puffs Disposable Vape Kit 15Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1046540-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.68% Off Pyro 6000 Puffs Disposable Vape Kit 13Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-829869-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.79% Off for Geekvape M100 Box Mod (Aegis Mini 2) 2500 mAh 100W, only $32.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-840655-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.46% Off for SMOK SOLUS Pod System Kit, only $7.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971128-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.56% Off for Eleaf iStick I40 Vape Kit With GTL D20 Tank, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-983052-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.56% Off for Vandy Vape Requiem RTA 24Mm 4.5Ml, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-871445-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 31.05% Off for Vandy Vape Unicorn Pod Kit, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-941980-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.34% Off for Uwell Caliburn X Pod System Kit 850mAh 20W, only $21.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1024760-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.87% Off for VOOPOO Doric 20 SE Pod Kit 1200mAh 18W, only $8.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-978835-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 35.73% Off for Lost Vape Thelema Mini Box Mod 1500mAh 45W, only $17.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1021173-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.51% Off for ThunderHead Creations Tauren Elite Pro RTA 22Mm 2Ml/4ml, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1046288-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.52% Off for Moti Box R7000 Vape Disposable Kit 7000 Puffs 16Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1036906-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.11% Off for Geekvape Wenax M1 Combo Pod Kit 800mAh 16W, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-979348-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 39.15% Off for Freemax Starlux Pod Mod Kit 1400mAh 40W, only $13.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-945529-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 41.13% Off for VOOPOO VINCI SE Pod System Kit 900mAh 15W, only $10.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1062741-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 44.47% Off Cloud Bar Space Planet Disposable Vape Kit 10000 Puffs 20Ml, only $9.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
