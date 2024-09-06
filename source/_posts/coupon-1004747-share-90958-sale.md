@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 23.54%% Off Funky Republic Ti7000 Disposable Vape Kit 7000 Puffs 17Ml, only $12.99
-date: 2024-09-05T22:59:59.604Z
-updated: 2024-09-06T22:59:59.604Z
+date: 2024-09-05T23:28:47.317Z
+updated: 2024-09-05T23:28:47.317Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(21.89k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(27.14k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,58 +44,3 @@ categories:
     23.54% off Funky Republic Ti7000 Disposable Vape Kit 7000 Puffs 17ml, only $12.99 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118179-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - ANBERNIC RG35XX Retro Handheld Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118213-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Versio Xiaomi Watch 2 Pro Bluetooth?</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118109-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Smart Doorbell 3S</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118178-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Watch S3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118170-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Google Pixel 7 5G US Version (Global Version, only the Plug Is US Standard)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118212-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GoPro HERO12 Black - Waterproof Action Camera with 5.3K60 Ultra HD Video</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118183-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Huohou Fire Weather Nano Ceramic Knife Se</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118182-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HUOHOU Stainless Steel Knife Set Household Kitchen Knife Holder</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118211-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Insta360 X3 5.7K 360 Degree Panoramic</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118181-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - M18 R43 Pro Handheld Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118214-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Mijia Automatic Hand Washing Cute Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118158-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Mijia Karaoke Microphone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118111-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - MIJIA Smart Audio Glasses</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118159-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Body Fat Scale S400</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118176-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Electric Shaver S200</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118164-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Multifunctional Sports and Leisure Chest Bag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118156-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Multifunctional Strong Light Flashlight</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118154-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Portable Dental Rinser F400</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118162-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Smart Fragrance Machine-Cup Holder Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118152-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Xiaomi 6A Dual Type-C High-Speed Braided Data Cable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118157-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Xiaomi Car Karaoke Microphone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118155-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Xiaomi Outdoor Bluetooth Speaker Camp</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118167-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Oneplus Ace 2 CN ROM VersionColor S</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118168-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Oneplus Ace 2 Pro CN ROM VersionColor S</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118165-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OnePlus Nord CE3 5G EU Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118166-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OnePlus Nord N20 SE EU Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118160-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Redmi Projector 2</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118161-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Redmi Projector 2 Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118177-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Redmi Projector Lite</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118169-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Samsung Galaxy S24 +S9260 CN ROMVersion</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118172-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - SHOKZ OpenMove</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118171-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Shokz OpenRunPro Bone Conduction S810 Bluetooth Headset</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118180-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi 12 Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118153-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi 6A Dual Type-C Braided Data Cable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118110-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Open-Back Headphones</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118173-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Outdoor Camera CW500 Dual Camera Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118175-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Type-C to Lightning Braided Data Cable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118163-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Neck Support Travel Neck Pillow</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118174-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Outdoor Slippers Dual Density Sports</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
