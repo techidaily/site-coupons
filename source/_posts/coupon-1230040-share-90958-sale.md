@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 23.54%% Off Vandy Vape NOS 30000 Disposable Vape 20Ml, only $12.99
-date: 2024-09-05T02:39:46.015Z
-updated: 2024-09-06T02:39:46.015Z
+date: 2024-09-05T04:19:15.827Z
+updated: 2024-09-05T04:19:15.827Z
 categories:
   - Disposable Pod Kits
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(22.62k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(47.01k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -47,38 +47,3 @@ categories:
     </div>
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118070-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - EU Version Vivo Y01</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118083-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Funsnap Capture5 AI Gimbal Stabilizer Mobile Phone Stabilizer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118072-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Galaxy Tab A9+ 11�� 64GB WIFI Tablet SM-X210 OTA Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118068-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Realme C67</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118082-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Pad 6 Large Display</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118073-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Intelligent Mosquito Repellent, Humidification and Light Three-in-One</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118074-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - K1 TWS Bluetooth Earphone LCD Touch Screen Earbuds 8G Memory ENC HD Calls</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118085-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Langtu G1pro Wired Gaming 8-Button Light Emitting Mouse</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118084-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Langtu L98 Tri-Mode Bluetooth Wireless 2.4G Wired Keyboard</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118086-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Langtu Official Gaming Wired G3 Mechanical Optical Mouse Business Office Gaming Laptop Desktop USB Mouse</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118076-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - LED Magnetic Wall Lamp</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118069-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OnePlus 9 CN ROM Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118071-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OnePlus Pad EU Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118075-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Tent Camping Super Bright Camping Lamp Charging Magnet</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118081-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Ulanzi L2 RGB Mini COB Video Camera Light</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118080-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Ulanzi MA35 MagSafe Bluetooth Shutter Smartphone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118079-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Ulanzi-R094 Metal Super Clamp with 360�� Ball Head</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118077-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin FREETIE Sport Shoes</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118078-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Z85 MAX Smart Watch</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

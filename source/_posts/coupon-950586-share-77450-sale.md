@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 224,99 ? For Kugoo Kirin S1 PRO 8Inch Tires Foldable Electric Scooter - 36V 7.5Ah Battery & 350W Motor
-date: 2024-09-05T02:39:57.131Z
-updated: 2024-09-06T02:39:57.131Z
+date: 2024-09-05T04:19:15.814Z
+updated: 2024-09-05T04:19:15.814Z
 categories:
   - Sports&Outdoors
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(41.34k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(5.61k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -46,38 +46,3 @@ Kugoo Kirin S1 PRO, Foldable scooter, Electric Scooter, escooter, s-cooter,    <
     </div>
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118061-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Amazfit GTS 2 MiniGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118060-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Amazfit GTS Fitness Smartwatch</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117980-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - BioloMix Mill Grinder</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117982-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version POCO C65</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117983-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version POCO M5s</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118062-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Realme Note 50 without Charger</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118057-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Buds 3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118059-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HiBREW Dual Boiler System Barista Pro 20Bar Bean to Espresso Cafetera Coffee Machine with Full Kit for Cafe Hotel Restaurant H7A</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118063-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HiBREW G5 Coffee Machine</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117985-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Insta360 GO 3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117989-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Original Xiaomi Focus Pen</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117981-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Sonoff NSPanel WiFi Smart Scene Switch Thermostat Temperature All-in-One Control Touch Screen</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118064-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Tuya Smart Door Lock Smart Home</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117988-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Wireless Car Washing Machine</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117984-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Redmi Note 12 Pro 4GGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118058-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Smart Band 7 ProGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117990-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Smartmi Fan 2S - EU Plug</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117987-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin GaN 45W Power Bank Comes with Type-C and Apple MFi Certified Data Cable 15000mAh</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117986-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Lekono Wireless Lithium Battery Multi-Function Powerful High Pressure Car Washing Machine</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

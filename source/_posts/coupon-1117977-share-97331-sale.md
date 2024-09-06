@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - SONOFF ZBMINI L2 Single Fire Dual Control Smart On/Off Module
-date: 2024-09-05T02:36:58.366Z
-updated: 2024-09-06T02:36:58.366Z
+date: 2024-09-05T04:19:15.979Z
+updated: 2024-09-05T04:19:15.979Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(48.68k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(45.40k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -46,50 +46,3 @@ categories:
     </div>
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1083760-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for Funky Republic Ti7000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1084491-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for IJOY Captain 10000 Disposable Vape (5%, 10000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083758-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for RAZ CA6000 Disposable Vape (5%, 6000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083528-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.88 for Fruitia X ESCO Bar 6000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082237-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.88 for Goat Apple Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082233-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.88 for Goat Watermelon Gum Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083761-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.88 for Lucid Charge Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081569-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.88 for Monster Bar MAX Disposable Vape (5%, 6000 Puff)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083762-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $20.88 for \\\"Quit Smoking\\\" Cigarette Solutions Bundle</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083526-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6.88 for Avidvape Plump Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083258-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $6.99 for Cube Palm 5000 Disposable Vape Salt Nic 15Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083529-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.28 for Avidvape Legend Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083527-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.58 for MNKE Bars Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083530-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Huff Buzz Exfenty Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083766-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for KK Energy 8000 Disposable Vape (5%, 8000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083757-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for KROS Unlimited Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081516-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for U Toob Bar Disposable Vape (5%, 5000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082231-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $9.88 for Custard Monster NTD Gingerbread Crunch Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1072100-share-136652-sale/"><u>Latest 2024/09 Discount Coupons - 10% Off on Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1007207-share-136652-sale/"><u>Latest 2024/09 Discount Coupons - 10% Off on Your First Order</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-884641-share-115521-sale/"><u>Latest 2024/09 Discount Coupons - 15% Off All MiniTool Software</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-967927-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 21.27% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-997665-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 21.88% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-941775-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.48% Off for SMOK RPM 85&100 Pod Mod Kit, only $24.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-854798-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 28.90% Off for Dovpo Riva 200 Box Mod, only $31.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-823580-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.35% Off for Vaporesso XROS MINI Pod System Kit, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-875518-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 34.33% Off for Steam Crave Hadron Mini DNA100C Kit 100W, only $110.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1037475-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.04% Off for Innokin Klypse Zip Pod Kit 650mAh, only $6.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-880263-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 42.87% Off for Lost Vape Centaurus SOLO RDA 24Mm, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-899319-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 50.05% Off for Samsung 25R 18650 Battery 20A 2500mAh, only $4.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1084041-share-113233-sale/"><u>Latest 2024/09 Discount Coupons - US$500 Off Aristorm 4-in-1 S Shape Cavitation Machine Body Contouring For Professional Use</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

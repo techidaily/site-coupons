@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 18 Volt 6.0Ah BL1860B Replacement Battery Compatible with Makitas Battery Lithium
-date: 2024-09-05T02:38:12.079Z
-updated: 2024-09-06T02:38:12.079Z
+date: 2024-09-05T04:19:15.918Z
+updated: 2024-09-05T04:19:15.918Z
 categories:
   - Auto & Sport
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(8.17k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(29.21k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -46,38 +46,3 @@ categories:
     </div>
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1100573-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.88 for Flum Pebble Disposable Vape (5%, 6000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100686-share-38812-sale/"><u>Latest 2024/09 Discount Coupons - $218.64 for Wanbo X5 LCD Projector -EU Stock</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100683-share-38812-sale/"><u>Latest 2024/09 Discount Coupons - $425.28 for Creality K1 3D Printer Updated Version-EU Stock</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099385-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Original Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099400-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Yogi Blackberry Granola Vape Juice 60Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099389-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Yogi Grape Jam Granola Vape Juice 60Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099399-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Yogi Salts Blackberry Granola Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099387-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Yogi Salts Grape Jam Granola Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099398-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Yogi Salts Peach Cobbler Granola Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100685-share-38812-sale/"><u>Latest 2024/09 Discount Coupons - $753.25 for Creality K1 Max 3D Printer-EU Stock</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100605-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.02% Off VAPGO XERO Classic Pod System Kit 800mAh 24W, only $7.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100831-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.02% Off VAPGO XERO Nano Pod System Kit 800mAh 24W, only $7.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100604-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.33% Off DotMod Switch Nano 25W Pod System, only $13.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1101872-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.33% Off Vandy Vape BIIO 35W Pod System Kit, only $13.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099939-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.42% Off Rincoe Manto AIO Pro Kit 80W, only $23.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099630-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 35.55% Off Airis Speedy 15K Disposable Vape Kit 18Ml, only $10.88</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100574-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - Buy 1 Item Get 1 Item at 50% Off-IJOY IC 8000</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100850-share-122475-sale/"><u>Latest 2024/09 Discount Coupons - Buy 2 Get 1 Free of E-Liquid</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099615-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - CA_infinity_charing_case_bundle</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

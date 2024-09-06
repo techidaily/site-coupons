@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - Xiaomi Outdoor Camera CW500 Dual Camera Version
-date: 2024-09-05T02:37:26.229Z
-updated: 2024-09-06T02:37:26.229Z
+date: 2024-09-05T04:19:15.960Z
+updated: 2024-09-05T04:19:15.960Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(34.58k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(6.61k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -46,43 +46,3 @@ categories:
     </div>
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118116-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 2024 Version ANBERNIC RG35XX+ Gaming Handheld</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118179-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - ANBERNIC RG35XX Retro Handheld Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118117-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - DJI Osmo Pocket 3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118114-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Redmi Watch 2 Lite</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118109-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Smart Doorbell 3S</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118178-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Watch S3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118183-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Huohou Fire Weather Nano Ceramic Knife Se</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118182-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HUOHOU Stainless Steel Knife Set Household Kitchen Knife Holder</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118181-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - M18 R43 Pro Handheld Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118111-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - MIJIA Smart Audio Glasses</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118176-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Mijia Electric Shaver S200</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118121-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Original Apple Iphone 13 CN Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118177-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Redmi Projector Lite</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118172-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - SHOKZ OpenMove</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118119-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - VIRAN V8</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118118-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - VIRAN V9</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118180-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi 12 Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118120-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mi Smart Compact Projector Youth Edition 2</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118110-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Open-Back Headphones</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118115-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Rainbow No. 5 No. 7 Battery 10-Pack</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118175-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Type-C to Lightning Braided Data Cable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118174-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Outdoor Slippers Dual Density Sports</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118113-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Youpin Electric Soft Bullet Gun Shaped Ring Launcher (40 Rounds of Soft Bullets)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118112-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Youpin Fizz Open-Back Headphones 2-in-1 Scissors and Utility Knife</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

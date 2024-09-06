@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - $5 Off for Geekvape B60 (Aegis Boost 2) 60W Pod Mod Kit
-date: 2024-09-05T02:35:54.710Z
-updated: 2024-09-06T02:35:54.710Z
+date: 2024-09-05T04:19:16.035Z
+updated: 2024-09-05T04:19:16.035Z
 categories:
   - Coupon Code
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(19.31k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(28.81k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -47,48 +47,3 @@ categories:
     </div>
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1130505-share-64118-sale/"><u>Latest 2024/09 Discount Coupons - $10 Off R4S 4MP WiFi Home Security Camera</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1155740-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 20.01% Off Swype 30K Disposable Vape 22Ml, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-729997-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 20.09% Off for SMOK Nord 4 Pod System Kit 80W 2000mAh, only $22.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1155741-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 20.30% Off AiRMEZ Matrix 25K Disposable Vape Kit, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098452-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 20.99% Off RabBeats RC10000 Touch Disposable Vape 18Ml, only $10.88</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1031865-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 23.62% Off Geek Bar Meloso Max Disposable Vape Kit 9000 Puffs 14Ml, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020003-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 28.13% Off for SMOK RPM C Pod Kit 1650mAh 50W, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099631-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 28.30% Off LUFFBAR Dually 20000 Puffs Disposable Vape Kit 26Ml, only $10.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-978833-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.42% Off for Lost Vape Thelema Mini Pod Mod Kit 1500mAh 45W, only $23.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1105245-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.62% Off VIHO Supercharge 20000 Puffs Disposable Vape Kit 21Ml, only $11.88</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-985935-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.14% Off for Steam Crave Meson RTA 25Mm 5Ml/6ml, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-999107-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 48.02% Off for Smoant Pasito Mini Pod Kit 1100mAh 30W, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1031220-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 52.96% Off for SMOK Morph 3 Box Mod 230W, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1031222-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 61.55% Off for SMOK Morph 3 Vape Kit 230W Get Free E-Juice, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-851254-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 62.53% Off for Voopoo Drag Nano 2 Pod System Kit, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1128746-share-110294-sale/"><u>Latest 2024/09 Discount Coupons - 8% OFF for Sony Cages</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121155-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Save Extra 10 for Order over 250, US/EU/DE/UK/CA/AU/JP Store</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121176-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Save Extra 100 for Order over 1700, US/EU/DE/UK/CA/AU/JP Store</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121156-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Save Extra 15 for Order over 300, US/EU/DE/UK/CA/AU/JP Store</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121164-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Save Extra 20 for Order over 500, US/EU/DE/UK/CA/AU/JP Store</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1145696-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Save Extra 30 for Ferret Pro 3D Scanner, EU Only</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121175-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Save Extra 50 for Order over 900, US/EU/DE/UK/CA/AU/JP Store</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1146290-share-93338-sale/"><u>Latest 2024/09 Discount Coupons - Tranya LS Smartwatch-60% OFF</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
