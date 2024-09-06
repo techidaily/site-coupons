@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - September Month Offer
-date: 2024-09-05T04:30:05.711Z
-updated: 2024-09-06T04:30:05.711Z
+date: 2024-09-05T04:44:19.167Z
+updated: 2024-09-05T04:44:19.168Z
 categories:
   - Bricks MOC
 ---
@@ -9,8 +9,7 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h4 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">September Month Offer</h4>
-    <p class="text-sm leading-4 font-medium text-white sm:text-slate-500 dark:sm:text-slate-400">GOD8</p>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">September Month Offer</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
@@ -22,7 +21,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(48.47k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(43.40k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -38,54 +37,9 @@ categories:
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
     <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1233067%26m%3D153229%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1233067%26m%3D153229%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: GOD8</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-  Get 8% OFF on all the products at Godbricks with coupon code : GOD8&lt; 
-September Month Sale, Extended Labor Day Sale, LABOR DAY SALE, COUPON CODE, OFFER, DISCOUNT, FREE SHIPPING, SPECIAL OFFER    <div>
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1233067%26m%3D153229%26u%3D4338022'), '_blank');void(0);" class="bg-green-600 text-white text-sm leading-6 font-medium py-2 px-3 rounded-lg">GOD8</button>
-    </div>
-  </p>
+    Get 8% OFF on all the products at Godbricks with coupon code : GOD8&lt; 
+September Month Sale, Extended Labor Day Sale, LABOR DAY SALE, COUPON CODE, OFFER, DISCOUNT, FREE SHIPPING, SPECIAL OFFER  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1093786-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 1 099,00 ? For ENGWE L20 20*4.0 Inch Mountain Tire Electric Bike</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093606-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 1 199,00 ?  For Engwe Engine X 20 Inch Fat Tire Foldable Electric Bike - 250W Motor & 48V 13Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093818-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 1 399,00 ? For ENGWE X24 Mountain Electric Bike, 24*4.0 Inch Fat Tire, 50Km/H Max Speed</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093561-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 1 449,00 ? For ENGWE P275 ST 250W Mid-Motor Commuter Electric Bike, 260Km Max Range, 19.2Ah Samsung Cell</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093804-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 1 559,00 ? For ENGWE X26 26*4.0 Inch Fat Tires Electric Bike - 48V 1000W Motor & 19Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100591-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 1 749,00 ? For ENGWE P275 Pro 250W Mid-Motor Commuter Electric Bike, 260Km Max Range</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081657-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 10% OFF for 3D Printers Accessories</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081682-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 100? OFF for ENGWE Orders Over 2000?</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080547-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 119,00 ? For JIGOO T600 Bed Mattress Vacuum Cleaner, Dual Cup Design</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099678-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 149,00 ? For Wanbo T2 Max NEW LCD Projector,AI Auto-Focus, 450 ANSI</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109151-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 20 EUR OFF for Wanbo Mozart 1 Pro LCD Projector, 900 ANSI, Native 1080P</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112489-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 20? OFF for Flashfish A1001 1030Wh/1000W Portable Power Station Solar Generator</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092773-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 209,00 ? For NEWTRAL MagicH-BP Ergonomic Chair With Footrest, Auto-Following Backrest</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-950586-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 224,99 ? For Kugoo Kirin S1 PRO 8Inch Tires Foldable Electric Scooter - 36V 7.5Ah Battery & 350W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-761160-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 3% OFF for Sitewide</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109149-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 30? OFF for WANBO DaVinci 1 Pro Projector, 600 ANSI, Native 1080P</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107236-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 4,5% OFF for E-Bikes</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107238-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 4,5% OFF for E-Scooters</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107230-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 4,5% OFF for Portable Power Stations & Solar Panels & Battery Pack</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-977678-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 409,00 ? For BOGIST M5 Pro 12 Inch Tire Foldable Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-850433-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 449,99 ? For KUGOO KIRIN M3 Foldable Electric Scooter</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

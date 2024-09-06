@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - DUOTTS F26 Electric Bike
-date: 2024-09-05T04:28:41.447Z
-updated: 2024-09-06T04:28:41.447Z
+date: 2024-09-05T04:44:19.301Z
+updated: 2024-09-05T04:44:19.301Z
 categories:
   - Auto & Sport
 ---
@@ -9,8 +9,7 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h4 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">DUOTTS F26 Electric Bike</h4>
-    <p class="text-sm leading-4 font-medium text-white sm:text-slate-500 dark:sm:text-slate-400">GPSS10</p>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">DUOTTS F26 Electric Bike</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
@@ -22,7 +21,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(18.18k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(39.62k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -38,55 +37,9 @@ categories:
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
     <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118628%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118628%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: GPSS10</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-  Free Shipping 
-    <div>
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118628%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="bg-green-600 text-white text-sm leading-6 font-medium py-2 px-3 rounded-lg">GPSS10</button>
-    </div>
+    Free Shipping 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1231533-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6.93 for Lost Vape Orion Bar Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231542-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6.95 for MNKE Bars Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231541-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.62 for IJOY Bar IC8000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231539-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.62 for RAZ CA6000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231530-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.81 for Lost Mary OS5000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231526-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $8.5 for Juice Head 5K Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231538-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $8.5 for Lucid Charge Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231522-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $8.69 for 10000 Puffs Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054138-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 10? OFF for KTC H27T22 Gaming Monitor 27-Inch 2560X1440 QHD 165Hz</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231521-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - 12% Off for Smuth 20K Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231488-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 23.97% Off MNKE Bars XL 25K Zero Nicotine Disposable Vape 18Ml, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106578-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 249,99 ? For NEWTRAL NT001 Ergonomic Chair Adaptive Lower Back Support</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231487-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.59% Off GYYR WYNN Bar Challenger 30K Disposable Vape 5%, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106547-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 259,00 ? For MINIX Z100-0dB Mini PC, Intel N100 Quad-Core 3.4GHz</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-845549-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 34.80% Off for VOOPOO Doric 60 Pod Mod Kit 2500mAh, only $14.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-651969-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 600? - 30? Discount for Sitewide</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1005307-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 749,00 ? For FOSSiBOT F2400 2048Wh/2400W Portable Power Station</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106559-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 799,00 ? For Touroll J1 Trekking Bike With 250W Motor,15.6Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020430-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 809,00 ? For JOYOR S10-S 10? Air Tires Foldable Electric Scooter - Dual 1000W DC Motor & 60V 18Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106566-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 849,00 ? For Touroll J1 ST Trekking Bike With 250W Motor, 15.6Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231470-share-128178-sale/"><u>Latest 2024/09 Discount Coupons - EU Oukitel Power 5% Off</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231471-share-128178-sale/"><u>Latest 2024/09 Discount Coupons - US Oukitel Power 5% Off</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
