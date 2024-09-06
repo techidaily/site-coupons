@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 32.02%% Off for Vaporesso GTX Go 40 Pod Kit 40W 1500mAh, only $13.59
-date: 2024-09-05T01:49:29.860Z
-updated: 2024-09-05T01:49:29.860Z
+date: 2024-09-05T01:55:28.974Z
+updated: 2024-09-05T01:55:28.974Z
 categories:
   - Starter Kits
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(20.39k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(45.49k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

@@ -1,9 +1,9 @@
 ---
 title: Latest 2024/09 Discount Coupons - Xiaomi NexTool 9 in 1 Multifunctional Wrench Folding Knife
-date: 2024-09-05T01:49:29.775Z
-updated: 2024-09-05T01:49:29.775Z
+date: 2024-09-05T01:55:28.863Z
+updated: 2024-09-05T01:55:28.863Z
 categories:
-  - Tool &Amp;amp; 3D Printer
+  - Tool & 3D Printer
 ---
 
 
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(45.62k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(42.35k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

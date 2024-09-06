@@ -1,9 +1,9 @@
 ---
-title: Latest 2024/09 Discount Coupons - RAX Spring and Summer Men&amp;#39;s and Women&amp;#39;s River Trekking Ultra-Light Speed Interference Water Fishing Hiking Hiking Shoes 82-5K463
-date: 2024-09-05T01:49:29.789Z
-updated: 2024-09-05T01:49:29.789Z
+title: Latest 2024/09 Discount Coupons - RAX Spring and Summer Men's and Women's River Trekking Ultra-Light Speed Interference Water Fishing Hiking Hiking Shoes 82-5K463
+date: 2024-09-05T01:55:28.879Z
+updated: 2024-09-05T01:55:28.879Z
 categories:
-  - Auto &Amp;amp; Sport
+  - Auto & Sport
 ---
 
 
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(11.14k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(35.62k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

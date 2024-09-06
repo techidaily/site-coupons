@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - $3 Off for SMOK Nord X 60W Pod Kit
-date: 2024-09-05T01:49:29.850Z
-updated: 2024-09-05T01:49:29.850Z
+date: 2024-09-05T01:55:28.955Z
+updated: 2024-09-05T01:55:28.955Z
 categories:
   - Coupon Code
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(33.69k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(6.63k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
