@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - FNIRSI 2C23T 3IN1 Dual Channel 10MHZ*2 50MS/S Handheld Digital Oscilloscope Multimeter + Function Signal Generator
-date: 2024-09-05T13:12:57.374Z
-updated: 2024-09-06T13:12:57.374Z
+date: 2024-09-05T15:33:52.564Z
+updated: 2024-09-05T15:33:52.564Z
 categories:
   - Tool & 3D Printer
 ---
@@ -21,7 +21,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(8.29k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(37.10k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,46 +43,3 @@ categories:
     Free Shipping 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117877-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Costar PS350 Portable Projector Smart Home Outdoor Projector 1080P HD Led Cinema 3000 Lumens Business Meeting Room</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117881-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - CUKTECH Mobile Power Bank 30W Power Block PB100</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117880-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - CUKTECH Power Block with Built-In Cable 20000mAh PB200N</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117886-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - EU Version OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117884-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - FENGMI S5 Mini Laser Projector</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117873-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Formovie V10</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117888-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Realme 12 Pro Plus</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117811-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117810-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Hagibis Desktop Typec Expansion Dock Expansion Dock M.2 Hard Drive Box Usb Converter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117872-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - KuKirin G3 Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117879-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Mijia Enchen Blackstone 8 Shaver Smart Control Edition</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117870-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - MIYOO A30 Retro Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117868-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Motorola Moto X50 Ultra CN ROM Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117891-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Outdoor Portable Electric Car Inflatable Pump Outdoor Tent SUP Pulp Board Kayak Wireless Inflatable Pump</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117876-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Nintendo Switch? Lite JP Version - ��Dual System Cracked Version��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117869-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - NUBIA Z60 ULTRA CN ROM Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117874-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OnePlus ACE 3V CN ROM VersionColor S</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117889-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OPPO FIND X6 PRO CN Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117812-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Original Xiaomi Watch H1</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117871-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - POCO F6 Pro Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117885-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Realme GT Neo 6 SE CN ROM Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117890-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Vivo X100 Ultra</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117883-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - VIVO X100S PRO</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117887-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi 13T Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117878-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Wireless Car Washing Machine 2</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117882-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Youpin Honeywell Air Outlet Gravity Car Phone Holder</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117875-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Youpin Mchenike KT68 Smart Screen Wireless Bluetooth Three-Mode Gaming Keyboard</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
