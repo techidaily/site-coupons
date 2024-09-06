@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 36.85%% Off for Geekvape H45 (Aegis Hero 2) Pod Mod Kit, only $23.99
-date: 2024-09-05T04:19:16.003Z
-updated: 2024-09-05T04:19:16.003Z
+date: 2024-09-05T04:25:10.797Z
+updated: 2024-09-05T04:25:10.797Z
 categories:
   - Starter Kits
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(43.05k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(5.75k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
