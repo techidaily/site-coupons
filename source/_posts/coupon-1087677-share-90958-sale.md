@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 20.01%% Off VIHO Turbo 10000 Rechargeable Disposable Vape, only $11.99
-date: 2024-09-05T01:55:41.158Z
-updated: 2024-09-06T01:55:41.158Z
+date: 2024-09-05T01:57:04.186Z
+updated: 2024-09-06T01:57:04.186Z
 categories:
   - Disposable Pod Kits
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(3.41k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(12.74k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -71,6 +71,7 @@ categories:
 <li><a href="https://coupons.techidaily.com/coupon-902959-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.02%% Off for Eleaf iJust D20 Vape Pen Kit 1500mAh 30W, only $14.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-901892-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.76%% Off for Uwell Caliburn GK2 Pod System Kit 690mAh 18W, only $15.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-933468-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.95%% Off for Vapcell INR21700 Battery 4200mAh 3.7V 30A, only $6.49</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-931313-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 41.20%% Off for Uwell Caliburn A2S Pod System Kit, only $9.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-924787-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 45.50%% Off for Geekvape Sonder U Pod System Kit 1000mAh 20W, only $5.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-929032-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 50.02%% Off for DotMod dotStick Revo Pod System Kit 35W 3.5Ml, only $14.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-929696-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 50.03%% Off Cloud Bar Geerdun Boom 10000 Puffs Rechargeable Disposable Vape Kit 17Ml, only $8.99</u></a></li>
@@ -78,6 +79,7 @@ categories:
 <li><a href="https://coupons.techidaily.com/coupon-921237-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 56.83%% Off for Lost Vape Centaurus Q200 Box Mod 200W, only $18.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-931572-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 59.33%% Off for Geekvape T200 (Aegis Touch) Box Mod 200W, only $23.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-928013-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 60.88%% Off for Vandy Vape Pulse AIO.5 Kit 80W, only $17.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-928694-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 64.31%% Off for Vaporesso LUXE X Pod System Kit 1500mAh 40W, only $9.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-907093-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 66.68%% Off SMOK G-PRIV 4 Vape Mod Kit 230W, only $19.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-907094-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 76.02%% Off SMOK G-PRIV 4 Box Mod 230W, only $11.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-913252-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - Only $9.99 VOOPOO Drag Q Pod System Kit 1250mAh 25W</u></a></li>
@@ -90,14 +92,8 @@ categories:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

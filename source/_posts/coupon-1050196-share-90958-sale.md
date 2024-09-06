@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 43.78%% Off Vecee Lumos Disposable Vape Kit 9000 Puffs 18Ml, only $8.99
-date: 2024-09-05T01:55:40.315Z
-updated: 2024-09-06T01:55:40.315Z
+date: 2024-09-05T01:57:03.489Z
+updated: 2024-09-06T01:57:03.489Z
 categories:
   - Disposable Pod Kits
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(7.12k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(29.78k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -62,12 +62,13 @@ categories:
 <li><a href="https://coupons.techidaily.com/coupon-901522-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 34.72%% Off for Vandy Vape Gaur-18 18650 Mod 200W, only $34.59</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-925254-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 35.25%% Off for SMOK Novo 2X Pod System Kit 800mAh 20W, only $13.59</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-921235-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 36.70%% Off for SMOK Solus 2 Pod System Kit 700mAh 17W, only $7.59</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-904014-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.52%% Off for Geekvape Wenax H1 Pod System Kit 1000mAh, only $9.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-931982-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.79%% Off for Freemax Marvos X Pod Mod Kit 100W, only $27.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-934131-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.48%% Off for Geekvape Z Sub-Ohm SE Tank 29Mm 5.5Ml, only $15.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-912154-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.90%% Off for Thunderhead Creations Blaze RTA 26Mm 2Ml, only $21.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-915303-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.01%% Off for Hellvape Dead Rabbit 3 RTA 25Mm 3.5Ml, only $20.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-920919-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.01%% Off for Innokin GoZee Vape Kit 2100mAh 60W, only $23.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-902959-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.02%% Off for Eleaf iJust D20 Vape Pen Kit 1500mAh 30W, only $14.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-901892-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.76%% Off for Uwell Caliburn GK2 Pod System Kit 690mAh 18W, only $15.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-933468-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.95%% Off for Vapcell INR21700 Battery 4200mAh 3.7V 30A, only $6.49</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-931313-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 41.20%% Off for Uwell Caliburn A2S Pod System Kit, only $9.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-924787-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 45.50%% Off for Geekvape Sonder U Pod System Kit 1000mAh 20W, only $5.99</u></a></li>
@@ -78,6 +79,7 @@ categories:
 <li><a href="https://coupons.techidaily.com/coupon-931572-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 59.33%% Off for Geekvape T200 (Aegis Touch) Box Mod 200W, only $23.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-928013-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 60.88%% Off for Vandy Vape Pulse AIO.5 Kit 80W, only $17.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-928694-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 64.31%% Off for Vaporesso LUXE X Pod System Kit 1500mAh 40W, only $9.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-907093-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 66.68%% Off SMOK G-PRIV 4 Vape Mod Kit 230W, only $19.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-907094-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 76.02%% Off SMOK G-PRIV 4 Box Mod 230W, only $11.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-913252-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - Only $9.99 VOOPOO Drag Q Pod System Kit 1250mAh 25W</u></a></li>
 </ul></div>
@@ -89,14 +91,8 @@ categories:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

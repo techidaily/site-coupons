@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - $7.88 for Huff Buzz Exfenty Disposable Vape
-date: 2024-09-05T01:55:39.837Z
-updated: 2024-09-06T01:55:39.837Z
+date: 2024-09-05T01:57:03.182Z
+updated: 2024-09-06T01:57:03.182Z
 categories:
   - Coupon Code
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(23.36k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(46.58k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -57,15 +57,12 @@ categories:
 <li><a href="https://coupons.techidaily.com/coupon-939159-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 32.15%% Off for ThunderHead Creations Blaze Solo RDA 24Mm, only $18.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-920596-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 32.57%% Off for Steam Crave Aromamizer Plus V3 RDTA 30Mm 12Ml/3ml, only $28.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-936625-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.35%% Off for SMOK IGEE A1 Pod System Kit, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-924525-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.35%% Off for VOOPOO VMATE E Pod System Kit 1200mAh 20W, only $15.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-920918-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 34.64%% Off for Vaporesso OSMALL 2 Pod System Kit 450mAh 2Ml, only $8.49</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-901522-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 34.72%% Off for Vandy Vape Gaur-18 18650 Mod 200W, only $34.59</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-925254-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 35.25%% Off for SMOK Novo 2X Pod System Kit 800mAh 20W, only $13.59</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-921235-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 36.70%% Off for SMOK Solus 2 Pod System Kit 700mAh 17W, only $7.59</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-904014-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.52%% Off for Geekvape Wenax H1 Pod System Kit 1000mAh, only $9.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-931982-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.79%% Off for Freemax Marvos X Pod Mod Kit 100W, only $27.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-934131-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.48%% Off for Geekvape Z Sub-Ohm SE Tank 29Mm 5.5Ml, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-912154-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.90%% Off for Thunderhead Creations Blaze RTA 26Mm 2Ml, only $21.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-915303-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.01%% Off for Hellvape Dead Rabbit 3 RTA 25Mm 3.5Ml, only $20.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-920919-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.01%% Off for Innokin GoZee Vape Kit 2100mAh 60W, only $23.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-902959-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.02%% Off for Eleaf iJust D20 Vape Pen Kit 1500mAh 30W, only $14.99</u></a></li>
@@ -92,8 +89,8 @@ categories:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

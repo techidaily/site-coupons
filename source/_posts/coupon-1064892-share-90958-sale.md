@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 29.64%% Off OXVA Xlim SQ Pro Pod System 30W, only $18.99
-date: 2024-09-05T01:55:39.651Z
-updated: 2024-09-06T01:55:39.651Z
+date: 2024-09-05T01:57:02.975Z
+updated: 2024-09-06T01:57:02.975Z
 categories:
   - Starter Kit
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(48.10k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(27.37k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -45,14 +45,22 @@ categories:
 </div>
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-931573-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 22.86%% Off for Geekvape T200 (Aegis Touch) Vape Mod Kit 200W, only $53.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-934183-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 21.44%% Off Puff Hotbox Disposable Vape Kit 7500 Puffs 16Ml, only $10.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-921239-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.84%% Off for SMOK MAG 18 Vape Kit 230W With TFV18 Tank 7.5Ml, only $29.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-922358-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.01%% Off for SMOK Nord 5 Pod System Kit 2000mAh 80W, only $20.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-922008-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 27.28%% Off for Geekvape H45 RTE (Aegis Hero 2 RTE) Pod Mod Kit 1400mAh 45W, only $23.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-931576-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.79%% Off for R and M Tornado 9000 Puffs Rechargeable Disposable Kit 18Ml, only $8.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-910061-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.96%% Off for Geekvape B60 (Aegis Boost 2) Pod Mod Kit 2000mAh 60W, only $28.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-929358-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 31.83%% Off for Vaporesso LUXE QS Pod System Kit 1000mAh 2Ml, only $14.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-939159-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 32.15%% Off for ThunderHead Creations Blaze Solo RDA 24Mm, only $18.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-936625-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.35%% Off for SMOK IGEE A1 Pod System Kit, only $11.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-924525-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.35%% Off for VOOPOO VMATE E Pod System Kit 1200mAh 20W, only $15.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-921235-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 36.70%% Off for SMOK Solus 2 Pod System Kit 700mAh 17W, only $7.59</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-904014-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.52%% Off for Geekvape Wenax H1 Pod System Kit 1000mAh, only $9.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-931982-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 37.79%% Off for Freemax Marvos X Pod Mod Kit 100W, only $27.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-934131-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.48%% Off for Geekvape Z Sub-Ohm SE Tank 29Mm 5.5Ml, only $15.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-912154-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 38.90%% Off for Thunderhead Creations Blaze RTA 26Mm 2Ml, only $21.99</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-920919-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.01%% Off for Innokin GoZee Vape Kit 2100mAh 60W, only $23.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-902959-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.02%% Off for Eleaf iJust D20 Vape Pen Kit 1500mAh 30W, only $14.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-901892-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.76%% Off for Uwell Caliburn GK2 Pod System Kit 690mAh 18W, only $15.99</u></a></li>
 <li><a href="https://coupons.techidaily.com/coupon-931313-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 41.20%% Off for Uwell Caliburn A2S Pod System Kit, only $9.99</u></a></li>
@@ -74,8 +82,8 @@ categories:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
