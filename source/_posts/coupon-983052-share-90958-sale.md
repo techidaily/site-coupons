@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 30.56%% Off for Vandy Vape Requiem RTA 24Mm 4.5Ml, only $24.99
-date: 2024-09-05T15:35:18.067Z
-updated: 2024-09-06T15:35:18.067Z
+date: 2024-09-05T22:23:36.625Z
+updated: 2024-09-05T22:23:36.625Z
 categories:
   - Tanks/Atomizers
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(16.84k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(22.07k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,39 +44,3 @@ categories:
     30.56% off for Vandy Vape Requiem RTA 24mm 4.5ml, only $24.99 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1226648-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - "$6.88 for https://www.eightvape.com/products/lost-mary-x-urban-tale-watermelon-ice-salt-nic-vape-juice "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226651-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6.88 for Lost Mary X Urban Tale Strawberry Mango Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226650-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6.88 for Lost Mary X Urban Tale Triple Berry Ice Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226649-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6.88 for Lost Mary X Urban Tale Tropic Mango Ice Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226646-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for LYF Strawberry Lemonade Ice Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226652-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 FOR Pachamama Plus+ Strawberry Orange Banana TFN Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226647-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $8.88 for Pod Juice X RAZ Blue Razz Cotton Clouds TFN Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1102163-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 23.09% Off HQD Wapor Pro Disposable Vape Kit 20000 Puffs, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067068-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.33% Off Horizon Binaries SV15000 Disposable Vape, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086350-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.33% Off SnowWolf Smart HD 15K Disposable Vape 15000 Puffs Quick Charge, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100387-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.14% Off Geek Bar Digiflavor Lush 20K Disposable Vape Kit 18Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058127-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 27.34% Off Vaporesso Armour Max Box Mod 220W, only $28.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058966-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 28.13% Off SMOK Novo Master Pod System Kit 1000mAh, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-943112-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 31.83% Off for Geekvape AU(Aegis U) Pod System Kit 800mAh 20W, only $14.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1068463-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 31.83% Off Rincoe Jellybox Nano 3 Pod System Kit, only $14.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116901-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.03% Off Remit Mega 18000 Disposable Vape 18Ml, only $9.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108208-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 42.70% Off ELFWORLD G20000 Disposable Vape Kit 22Ml, only $8.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-898502-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 45.50% Off for Samsung 30Q 18650 Battery 15A 3.6V 3000mAh (1Pc/Pack), only $5.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107188-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - UK_40% Off On Devices</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226329-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - UK_POD51_buy 5 Get 1 for Free</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

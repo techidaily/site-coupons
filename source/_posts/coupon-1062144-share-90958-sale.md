@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 27.45%% Off Puffmi Dura Disposable Vape Kit 9000 Puffs 20Ml, only $9.99
-date: 2024-09-05T15:35:33.247Z
-updated: 2024-09-06T15:35:33.247Z
+date: 2024-09-05T22:23:36.606Z
+updated: 2024-09-05T22:23:36.606Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(8.71k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(36.98k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,45 +44,3 @@ categories:
     27.45% off Puffmi Dura Disposable Vape Kit 9000 Puffs 20ml, only $9.99 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1107748-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10 Off for Geekvape Aegis S100 (Solo 2) Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107473-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $13.99 for Zombi Live Badder Disposable Vape Kit 3.5G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107472-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $16.99 for Suorin Fero Pod System Kit 1000mAh 25W</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107746-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $2 Off for Uwell Caliburn AK2 Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107698-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Lost Vape URSA Baby 18W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107705-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK Nfix Pro 25W Pod System Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107728-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK Novo 4 Mini 25W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107702-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK RPM 5 80W Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107700-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK RPM 5 Pro 80W Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107679-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for THATTHAT Dooby 18000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107699-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Uwell Caliburn GK2 18W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107707-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Vaporesso XROS 2 16W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107740-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Vaporesso XROS Nano Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107747-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for VooPoo Doric 60W Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107704-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $5 Off for VooPoo Argus GT 2 200W Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107643-share-64118-sale/"><u>Latest 2024/09 Discount Coupons - $5.00 Off the Entire Order on Foscammall</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107745-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6 Off for Geekvape H45 (Aegis Hero 2) Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107642-share-64118-sale/"><u>Latest 2024/09 Discount Coupons - 10% Off Entire Order on Foscammall</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107672-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.15% Off Dotmod DotAIO X Essential & Pro AIO Kit, only $124.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107744-share-127380-sale/"><u>Latest 2024/09 Discount Coupons - Discover Our New Release! Enjoy Your Early Bird Price Just for This Time!!!</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
