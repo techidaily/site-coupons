@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 51.53%% Off for Uwell Crown M Pod Mod Kit 1000mAh 35W, only $15.99
-date: 2024-09-05T22:23:36.618Z
-updated: 2024-09-05T22:23:36.618Z
+date: 2024-09-05T22:26:06.132Z
+updated: 2024-09-05T22:26:06.132Z
 categories:
   - Starter Kit
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(9.80k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(47.65k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

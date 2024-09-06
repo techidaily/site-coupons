@@ -1,7 +1,7 @@
 ---
-title: "Latest 2024/09 Discount Coupons - \"Ursime \\\"Buy 4Th Get 80%% Off (Code: URS80)\\\"\""
-date: 2024-09-05T15:34:43.325Z
-updated: 2024-09-06T15:34:43.325Z
+title: "Latest 2024/09 Discount Coupons - \"\\\"Ursime \\\\\\\"Buy 4Th Get 80%% Off (Code: URS80)\\\\\\\"\\\"\""
+date: 2024-09-05T22:26:08.536Z
+updated: 2024-09-05T22:26:08.536Z
 categories:
   - Women's Apparel
 ---
@@ -9,7 +9,7 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">&quot;Buy 4Th Get 80%% Off (Code: URS80)&quot;</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">&quot;\&quot;Buy 4Th Get 80%% Off (Code: URS80)\&quot;&quot;</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(21.86k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(12.71k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -40,40 +40,5 @@ categories:
     <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fursime.pxf.io%2Fc%2F5597632%2F2048902%2F16384'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    "Buy 4Th Get 80%% Off (Code: URS80)"  </p>
+    "\"Buy 4Th Get 80%% Off (Code: URS80)\""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117991-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 8BitDo M30 Bluetooth Gamepad</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117992-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 8BitDo Micro Bluetooth Gamepad</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117998-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 8BitDo Retro Mechanical Keybord</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118004-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Redmi Watch 3 Active</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118005-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Xiaomi Mijia Light Thermos Cup</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118003-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Niento Switch Storage Bag Large Capacity Game Theme</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117999-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO New Switch OLED Storage Bag EVA Anti-Fall Switch Console Portable Storage Bag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118001-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO PS5 Host Multi-Functional Fan Cooling Base White PS5 Handle Dual Charging Storage Disc Rack</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117993-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO PS5 SLIM Host Fan Cooling Base PS5 Thin and Light Universal Card Disc Headphone Collection Nanoscaffold</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118002-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO Switch Game Card Box Black Blue and White Nintendo Ns Game Card 24-in-1 Switch Cassette Box</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117994-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Suitable for Nintendo Switch Storage Large Bag Oled Complete Set of Accessories Storage Bag Portable Crossbody Bag Handbag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118000-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Switch Oled Host Storage Bag Waterproof Dust-Return Card Box Storage Portable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117997-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Massage Gun EU Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117996-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Massage Gun Mini TypeC Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117990-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Smartmi Fan 2S - EU Plug</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117995-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Air Summer Quilt</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118008-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Automatic Water Suction Electric Water Gun</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118007-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Sharge Mini Emergency Capsule Power Bank 5000mAh</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118006-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Swimming Suit</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

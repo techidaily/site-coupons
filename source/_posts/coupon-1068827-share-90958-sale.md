@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 26.68%% Off CZAR CZ9000 Disposable Vape Kit 17Ml, only $10.99
-date: 2024-09-05T22:23:36.596Z
-updated: 2024-09-05T22:23:36.596Z
+date: 2024-09-05T22:26:06.109Z
+updated: 2024-09-05T22:26:06.109Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(11.65k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(30.55k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

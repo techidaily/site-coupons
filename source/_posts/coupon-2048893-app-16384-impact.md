@@ -1,7 +1,7 @@
 ---
-title: "Latest 2024/09 Discount Coupons - \"Ursime \\\"Buy 3Th Get 50%% Off (Code: URS50)\\\"\""
-date: 2024-09-05T15:34:43.246Z
-updated: 2024-09-06T15:34:43.246Z
+title: "Latest 2024/09 Discount Coupons - \"\\\"Ursime \\\\\\\"Buy 3Th Get 50%% Off (Code: URS50)\\\\\\\"\\\"\""
+date: 2024-09-05T22:26:08.535Z
+updated: 2024-09-05T22:26:08.535Z
 categories:
   - Women's Apparel
 ---
@@ -9,7 +9,7 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">&quot;Buy 3Th Get 50%% Off (Code: URS50)&quot;</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">&quot;\&quot;Buy 3Th Get 50%% Off (Code: URS50)\&quot;&quot;</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(7.62k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(26.65k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -40,47 +40,5 @@ categories:
     <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fursime.pxf.io%2Fc%2F5597632%2F2048893%2F16384'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    "Buy 3Th Get 50%% Off (Code: URS50)"  </p>
+    "\"Buy 3Th Get 50%% Off (Code: URS50)\""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118061-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Amazfit GTS 2 MiniGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118060-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Amazfit GTS Fitness Smartwatch</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117980-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - BioloMix Mill Grinder</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117982-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version POCO C65</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117983-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version POCO M5s</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118062-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Realme Note 50 without Charger</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118057-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Xiaomi Buds 3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118059-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HiBREW Dual Boiler System Barista Pro 20Bar Bean to Espresso Cafetera Coffee Machine with Full Kit for Cafe Hotel Restaurant H7A</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118063-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HiBREW G5 Coffee Machine</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117985-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Insta360 GO 3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118056-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Oneplus 12R Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118055-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OnePlus Nord 3 5G Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117989-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Original Xiaomi Focus Pen</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117981-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Sonoff NSPanel WiFi Smart Scene Switch Thermostat Temperature All-in-One Control Touch Screen</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118064-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Tuya Smart Door Lock Smart Home</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117988-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Wireless Car Washing Machine</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117984-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Redmi Note 12 Pro 4GGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118058-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Smart Band 7 ProGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117987-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin GaN 45W Power Bank Comes with Type-C and Apple MFi Certified Data Cable 15000mAh</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117986-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Lekono Wireless Lithium Battery Multi-Function Powerful High Pressure Car Washing Machine</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

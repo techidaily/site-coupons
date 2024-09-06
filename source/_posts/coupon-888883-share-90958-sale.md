@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 35.14%% Off for SMOK RPM 5 & RPM 5 Pro Pod Mod Kit 2000mAh 80W, only $23.99
-date: 2024-09-05T22:23:36.635Z
-updated: 2024-09-05T22:23:36.635Z
+date: 2024-09-05T22:26:06.148Z
+updated: 2024-09-05T22:26:06.148Z
 categories:
   - General
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(27.16k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(29.07k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
