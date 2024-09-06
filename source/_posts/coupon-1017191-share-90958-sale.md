@@ -1,92 +1,45 @@
 ---
-title: Share Coupon Code Of Vapesourcing Electronics Co.,Ltd. - 50.04%% Off for Joyetech WideWick Air Pod Kit 800mAh 12W, only $5.99
-date: 2024-09-04T12:56:07.179Z
-updated: 2024-09-05T12:56:07.179Z
+title: Latest 2024/09 Discount Coupons - 50.04%% Off for Joyetech WideWick Air Pod Kit 800mAh 12W, only $5.99
+date: 2024-09-05T01:49:29.901Z
+updated: 2024-09-05T01:49:29.901Z
 categories:
   - Starter Kit
 ---
 
 
-<main class="px-4 py-6 sm:p-6 md:px-8 md:py-10">
-  <div class="mx-auto grid max-w-4xl grid-cols-1">
-    <div class="relative col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 p-3 sm:row-start-2 sm:bg-none sm:p-0 lg:row-start-1">
-      <h3 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">50.04% off for Joyetech WideWick Air Pod Kit 800mAh 12W, only $5.99</h3>
-    </div>
-        <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
-      <img src="https://static.shareasale.com/image/90958/deal/000000_16801661373446.png" alt="" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
-    </div>
-        <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
-      <dt class="sr-only">Reviews</dt>
-      <dd class="flex items-center text-indigo-600 dark:text-indigo-400">
-        <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
-          <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-        </svg>
-        <span>4.97 <span class="font-normal text-slate-400">(26.32k)</span></span>
-      </dd>
-      <dt class="sr-only">ExpiresDate</dt>
-      <dd class="flex items-center">
-        <svg width="2" height="2" aria-hidden="true" fill="currentColor" class="mx-3 text-slate-300">
-          <circle cx="1" cy="1" r="1" />
-        </svg>
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <rect x="3" y="3" width="18" height="18" rx="2" fill="#fff" />
-          <path d="M6 10L18 10" stroke="red" stroke-width="2" fill="none" />
-          <path d="M10 6L10 18" stroke="#fff" stroke-width="2" fill="none" />
-        </svg>
-        Expires May 1, 2025      </dd>
-    </dl>
-    <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-      <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1017191%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">
-       GET DEAL
-      </button>
-    </div>
-    <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">50.04% off for Joyetech WideWick Air Pod Kit 800mAh 12W, only $5.99 
-</p>
-    <p class="mt-4">
-      <code class="bg-purple-900 p-4 text-sm font-bold text-white" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1017191%26m%3D90958%26u%3D4338022'), '_blank');void(0);">Coupon Code: <span class="bg-green-500 p-2 rounded tracking-widest">JWAK</span></code>
-    </p>
+<div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
+  <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
+    <h4 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">50.04% off for Joyetech WideWick Air Pod Kit 800mAh 12W, only $5.99</h4>
+    <p class="text-sm leading-4 font-medium text-white sm:text-slate-500 dark:sm:text-slate-400">JWAK</p>
   </div>
-</main>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117949-share-97331-sale/"><u>Share Coupon Code Of Gshopper - DOOGEE N55 9+128 GB Android 14 Smart Phone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117950-share-97331-sale/"><u>Share Coupon Code Of Gshopper - DOOGEE N55 Pro 16+256GB Android 14 Smart Phone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117948-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Doogee T30 Max Tablet PCs 12.4  IPS 4K Display 20+512GB Android 14</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117951-share-97331-sale/"><u>Share Coupon Code Of Gshopper - DOOGEE T30SE 9+128GB 11 Inch 2.4K Display 8580mAh Tablet</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118018-share-97331-sale/"><u>Share Coupon Code Of Gshopper - EU Version OnePlus Pad Go</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117937-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Flextailgear Outdoor Portable Handheld Mosquito Repellent</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117952-share-97331-sale/"><u>Share Coupon Code Of Gshopper - FOSSiBOT F106 Pro 103Db Hight Volume 3W Camping Lights Rugged Smartphone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117946-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Global Version Realme C53</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117947-share-97331-sale/"><u>Share Coupon Code Of Gshopper - GPD MicroPC Pocket Laptop Mini PC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117954-share-97331-sale/"><u>Share Coupon Code Of Gshopper - HOTWAV R7 Rugged Tablet 12+256G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117936-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Kodak High-Speed USB Flash Drive 64G, 3.2 Type-C Interface, Suitable for Mobile Phones and Computers</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117938-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Mija Polarized Sunglasses Set</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118016-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Nintendo OLED Switch HK Version ��Dual System Cracked Version��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118015-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Nintendo Switch HK Version ��Dual System Cracked Version��-Second-Hand , 95%% New</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118017-share-97331-sale/"><u>Share Coupon Code Of Gshopper - POCO F5 Pro Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118020-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Realme 12 Pro Plus CN ROM Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118022-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Samsung Galaxy S24 S9210 CN ROMVersion</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118021-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Samsung S23 FE S7110 CN ROM Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117953-share-97331-sale/"><u>Share Coupon Code Of Gshopper - TANK 3 Pro - Newly Upgraded 5G 23800mAh 200MP Projection Rugged Phone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118019-share-97331-sale/"><u>Share Coupon Code Of Gshopper - XIAOMI 10 Gigabit Router CN Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117939-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Colorful Neutral Pen 5Pcs</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117942-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Eco-Friendly Dupont Paper Crossbody Bag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117944-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Eco-Friendly Dupont Paper Handbag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117943-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Eco-Friendly Dupont Paper Shoulder Bag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117941-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Gel Pen Black 10Pcs</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117940-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Gel Pen White 10Pcs</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117945-share-97331-sale/"><u>Share Coupon Code Of Gshopper - Xiaomi Mijia Clip Pusher (with 168 Reusable Non-Hole Binding Clips)</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+  
+  <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
+      <img src="https://static.shareasale.com/image/90958/deal/000000_16801661373446.png" alt="" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
+    
+  </div>
+  <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
+    <dt class="sr-only">Reviews</dt>
+    <dd class="flex items-center text-indigo-600 dark:text-indigo-400">
+      <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
+        <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      </svg>
+      <span>4.99 <span class="font-normal text-slate-400">(47.84k)</span></span>
+    </dd>
+    <dt class="sr-only">ExpiresDate</dt>
+    <dd class="flex items-center">
+      <svg width="2" height="2" aria-hidden="true" fill="currentColor" class="mx-3 text-slate-300">
+        <circle cx="1" cy="1" r="1" />
+      </svg>
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <rect x="3" y="3" width="18" height="18" rx="2" fill="#fff" />
+        <path d="M6 10L18 10" stroke="red" stroke-width="2" fill="none" />
+        <path d="M10 6L10 18" stroke="#fff" stroke-width="2" fill="none" />
+      </svg>
+      Expires May 1, 2025    </dd>
+  </dl>
+  <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1017191%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+  </div>
+  <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">50.04% off for Joyetech WideWick Air Pod Kit 800mAh 12W, only $5.99 
+</p>
+</div>
