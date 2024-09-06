@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 189,99 ? For Lenovo Xiaoxin 100 Projector, 1080P 700ANSI Lumens 2GB 16GB, WiFi 6 Bluetooth 5.0, Auto Focus
-date: 2024-09-05T04:25:16.012Z
-updated: 2024-09-06T04:25:16.012Z
+date: 2024-09-05T04:30:04.074Z
+updated: 2024-09-06T04:30:04.074Z
 categories:
   - Electronics
 ---
@@ -94,8 +94,14 @@ Lenovo Xiaoxin 100, 1080P Projector, projector,    <div>
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

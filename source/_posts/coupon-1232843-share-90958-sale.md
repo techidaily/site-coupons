@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 26.32%% Off Lost Vape Centaurus G80 AIO Pod Mod Kit 80W, only $41.99
-date: 2024-09-05T04:25:36.426Z
-updated: 2024-09-06T04:25:36.426Z
+date: 2024-09-05T04:30:05.513Z
+updated: 2024-09-06T04:30:05.513Z
 categories:
   - Starter Kit
 ---
@@ -97,8 +97,8 @@ categories:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

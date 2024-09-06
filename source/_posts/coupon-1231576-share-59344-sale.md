@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - $11.34 for HorizonTech MICCO N16000 Disposable Vape
-date: 2024-09-05T04:25:27.622Z
-updated: 2024-09-06T04:25:27.622Z
+date: 2024-09-05T04:30:04.951Z
+updated: 2024-09-06T04:30:04.951Z
 categories:
   - Disposable Vapes
 ---
@@ -95,8 +95,8 @@ categories:
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
