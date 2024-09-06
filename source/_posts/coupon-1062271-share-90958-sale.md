@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 40.02%% Off Uwell Whirl F Pod System Kit 450mAh 11W, only $14.99
-date: 2024-09-05T01:55:28.918Z
-updated: 2024-09-05T01:55:28.918Z
+date: 2024-09-05T01:56:55.007Z
+updated: 2024-09-05T01:56:55.007Z
 categories:
   - Starter Kit
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(5.34k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(17.64k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

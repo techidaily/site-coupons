@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 35.31%% Off OZIBAR 18000 Puffs Disposable Vape Kit 25Ml, only $10.99
-date: 2024-09-05T01:55:28.773Z
-updated: 2024-09-05T01:55:28.773Z
+date: 2024-09-05T01:56:54.877Z
+updated: 2024-09-05T01:56:54.877Z
 categories:
   - Disposable Pod Kits
 ---
@@ -23,7 +23,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(26.32k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(47.25k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
