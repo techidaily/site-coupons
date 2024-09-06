@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - Kukirin C1 Pro New Product Light Mobility C Series
-date: 2024-09-05T23:33:03.190Z
-updated: 2024-09-06T23:33:03.190Z
+date: 2024-09-05T23:44:03.628Z
+updated: 2024-09-05T23:44:03.628Z
 categories:
   - Auto & Sport
 ---
@@ -21,7 +21,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(11.96k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(12.94k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,38 +43,3 @@ categories:
     Fast shipping 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118316-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 70Mai-Parking Surveillance Cable, Monitor Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118318-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - AYANEO AIR 1S (AMD 7840U)- 5.5 Inches Handheld PC Game Console Win 11 PSP Laptop Touch Screen Video Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118304-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - BMAX B8 Pro Mini PC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118312-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Elspet Intelligent Cat Toilet</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118303-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Funwater Stand-Up Surfboard Inflatable Paddle Board Sup Paddle Board Water Sports Adult Factory Direct Sales Thickened PVC Water Ski Board320*83*15</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118308-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version OnePlus Nord N30 SE 5G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118305-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - HiBREW Fully Automatic Espresso Cappuccino Latte 19Bar 3 in 1 Coffee Machine Automatic</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118307-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Jeeback G5 Neck Massager 42�� Constant Temperature Hot Compress Intelligent Sitting Posture Reminder Simulation Pulse Massage 6.0</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118310-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - JOYOR A5 Adult Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118319-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - JOYOR S5-Z ELEDCTRIC SCOOTER 2024 NEW</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118321-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Newman Energy Storage Power Supply N1200P</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118309-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OFFICIAL PROTECTIVE BUMPER KARBON CASE FOR ONEPLUS 12</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118317-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - ONEPLUS AIRVOOC 50W WIRELESS CHARGER A1</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118313-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Original Xiaomi Mi Band 8 Pro Quick Release Watch Strap</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118306-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Original Xiaomi S Serie Watch Strap, Support S1/S2/S3</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118320-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Power Station N7576 User Manual</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118311-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Translation Device, Supports Video and Voice Call Translation, 138 Languages, 60 Day Standby, Suitable for iOS and Android</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118314-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Router Ax1500 Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118315-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Youpin Explorer Lightweight Waterproof Crossbody Bag</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

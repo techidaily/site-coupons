@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - 32.15%% Off Eleaf iStick I75 Box Mod 75W, only $18.99
-date: 2024-09-05T23:29:56.500Z
-updated: 2024-09-06T23:29:56.500Z
+date: 2024-09-05T23:44:03.759Z
+updated: 2024-09-05T23:44:03.760Z
 categories:
   - Mods & Batteries
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(11.51k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(27.41k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,40 +44,3 @@ categories:
     32.15% off Eleaf iStick i75 Box Mod 75W, only $18.99 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1107748-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10 Off for Geekvape Aegis S100 (Solo 2) Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108187-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10 Off for Geekvape L200 (Aegis Legend 2) Box Mod Kit 200W</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107746-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $2 Off for Uwell Caliburn AK2 Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107698-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Lost Vape URSA Baby 18W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107705-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK Nfix Pro 25W Pod System Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107728-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK Novo 4 Mini 25W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107702-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK RPM 5 80W Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107700-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for SMOK RPM 5 Pro 80W Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107750-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Uwell Caliburn A2 15W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107699-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Uwell Caliburn GK2 18W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107707-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Vaporesso XROS 2 16W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107740-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Vaporesso XROS Nano Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107749-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Voopoo Argus Pro 80W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107747-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for VooPoo Doric 60W Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108184-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $3 Off for Voopoo V.THRU Pro 25W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108185-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $5 Off for Geekvape Aegis Nano 30W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108186-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $5 Off for SMOK Stick R22 Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107704-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $5 Off for VooPoo Argus GT 2 200W Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107745-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $6 Off for Geekvape H45 (Aegis Hero 2) Pod Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107751-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $9 Off for Lost Vape Thelema Quest 200W Mod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107744-share-127380-sale/"><u>Latest 2024/09 Discount Coupons - Discover Our New Release! Enjoy Your Early Bird Price Just for This Time!!!</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Latest 2024/09 Discount Coupons - Xiaomi 67W GaN Charger 2C1A EU
-date: 2024-09-05T23:31:34.999Z
-updated: 2024-09-06T23:31:34.999Z
+date: 2024-09-05T23:44:03.684Z
+updated: 2024-09-05T23:44:03.684Z
 categories:
   - Consumer Electronics
 ---
@@ -21,7 +21,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(12.46k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(9.78k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,39 +43,3 @@ categories:
     Free Shipping 
   </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118201-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 2 In 1 Headset Smart Glasses Blue Tooth Audio Call AI Voice Noise Reduction</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118204-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GameSir C2 Arcade Fightstick Game Controller</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118205-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GameSir Nova HD Rumble Wireless Controller for Nintendo Switch</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118203-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GameSir X3 Type-C Game Controller & Cooler with 4000 Mm2 Cooling Area</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118213-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Versio Xiaomi Watch 2 Pro Bluetooth?</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118209-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GoPro 11 BLACK Outdoor Riding Motorcycle Diving Ski Waterproof Anti-Shake Vlgo Lure</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118210-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GoPro HERO10 Black</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118212-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - GoPro HERO12 Black - Waterproof Action Camera with 5.3K60 Ultra HD Video</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118211-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Insta360 X3 5.7K 360 Degree Panoramic</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118206-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Logitech K380 Wireless Bluetooth Network Red Keyboard Tablet iPad Office</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118214-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Mijia Automatic Hand Washing Cute Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118198-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Mijia Electric Nose Hair Trimmer</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118202-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Modern Style Flip Clock Turning Time</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118207-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Lenovo KW201 Wireless Keyboard Office Game Dust Mouse Keyboard Keys 104 Set</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118152-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Xiaomi 6A Dual Type-C High-Speed Braided Data Cable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118197-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OneGx1 Pro 7.0-Inch Mini Gaming Laptop</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118200-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - USB Charger 10 Port Multi Device</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118208-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - VIRAN Anti-Shake Sports Camera Motorcycle Driving Recorder Outdoor Waterproof Camera</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118153-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi 6A Dual Type-C Braided Data Cable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118199-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Youpin Showsee Electric Nose Hair Trimmer</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
