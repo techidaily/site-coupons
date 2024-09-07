@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - $7.88 for Yogi Salts Grape Jam Granola Nic Salt Vape Juice 30Ml
-date: 2024-09-05T23:46:08.674Z
-updated: 2024-09-06T23:46:08.674Z
+title: 2024-09 Discount Coupons - $7.88 for Yogi Salts Grape Jam Granola Nic Salt Vape Juice 30Ml | Eight Vape
+date: 2024-09-06T01:05:53.409Z
+updated: 2024-09-06T01:05:53.409Z
 categories:
   - Coupon Code
 ---
@@ -9,10 +9,11 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">$7.88 for Yogi Salts Grape Jam Granola Nic Salt Vape Juice 30ml</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">$7.88 for Yogi Salts Grape Jam Granola Nic Salt Vape Juice 30Ml</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
+      <img src="&quot;&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1099387%26m%3D59344%26u%3D4338022%22'), '_blank');void(0);" alt="GJG30" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(13.41k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(30.13k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -36,51 +37,10 @@ categories:
       No Expires    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1099387%26m%3D59344%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1099387%26m%3D59344%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: GJG30</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1099387%26m%3D59344%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1099387%26m%3D59344%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: GJG30</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-     
-  </p>
+    "" 
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1098865-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for Drip More GOAT Berry Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098868-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for Jam Monster NTD Mango Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098872-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for Jam Monster NTD Mango Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098867-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for Vapetasia Pod Punch Blue Razz Lemon Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098866-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.88 for Vapetasia Pod Punch Hawaiian P.O.G. Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099379-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Berries Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099381-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Berries Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098874-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Gold Kiwi Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098876-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Gold Kiwi Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098877-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Mango Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099383-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Original Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098878-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Strawberry Iced Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099377-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $7.88 for Reds Salts Apple Strawberry Nic Salt Vape Juice 30Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1052142-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.02% Off Fifty Bar Disposable Vape Kit 6500 Puffs 16Ml, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056160-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.68% Off Puff PIXI Pro Disposable Vape Kit 8000 Puffs 14Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1041867-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 36.02% Off Whiff Hero Disposable Vape Kit 6000 Puffs 13Ml, only $9.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1006996-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 40.93% Off for Eleaf iStick Amnis 3 Vape Mod Kit 900mAh 20W, only $12.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1049262-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 41.08% Off Timesvape Heavy Hitter Mechanical Mod, only $32.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1016033-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 50.03% Off Snowplus Go Disposable Vape Kit 10000 Puffs 20Ml, only $8.99</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

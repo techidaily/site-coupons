@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - Save $30 on Order over $200
-date: 2024-09-05T23:47:01.558Z
-updated: 2024-09-06T23:47:01.558Z
+title: 2024-09 Discount Coupons - Save $30 on Order over $200 | EightVape
+date: 2024-09-06T01:05:53.365Z
+updated: 2024-09-06T01:05:53.365Z
 categories:
   - Coupon Code
 ---
@@ -13,7 +13,7 @@ categories:
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
-      <img src="https://static.shareasale.com/image/59344/deal/lQDPJwYaXA8nKYHM8M0C0LBUdudJDzR5WQY2-sN54aMB_720_240.jpg" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1114216%26m%3D59344%26u%3D4338022'), '_blank');void(0);" alt="8VAPE30" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
+      <img src="&quot;https://static.shareasale.com/image/59344/deal/lQDPJwYaXA8nKYHM8M0C0LBUdudJDzR5WQY2-sN54aMB_720_240.jpg&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1114216%26m%3D59344%26u%3D4338022%22'), '_blank');void(0);" alt="8VAPE30" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(19.87k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(30.99k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -37,60 +37,10 @@ categories:
       No Expires    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1114216%26m%3D59344%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1114216%26m%3D59344%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: 8VAPE30</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1114216%26m%3D59344%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1114216%26m%3D59344%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: 8VAPE30</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-     
-  </p>
+    "" 
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1113425-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 10? OFF for JIGOO C500 Cordless Vacuum Cleaner With 500W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1113461-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 110? OFF for Blackview Oscal PowerMax 3600 3600Wh Power Station</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-752737-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 119,00 ? For Proscenic 850T Robot Vacuum Cleaner</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114575-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 140 ? OFF for KTC H27P22S 27 Inches 4K Gaming Monitor, AUO 7.0 FAST IPS, 3840�2160 Resolution</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054313-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 169,00 ? For FOSSiBOT DT1 10.4in FHD Tablet, MT8788 Octa-Core, 8GB RAM 256GB ROM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1049410-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 2% Off for 3D Printers & Laser Engravers</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1038529-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 209,99 ? For KTC H32S17 Gaming Monitor 32-Inch 2560X1440 QHD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054430-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 3% Off for Vacuum Cleaners</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058702-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 30? OFF for Furbulous Automatic Cat Litter Box With App Control</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081671-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 469,99 ? For Mecpow X5 22W Laser Engraving Machine, 600X600mm Engraving Area</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106573-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 479,00 ? For NEJE Max 4 E80 Laser Engraver Cutter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056132-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 499,00 ? For OUKITEL PV400 400W Foldable Portable Solar Panel With Kickstand</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112809-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 5? OFF for Flashfish A101 120W 98Wh 26400mAh Portable Power Station Backup Solar</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112490-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 50? OFF for DUOTTS C29 Electric Bike With Rear Rack , 750W, 48V 15Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-761158-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 500? - 25? Discount for Sitewide - Shareasale</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080561-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 55,99 ? For JIGOO P300 11-In-1 Pet Grooming Vacuum Kit, 3 Speed Modes, 4L Dust Cup</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020432-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 554,00 ? For JOYOR S5 Foldable Electric Scooter Suspension, With Road Approval (ABE)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971600-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 559,00 ? For KUGOO KIRIN M4 Pro Foldable Electric Scooter - 500W Motor & 48V 16Ah Lithium Battery Or 18Ah Lithium Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093808-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 569,00 ? For ENGWE T14 Foldable Electric City Bicycle,250W Brushless Motor & 48V 10Ah Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106577-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 569,00 ? For JOYOR S5-Z Electric Scooter, 48V 13Ah Battery, 600W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099684-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 59,00 ? For WANBO MINI LCD Projector, Multimedia Version, 1080P HD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106554-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 599,00 ? For Touroll U1 26 MTB Electric Bike With 250W Motor, 13Ah Removable Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107232-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 6,5% OFF for Projectors</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107229-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 6% OFF for Mini PC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080534-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 6% OFF for Vacuum Cleaners</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-997399-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 609,00 ? For SCULPFUN S30 Pro Max 20W Laser Engraver Cutter, Automatic Air-Assist, 0.08X0.1mm Laser Focus 32-Bit Motherboard, 410X400mm</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-985138-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 64,99 ? For Tronsmart Bang SE Bluetooth Party Speaker, 3 Lighting Modes, 24 Hours Of Playtime, IPX6 Waterproof</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106555-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 649,00 ? For Touroll U1 29 MTB Electric Bike With 250W Motor, 13Ah Removable Battery</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083522-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 659,00 ? For KUGOO G2 MAX Foldable Electric Scooter, 10 " Pneumatic Tires, 1500W Motor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020426-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 689,00 ? For JOYOR Y8-S 10 Inch Tire Foldable Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1113462-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 70? OFF for Blackview Oscal BP3600 3600Wh Extra Battery Pack For PowerMax 3600</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054317-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 709,00 ? For KUKIRIN G2 MAX 10*2.75 Inch Tires Foldable Off-Road Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099687-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 76,00 ? For WANBO Mini Pro LCD Projector, Android 9.0, HD 720P Native &1080P Support</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-972262-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 98,99 ? For Jimmy F6 Hair Dryer 1800W Electric Portable Negative Ion Noise Reducing</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

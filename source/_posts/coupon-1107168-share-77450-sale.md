@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - 1 199,00 ? For Eleglide C1 Trekking Bike With 250W Ananda Mid-Drive Motor
-date: 2024-09-05T23:51:31.532Z
-updated: 2024-09-06T23:51:31.532Z
+title: 2024-09 Discount Coupons - 1 199,00 ? For Eleglide C1 Trekking Bike With 250W Ananda Mid-Drive Motor | GEEKMAXI.COM
+date: 2024-09-06T01:05:53.167Z
+updated: 2024-09-06T01:05:53.167Z
 categories:
   - Sports&Outdoors
 ---
@@ -9,10 +9,11 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">1 199,00 ? for Eleglide C1 Trekking Bike With 250W Ananda Mid-Drive Motor</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">1 199,00 ? For Eleglide C1 Trekking Bike With 250W Ananda Mid-Drive Motor</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
+      <img src="&quot;&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1107168%26m%3D77450%26u%3D4338022%22'), '_blank');void(0);" alt="CDiIZyhr" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(10.38k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(26.62k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -36,47 +37,10 @@ categories:
       Expires October 31, 2024    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1107168%26m%3D77450%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1107168%26m%3D77450%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: CDiIZyhr</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1107168%26m%3D77450%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1107168%26m%3D77450%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: CDiIZyhr</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    50? off, 
-Eleglide C1, Trekking Bike, ebike, e-bike,  </p>
+    50? Off, 
+Eleglide C1, Trekking Bike, Ebike, E-Bike,  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1110967-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $11.99 for KFBAR Duet 20000 Double Tank Disposable Vape 20Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110989-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 18.54% Off OVNS Prime 16000 Disposable Vape Kit 20Ml, only $8.79</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097874-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 20.01% Off Uwell Dillon EM 25W Pod System Kit, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110614-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 21.61% Off MOVEMENT LV18000 by Lost Vape Disposable Vape Kit 18Ml, only $10.88</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110437-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.15% Off VOOPOO Argus E40 Pod System Kit 1800mAh 40W, only $21.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058126-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 24.62% Off Vaporesso Armour Max Vape Mod Kit 220W with iTank 2, only $48.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110993-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.01% Off Uwell Crown S 75W Pod System Kit 1500mAh, only $17.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1095806-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.19% Off Puff Hotbox Luxe 12K Disposable Vape 20Ml, only $11.88</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089820-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.39% Off Lio Stone 12000 Disposable Vape 18Ml, only $6.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1102161-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 31.78% Off VOZOL Gear Power 20000 Puffs Disposable Vape 20Ml, only $11.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1063871-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.35% Off VOOPOO Argus P1s Pod System Kit 800mAh 25W, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1059543-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.36% Off SFOG NO-825 Disposable Vape Kit 16000 Puffs 15Ml*2, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1070493-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 39.30% Off Uwell Caliburn GK3 Pod System, only $16.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1062743-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 43.35% Off for Uwell Caliburn Explorer Pod System Kit 1000mAh 32W, only $16.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-980596-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 45.50% Off for Lost Vape Ursa Nano Art Pod Kit 800mAh 18W, only $5.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1039939-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 50.03% Off for Vaporesso Veco Go Pod Kit 1500mAh 25W, only $8.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110245-share-93338-sale/"><u>Latest 2024/09 Discount Coupons - 60% OFF Sitewide</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-979342-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 65.53% Off for Freemax Maxus 2 Vape Mod Kit 200W, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-949911-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 66.69% Off Uwell Crown D Pod Kit 35W, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080805-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - Only $7.88 for Vozol Gear 10000 Disposable Vape (5%, 10000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1084489-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - Only $7.88 for YOVO JB8000 Disposables Vape (5%, 8000 Puffs)</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

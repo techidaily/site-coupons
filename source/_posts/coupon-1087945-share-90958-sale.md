@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - 33.36%% Off Coolplay Smart 10000 Disposable Vape 20Ml, only $9.99
-date: 2024-09-05T23:46:58.991Z
-updated: 2024-09-06T23:46:58.991Z
+title: 2024-09 Discount Coupons - 33.36%% Off Coolplay Smart 10000 Disposable Vape 20Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.
+date: 2024-09-06T01:05:53.364Z
+updated: 2024-09-06T01:05:53.364Z
 categories:
   - Disposable Pod Kits
 ---
@@ -9,11 +9,11 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">33.36% off Coolplay Smart 10000 Disposable Vape 20ml, only $9.99</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">33.36%% Off Coolplay Smart 10000 Disposable Vape 20Ml, only $9.99</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
-      <img src="https://static.shareasale.com/image/90958/deal/CoolplaySmart10000DisposableVape20ml.png" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1087945%26m%3D90958%26u%3D4338022'), '_blank');void(0);" alt="CS10000" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
+      <img src="&quot;https://static.shareasale.com/image/90958/deal/CoolplaySmart10000DisposableVape20ml.png&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1087945%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" alt="CS10000" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(31.50k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(18.00k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -37,52 +37,10 @@ categories:
       Expires June 30, 2025    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1087945%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1087945%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: CS10000</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1087945%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1087945%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: CS10000</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    33.36% off Coolplay Smart 10000 Disposable Vape 20ml, only $9.99 
-  </p>
+    33.36%% Off Coolplay Smart 10000 Disposable Vape 20Ml, only $9.99 
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-2136730-app-12108-impact/"><u>Latest 2024/09 Discount Coupons - " "DHgate "New User: Enjoy $4-$3 With Coupon "DH2024NEW3SEP " At Dhgate.com " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136732-app-12108-impact/"><u>Latest 2024/09 Discount Coupons - " "DHgate "New User: Enjoy $5-$4 With Coupon "DH2024NEW4SEP " At Dhgate.com " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136735-app-12108-impact/"><u>Latest 2024/09 Discount Coupons - " "DHgate "New User: Enjoy $50-$8 With Coupon "DH2024NEW8SEP " At Dhgate.com " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136737-app-12108-impact/"><u>Latest 2024/09 Discount Coupons - " "DHgate "New User: Enjoy $85-$15With Coupon "DH2024NEW15SEP " At Dhgate.com " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1497646-app-15852-impact/"><u>Latest 2024/09 Discount Coupons - " "FitVille "Offer: 50% Off FitVille Men's Rebound Core Shoes (US 7-12.5, Medium Width Only) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1565914-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - " "Newchic " Newchic Men Hot Sale Clothing with Code:PROMO20 20% Off over $80+ " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1723239-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - " "Newchic "Time: 11.15-12.1 " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136729-app-12108-impact/"><u>Latest 2024/09 Discount Coupons - DHgate Enjoy $1600-$60 With Coupon "DH202460OFFSEP " At Dhgate.com</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136727-app-12108-impact/"><u>Latest 2024/09 Discount Coupons - DHgate Enjoy $999-$40 With Coupon "DH202440OFFSEP " At Dhgate.com</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1390674-app-15852-impact/"><u>Latest 2024/09 Discount Coupons - FitVille 15% Off Sitewide Coupon at FitVille</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1949635-app-15852-impact/"><u>Latest 2024/09 Discount Coupons - FitVille 25% OFF Valentine's Day Campaign 2024</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1415429-app-15852-impact/"><u>Latest 2024/09 Discount Coupons - FitVille Get 15% Off on FitVille New Arrivals</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1431443-app-15852-impact/"><u>Latest 2024/09 Discount Coupons - FitVille Get 15% Off on FitVille New Arrivals</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1443448-app-15852-impact/"><u>Latest 2024/09 Discount Coupons - FitVille Save an EXTRA 50% OFF on FitVille Men's Slip-On Breeze Knit Shoes</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1705619-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - Newchic " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1664515-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - Newchic NCAFF15</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1716975-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - Newchic NCAFF15(Save 15% for Order over $0)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1716976-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - Newchic NCAFF20(Save 20% for Order over $50)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1716978-app-14420-impact/"><u>Latest 2024/09 Discount Coupons - Newchic NCAFF25(Save 25% for Order over $100)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1449938-app-15155-impact/"><u>Latest 2024/09 Discount Coupons - UPERFECT ALL Product On Sales During Back To School Season, Use BTS Codes in Checkout Page to Get the Best Discount in the Year!</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

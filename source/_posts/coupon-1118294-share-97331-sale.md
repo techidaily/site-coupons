@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - Cubot Tab 60 WIFI Tablet
-date: 2024-09-05T23:49:01.135Z
-updated: 2024-09-06T23:49:01.135Z
+title: 2024-09 Discount Coupons - Cubot Tab 60 WIFI Tablet | Gshopper
+date: 2024-09-06T01:05:53.284Z
+updated: 2024-09-06T01:05:53.284Z
 categories:
   - Computer & Tablet
 ---
@@ -13,6 +13,7 @@ categories:
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
+      <img src="&quot;&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118294%26m%3D97331%26u%3D4338022%22'), '_blank');void(0);" alt="Gshoppercubot" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(29.06k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(43.50k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -36,47 +37,10 @@ categories:
       Expires October 8, 2024    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118294%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118294%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: gshoppercubot</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118294%26m%3D97331%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118294%26m%3D97331%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: Gshoppercubot</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
     Free Shipping 
-  </p>
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1230722-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.45 for Cloud Nurdz ICED Peach Melon Synthetic Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230721-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.45 for Cloud Nurdz Peach Melon Synthetic Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230720-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.45 for Cloud Nurdz Strawberry Peach Synthetic Vape Juice 100Ml</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230730-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.45 for MOTI Go Pro Disposable Vape 1100mAh (5%, 12000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230731-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $10.45 for MOTI Go Pro Disposable Vape 1100mAh (5%, 12000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230724-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $11.33 for VAPGO BAR Panora 25000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230733-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $13.09 for Keep It 100 20K Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230734-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $13.97 for Airfuze Smart 30000 Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230725-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $13.97 for Pyro Duo 30000 Disposable Vape (5%, 30000 Puffs)</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230732-share-59344-sale/"><u>Latest 2024/09 Discount Coupons - $25.41 for VOOPOO ARGUS A 30W Pod Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-985313-share-80610-sale/"><u>Latest 2024/09 Discount Coupons - 18% Off Sitewide Evergreen Code</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1103379-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 21.74% Off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099938-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 22.86% Off Rincoe Manto AIO Ultra Kit/AIO Ultra RTA Kit 80W, only $26.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1122402-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.46% Off Olit Hookalit 40000 Disposable Vape 40Ml, only $12.69</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114871-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.97% Off Geek Bar Skyview 25000 Disposable Vape, only $11.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1028462-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 49.86% Off for SMOK Mag Solo Box Mod 100W Get One Free 18650 Battery, only $13.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229298-share-153311-sale/"><u>Latest 2024/09 Discount Coupons - GIFT COUPON $20 VOUCHER Celebrating IFA</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227862-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - GL_Buy Pods Get 1 Free Essential</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231106-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - UK_B10G1</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231107-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - UK_B15G1</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231078-share-92020-sale/"><u>Latest 2024/09 Discount Coupons - UK_B5G1</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

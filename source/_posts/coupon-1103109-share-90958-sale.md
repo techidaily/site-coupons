@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - 33.36%% Off Cloud Bar TN15000 Disposable Vape Kit 23Ml, only $7.99
-date: 2024-09-05T23:51:21.746Z
-updated: 2024-09-06T23:51:21.746Z
+title: 2024-09 Discount Coupons - 33.36%% Off Cloud Bar TN15000 Disposable Vape Kit 23Ml, only $7.99 | Vapesourcing Electronics Co.,Ltd.
+date: 2024-09-06T01:05:53.174Z
+updated: 2024-09-06T01:05:53.174Z
 categories:
   - Disposable Pod Kits
 ---
@@ -9,11 +9,11 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">33.36% off Cloud Bar TN15000 Disposable Vape Kit 23ml, only $7.99</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">33.36%% Off Cloud Bar TN15000 Disposable Vape Kit 23Ml, only $7.99</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
-      <img src="https://static.shareasale.com/image/90958/deal/CloudBarTN15000DisposableVapeKit23ml.png" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103109%26m%3D90958%26u%3D4338022'), '_blank');void(0);" alt="TN15000" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
+      <img src="&quot;https://static.shareasale.com/image/90958/deal/CloudBarTN15000DisposableVapeKit23ml.png&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103109%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" alt="TN15000" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(9.19k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(37.93k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -37,49 +37,10 @@ categories:
       Expires December 31, 2025    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103109%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103109%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: TN15000</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103109%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103109%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: TN15000</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    33.36% off Cloud Bar TN15000 Disposable Vape Kit 23ml, only $7.99 
-  </p>
+    33.36%% Off Cloud Bar TN15000 Disposable Vape Kit 23Ml, only $7.99 
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1069758-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $19.99 for Any 2PCS Disposable Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1069759-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $39.99 for Any 3PCS Disposable Kit</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067692-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - $59.99 Get Any 5Pcs Disposable Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109153-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 15% OFF for GEEKOM IT13 Mini PC, Intel Core I7-13620H 10 Cores Up To 4.9GHz, 32GB RAM 1TB SSD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1226087-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 16.01% Off Lost Mary Losgal MC25000 Disposable Vape 16Ml, only $12.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086355-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 199,00 ? For Tesvor S7 Pro Robot Vacuum Cleaner With Mop Function, 6000Pa Suction, Laser Navigation, 600Ml Dustbin</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083777-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 20.01% Off Posh Xtron 10000 Puffs Disposable Vape 5% Nic, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1225989-share-113721-sale/"><u>Latest 2024/09 Discount Coupons - 20% Off No Limits Summer Big Sale for All</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094868-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 26.68% Off Tyson 2.0 Iron Mike Disposable Vape Kit 15000 Puffs 14Ml, only $10.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-750476-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.04% Off for SMOK IPX 80 Pod Mod Kit 80W 3000mAh, only $21.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-659387-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 29.70% Off for Geekvape Zeus X Mesh RTA 4.5Ml 25Mm, only $13.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-796511-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 30.45% Off for Vaporesso GTX Go 80 Pod Kit 80W 3000mAh, only $15.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1060142-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.14% Off Lost Vape Centaurus B60 AIO Pod Kit 1600mAh 60W, only $19.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1059849-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.34% Off Eleaf iStick I75 Vape Kit 75W with EP Pod Tank, only $23.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112222-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 33.36% Off VPro Boost 24K Disposable Vape Kit 20Ml, only $9.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099647-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 377,00 ? For OUVIS AMR5 Mini PC, AMD Ryzen 7 5600U, 16GB DDR4 512GB SSD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-968631-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 42.88% Off for Vaporesso XROS 3 Mini Pod Kit 1000mAh, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081676-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 649,99 ? For Mecpow X5 Pro 33W Laser Engraving Machine, 600X600mm Engraving Area</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093559-share-77450-sale/"><u>Latest 2024/09 Discount Coupons - 809,00 ? For KuKirin G4 Off-Road Electric Scooter, 2000W Motor, 20Ah Battery, 75Km Top Range, 70Km/H Max Speed</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1225890-share-127720-sale/"><u>Latest 2024/09 Discount Coupons - Back to School</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1225990-share-113721-sale/"><u>Latest 2024/09 Discount Coupons - EXTRA 10% Off Sitewide Welock</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1100389-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Extra 5% Off for Almost All Printers, US/EU/DE/UK/AU/CA/JP Store</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097922-share-124834-sale/"><u>Latest 2024/09 Discount Coupons - Get Extra 5% Off Sitewide, UK Store Only</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

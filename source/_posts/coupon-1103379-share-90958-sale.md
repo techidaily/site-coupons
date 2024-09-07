@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - 21.74%% Off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99
-date: 2024-09-05T23:51:46.302Z
-updated: 2024-09-06T23:51:46.302Z
+title: 2024-09 Discount Coupons - 21.74%% Off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99 | Vapesourcing Electronics Co.,Ltd.
+date: 2024-09-06T01:05:53.154Z
+updated: 2024-09-06T01:05:53.154Z
 categories:
   - Mods & Batteries
 ---
@@ -9,11 +9,11 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">21.74% off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">21.74%% Off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
-      <img src="https://static.shareasale.com/image/90958/deal/GeekvapeAegisLegend3BoxMod200W.png" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103379%26m%3D90958%26u%3D4338022'), '_blank');void(0);" alt="GAL3M" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
+      <img src="&quot;https://static.shareasale.com/image/90958/deal/GeekvapeAegisLegend3BoxMod200W.png&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103379%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" alt="GAL3M" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(13.82k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(15.16k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -37,58 +37,10 @@ categories:
       Expires December 31, 2025    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103379%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103379%26m%3D90958%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: GAL3M</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103379%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1103379%26m%3D90958%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: GAL3M</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    21.74% off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99 
-  </p>
+    21.74%% Off Geekvape Aegis Legend 3 Box Mod 200W, only $35.99 
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117998-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 8BitDo Retro Mechanical Keybord</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118018-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - EU Version OnePlus Pad Go</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118013-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - EU Version OnePlus Watch</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118014-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Realme 12+5G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118009-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Realme C65</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118004-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Redmi Watch 3 Active</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118010-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Insta360 Flow</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118011-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Insta360 ONE RS</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118005-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - New Xiaomi Mijia Light Thermos Cup</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118003-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Niento Switch Storage Bag Large Capacity Game Theme</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118016-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Nintendo OLED Switch HK Version ��Dual System Cracked Version��</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118015-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Nintendo Switch HK Version ��Dual System Cracked Version��-Second-Hand , 95% New</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117999-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO New Switch OLED Storage Bag EVA Anti-Fall Switch Console Portable Storage Bag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118001-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO PS5 Host Multi-Functional Fan Cooling Base White PS5 Handle Dual Charging Storage Disc Rack</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117993-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO PS5 SLIM Host Fan Cooling Base PS5 Thin and Light Universal Card Disc Headphone Collection Nanoscaffold</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118002-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - OIVO Switch Game Card Box Black Blue and White Nintendo Ns Game Card 24-in-1 Switch Cassette Box</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118017-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - POCO F5 Pro Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118012-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - R35 Plus Handheld Game Console</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117994-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Suitable for Nintendo Switch Storage Large Bag Oled Complete Set of Accessories Storage Bag Portable Crossbody Bag Handbag</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118000-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Switch Oled Host Storage Bag Waterproof Dust-Return Card Box Storage Portable</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117997-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Massage Gun EU Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117996-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Massage Gun Mini TypeC Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117995-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Air Summer Quilt</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118008-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Automatic Water Suction Electric Water Gun</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118007-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Sharge Mini Emergency Capsule Power Bank 5000mAh</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118006-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Youpin Swimming Suit</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

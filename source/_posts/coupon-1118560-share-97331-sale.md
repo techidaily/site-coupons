@@ -1,7 +1,7 @@
 ---
-title: Latest 2024/09 Discount Coupons - New 11-in-1 Gigabit Docking Station Type-C Same Screen Mobile Phone Tablet Fast Charging 100W Wireless Charging 15W Docking Station
-date: 2024-09-05T23:49:49.840Z
-updated: 2024-09-06T23:49:49.840Z
+title: 2024-09 Discount Coupons - New 11-in-1 Gigabit Docking Station Type-C Same Screen Mobile Phone Tablet Fast Charging 100W Wireless Charging 15W Docking Station | Gshopper
+date: 2024-09-06T01:05:53.250Z
+updated: 2024-09-06T01:05:53.250Z
 categories:
   - Mobile & Accessories
 ---
@@ -9,10 +9,11 @@ categories:
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">New 11-in-1 Gigabit Docking Station type-c same screen mobile phone tablet fast charging 100w wireless charging 15w docking station</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">New 11-in-1 Gigabit Docking Station Type-C Same Screen Mobile Phone Tablet Fast Charging 100W Wireless Charging 15W Docking Station</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
+      <img src="&quot;&quot;" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118560%26m%3D97331%26u%3D4338022%22'), '_blank');void(0);" alt="Gshopper20" class="h-60 w-full rounded-lg object-cover sm:col-span-2 sm:h-52 lg:col-span-full" loading="lazy" />
     
   </div>
   <dl class="row-start-2 mt-4 flex items-center text-xs font-medium sm:row-start-3 sm:mt-1 md:mt-2.5 lg:row-start-2">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(30.00k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(21.55k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -36,52 +37,10 @@ categories:
       Expires October 8, 2024    </dd>
   </dl>
   <div class="col-start-1 row-start-3 mt-4 self-center sm:col-start-2 sm:row-span-2 sm:row-start-2 sm:mt-0 lg:col-start-1 lg:row-start-3 lg:row-end-4 lg:mt-6">
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118560%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
-    <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118560%26m%3D97331%26u%3D4338022'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: gshopper20</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118560%26m%3D97331%26u%3D4338022%22'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
+    <button type="button" onClick="javascript:window.open(decodeURIComponent('%22https%3A%2F%2Fwww.shareasale.com%2Fu.cfm%3Fd%3D1118560%26m%3D97331%26u%3D4338022%22'), '_blank');void(0);" class="border-dashed border-2 border-indigo-600 bg-green-100 text-sm leading-6 font-medium py-2 px-3 rounded-lg">Coupon Code: Gshopper20</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
     / 
-  </p>
+""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118951-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 19.34% Off iJOY Uranus 25000 Disposable Vape 20Ml, only $9.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118729-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - 2023 IMILAB EC3 Lite 2K Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118952-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 22.08% Off Moti Triplus 20000 Puffs Disposable Vape Kit 18Ml, only $10.59</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119442-share-90958-sale/"><u>Latest 2024/09 Discount Coupons - 25.02% Off SMOK Solus GT Pod System Kit 700mAh, only $11.99</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118724-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Mi Smart Kettle Pro</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118718-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global Version Wanbo T2 MAX</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118719-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Global VersionWanbo T6 MAX Projector</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118728-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - IMILAB C30 IP Camera Home Security Camera 1080P WiFi Camera Indoor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118727-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - IMILAB EC4 Camera Solar Panel Outdoor Spotlight</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118725-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - IMILAB EC5 Floodlight Camera 2KGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118693-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - IScooter iX3 800W Off Road Electric Scooter</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118736-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Mijia Enchen BlackStone</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118692-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - MIYOO Mini Plus Game Console 64G</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118733-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Oclean X Pro Smart Sonic Electric Toothbrush</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118734-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Soocas X3U Electric Toothbrush</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118691-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - X96 X10 Amlogic S928X TV Box 8GB 64GB Support 8K USB3.0 Wifi6 BT5.2 1000M LAN Google Voice Set Top Box Media Player X96X10</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118720-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiao Mi 4L Smart Air Fryer ProGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118721-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiao Mi 6L Smart Air FryerGlobal Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118730-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Camera C200Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118726-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Camera C400 Global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118732-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Electric Toothbrush T300</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118731-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Electric Toothbrush T302</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118735-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Electric Flosser Household Portable Water Flosser Oral Cleaning</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118737-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Electric Shaver S700��global Version</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118722-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Instant Hot Water Dispenser</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118723-share-97331-sale/"><u>Latest 2024/09 Discount Coupons - Xiaomi Mijia Smart Wall Breaker Home</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
