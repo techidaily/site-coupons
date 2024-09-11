@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - $3 Off for SMOK RPM 2 80W Pod Kit | EightVape
-date: 2024-09-06T01:08:16.187Z
-updated: 2024-09-07T01:08:16.187Z
+date: 2024-09-10T10:33:25.117Z
+updated: 2024-09-10T10:33:25.117Z
 categories:
   - Coupon Code
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(38.63k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(45.29k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,52 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118201-share-97331-sale/"><u>2024-09 Discount Coupons - 2 In 1 Headset Smart Glasses Blue Tooth Audio Call AI Voice Noise Reduction | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118191-share-97331-sale/"><u>2024-09 Discount Coupons - Classic Touch Sensor LED Table Lamp Rechargeable Desk Lamp | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118195-share-97331-sale/"><u>2024-09 Discount Coupons - ESR Yise Car Mobile Phone Holde | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118189-share-97331-sale/"><u>2024-09 Discount Coupons - EU Version Xiaomi Induction Cooker Lite | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118188-share-97331-sale/"><u>2024-09 Discount Coupons - EU Version Xiaomi Smart Multifunctional Rice Cooker | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118204-share-97331-sale/"><u>2024-09 Discount Coupons - GameSir C2 Arcade Fightstick Game Controller | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118205-share-97331-sale/"><u>2024-09 Discount Coupons - GameSir Nova HD Rumble Wireless Controller for Nintendo Switch | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118203-share-97331-sale/"><u>2024-09 Discount Coupons - GameSir X3 Type-C Game Controller & Cooler with 4000 Mm2 Cooling Area | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118213-share-97331-sale/"><u>2024-09 Discount Coupons - Global Versio Xiaomi Watch 2 Pro Bluetooth? | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118193-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version Tenda AC6 WiFi Router | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118187-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version Xiaomi Router AX3000T | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118209-share-97331-sale/"><u>2024-09 Discount Coupons - GoPro 11 BLACK Outdoor Riding Motorcycle Diving Ski Waterproof Anti-Shake Vlgo Lure | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118210-share-97331-sale/"><u>2024-09 Discount Coupons - GoPro HERO10 Black | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118212-share-97331-sale/"><u>2024-09 Discount Coupons - GoPro HERO12 Black - Waterproof Action Camera with 5.3K60 Ultra HD Video | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118196-share-97331-sale/"><u>2024-09 Discount Coupons - HOCO/Hoco C96A Single Port Charger | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118194-share-97331-sale/"><u>2024-09 Discount Coupons - HOCO/Hoco E58 Car AUX Bluetooth Receiver | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118211-share-97331-sale/"><u>2024-09 Discount Coupons - Insta360 X3 5.7K 360 Degree Panoramic | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118206-share-97331-sale/"><u>2024-09 Discount Coupons - Logitech K380 Wireless Bluetooth Network Red Keyboard Tablet iPad Office | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118214-share-97331-sale/"><u>2024-09 Discount Coupons - Mijia Automatic Hand Washing Cute Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118198-share-97331-sale/"><u>2024-09 Discount Coupons - Mijia Electric Nose Hair Trimmer | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118202-share-97331-sale/"><u>2024-09 Discount Coupons - Modern Style Flip Clock Turning Time | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118207-share-97331-sale/"><u>2024-09 Discount Coupons - New Lenovo KW201 Wireless Keyboard Office Game Dust Mouse Keyboard Keys 104 Set | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118156-share-97331-sale/"><u>2024-09 Discount Coupons - New Mijia Multifunctional Strong Light Flashlight | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118154-share-97331-sale/"><u>2024-09 Discount Coupons - New Mijia Portable Dental Rinser F400 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118152-share-97331-sale/"><u>2024-09 Discount Coupons - New Xiaomi 6A Dual Type-C High-Speed Braided Data Cable | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118155-share-97331-sale/"><u>2024-09 Discount Coupons - New Xiaomi Outdoor Bluetooth Speaker Camp | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118197-share-97331-sale/"><u>2024-09 Discount Coupons - OneGx1 Pro 7.0-Inch Mini Gaming Laptop | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118192-share-97331-sale/"><u>2024-09 Discount Coupons - Tenda AC7 Dual Band Wireless AC1200 Wifi Router | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118200-share-97331-sale/"><u>2024-09 Discount Coupons - USB Charger 10 Port Multi Device | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118208-share-97331-sale/"><u>2024-09 Discount Coupons - VIRAN Anti-Shake Sports Camera Motorcycle Driving Recorder Outdoor Waterproof Camera | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118153-share-97331-sale/"><u>2024-09 Discount Coupons - Xiaomi 6A Dual Type-C Braided Data Cable | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118190-share-97331-sale/"><u>2024-09 Discount Coupons - Xiaomi NexTool 9 in 1 Multifunctional Wrench Folding Knife | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118199-share-97331-sale/"><u>2024-09 Discount Coupons - Youpin Showsee Electric Nose Hair Trimmer | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape
-date: 2024-09-06T01:06:26.578Z
-updated: 2024-09-07T01:06:26.578Z
+date: 2024-09-10T10:33:25.172Z
+updated: 2024-09-10T10:33:25.172Z
 categories:
   - Deals
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(6.45k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(42.34k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,39 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1037527-share-90958-sale/"><u>2024-09 Discount Coupons - 21.82% Off for Vaporesso Target 200 Kit With iTank 2 8Ml, only $42.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080593-share-90958-sale/"><u>2024-09 Discount Coupons - 23.09% Off OXBAR X Pod Juice Magic Maze Pro 10K Disposable Vape 18Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104218-share-90958-sale/"><u>2024-09 Discount Coupons - 25.02% Off LUFFBAR Boring Tiger 25000 Puffs Disposable Vape Kit 26Ml, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1064926-share-90958-sale/"><u>2024-09 Discount Coupons - 25.59% Off RAZ TN9000 Disposable Vape Kit, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104829-share-114666-sale/"><u>2024-09 Discount Coupons - Enjoy $200 OFF OBSBOT Tail Air | OBSBOT</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117301-share-92020-sale/"><u>2024-09 Discount Coupons - ES_buy_infinity_get_soMatchMiniPod | RELX Global</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117845-share-97331-sale/"><u>2024-09 Discount Coupons - FunWater Cruise Inflatable Stand Up Paddle Board | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117847-share-97331-sale/"><u>2024-09 Discount Coupons - Funwater Dolphins 10'6 Inflatable Paddle Board | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117846-share-97331-sale/"><u>2024-09 Discount Coupons - FunWater Inflatable Stand Up Paddle Board SUPFW04A | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117843-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version POCO M6 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117851-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version POCO Pad | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117849-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version Redmi Note 13 Pro+ 5G | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117850-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version Xiaomi 14 Ultra | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117842-share-97331-sale/"><u>2024-09 Discount Coupons - Mijia Electric Screwdriver | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117848-share-97331-sale/"><u>2024-09 Discount Coupons - NEW RG ANBERNIC Cube | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117844-share-97331-sale/"><u>2024-09 Discount Coupons - Original Redmi Graffiti Stylus Pen | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117277-share-128178-sale/"><u>2024-09 Discount Coupons - Oukitel Phone & Tablets 10% Off?UK | Oukitel</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116356-share-156155-sale/"><u>2024-09 Discount Coupons - Sitewide 10% OFF FOR ALL | Maono Technology Co., Ltd</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116765-share-155620-sale/"><u>2024-09 Discount Coupons - SuperBox S5 Max 10% OFF | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1111558-share-154268-sale/"><u>2024-09 Discount Coupons - Welcome Code | RingConn LLC</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
