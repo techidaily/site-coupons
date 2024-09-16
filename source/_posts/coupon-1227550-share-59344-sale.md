@@ -1,11 +1,10 @@
 ---
 title: 2024-09 Discount Coupons - $13.88 for Mr Fog Switch SW15000 Disposable Vape | EightVape
-date: 2024-09-15T16:25:25.465Z
-updated: 2024-09-15T16:25:25.465Z
+date: 2024-09-12T16:11:06.355Z
+updated: 2024-09-16T16:07:09.669Z
 categories:
   - Disposable Vapes
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,35 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089915-share-59344-sale/"><u>2024-09 Discount Coupons - $4.00 for Geek Bar Pro 4.5Ml Disposable Vape (5%, 1500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089908-share-59344-sale/"><u>2024-09 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089913-share-59344-sale/"><u>2024-09 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089892-share-59344-sale/"><u>2024-09 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089914-share-59344-sale/"><u>2024-09 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089893-share-59344-sale/"><u>2024-09 Discount Coupons - $7.66 for Vaptio Prod Replacement Coils (5Pc.) | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
