@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"Buy 4Th Get 80%% Off (Code: URS80)\\\\\\\"\\\"\""
-date: 2024-09-10T10:34:32.294Z
-updated: 2024-09-11T10:34:32.294Z
+date: 2024-09-15T16:25:27.271Z
+updated: 2024-09-15T16:25:27.271Z
 categories:
   - Women's Apparel
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(33.86k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(48.10k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -42,68 +42,3 @@ categories:
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
     "\"Buy 4Th Get 80%% Off (Code: URS80)\""  </p>
 </div>
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089955-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Topgreen XMAX QOMO Replacement Glass Tube | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089949-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Yocan Evolve Plus XL Lanyard and Hanging Ring | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089947-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Peach Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089961-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Pink Guava Ice 60Ml Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089957-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Watermelon Ice 60Ml Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089945-share-59344-sale/"><u>2024-09 Discount Coupons - $14.66 for Uwell Whirl T1 15W Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089946-share-59344-sale/"><u>2024-09 Discount Coupons - $16.66 for Uwell Whirl T1 15W Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089958-share-59344-sale/"><u>2024-09 Discount Coupons - $18.66 for Voopoo Argus Air 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089954-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for Topgreen XMAX QOMO Glass Carb Cap | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089960-share-59344-sale/"><u>2024-09 Discount Coupons - $5.66 for Vandy Vape Pulse AIO DIY Accessories Set | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089950-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Glamee Nova Disposable Vape (5%, 4000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092830-share-59344-sale/"><u>2024-09 Discount Coupons - $6.88 for Off-Stamp SW9000 Disposable Replacement Pod | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089959-share-59344-sale/"><u>2024-09 Discount Coupons - $8.00 for Geekvape Wenax H1 Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089951-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Blue Razz Ice 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089948-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Iced Strawberry Watermelon 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089952-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093005-share-122475-sale/"><u>2024-09 Discount Coupons - 48% of Wismec Reuleaux RX G Kit 100W, only $46.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093510-share-122475-sale/"><u>2024-09 Discount Coupons - 54% of iCare Flask Kit, only $15.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092734-share-122475-sale/"><u>2024-09 Discount Coupons - 57% of Wismec REUX Atomizer, only $15.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093008-share-122475-sale/"><u>2024-09 Discount Coupons - 58% of Wismec PREVA Kit (Pod Version 3Ml), only $17.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092777-share-122475-sale/"><u>2024-09 Discount Coupons - 69% Off of WISMEC INDE DUO Atomizer Kit, only $9.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093525-share-122475-sale/"><u>2024-09 Discount Coupons - 70% of Tron-S Tank Atomizer Kit, only $8.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093523-share-122475-sale/"><u>2024-09 Discount Coupons - 75% of ULTIMO Atomizer, only $9.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089775-share-122475-sale/"><u>2024-09 Discount Coupons - 77% of WISMEC Sinuous Predator 228 with Elabo Kit, only $20.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092990-share-122475-sale/"><u>2024-09 Discount Coupons - 79% of Wismec HiFlask Pod System 40W Kit, only $9.99 | Bellavapor</u></a></li>
-</ul></div>
-
-
-
-
-
-
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-

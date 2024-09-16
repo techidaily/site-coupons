@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Fast Charging Universal Model Capacitive Pen Compatible with Xiaomi Pad Android | Gshopper
-date: 2024-09-10T10:33:24.987Z
-updated: 2024-09-10T10:33:24.987Z
+date: 2024-09-15T16:25:25.536Z
+updated: 2024-09-15T16:25:25.536Z
 categories:
   - Computer & Tablet
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(7.13k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(31.50k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Only $8.66 for ICEWAVE X8500 Disposable Vape | EightVape
-date: 2024-09-10T10:34:03.795Z
-updated: 2024-09-11T10:34:03.795Z
+date: 2024-09-15T16:25:25.659Z
+updated: 2024-09-15T16:25:25.659Z
 categories:
   - Deals
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(41.96k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(46.11k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,78 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089236-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Mini EUC Coils (5Pcs) - Vaporesso | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089223-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089935-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Blueberry Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089923-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Pink Guava Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089917-share-59344-sale/"><u>2024-09 Discount Coupons - $14.66 for Suorin Drop 13W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089936-share-59344-sale/"><u>2024-09 Discount Coupons - $15.66 for Vaptio Prod 20W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089916-share-59344-sale/"><u>2024-09 Discount Coupons - $16.88 for SMOK Propod 22W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089240-share-59344-sale/"><u>2024-09 Discount Coupons - $2.66 for Reno Pods (2Pcs) - Suorin | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089225-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for RPM Lite Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089230-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for SCAR-P3 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089239-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089920-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for Wotofo Profile BF Squonk Bottle | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089927-share-59344-sale/"><u>2024-09 Discount Coupons - $38.66 for YiHi SXmini SX Nano Pod Mod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089921-share-59344-sale/"><u>2024-09 Discount Coupons - $4.00 for BLNG Disposable Vape (5%, 3000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089922-share-59344-sale/"><u>2024-09 Discount Coupons - $4.00 for Cali Pro Mesh 5Ml Disposable Vape (5%, 2500 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089915-share-59344-sale/"><u>2024-09 Discount Coupons - $4.00 for Geek Bar Pro 4.5Ml Disposable Vape (5%, 1500 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089890-share-59344-sale/"><u>2024-09 Discount Coupons - $4.66 for Smok SCAR-P5 Pods (3Pcs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089908-share-59344-sale/"><u>2024-09 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089913-share-59344-sale/"><u>2024-09 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089892-share-59344-sale/"><u>2024-09 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089914-share-59344-sale/"><u>2024-09 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089924-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Chew Disposable Vape (3%, 4000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089918-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Flum Wafer Disposable Vape (5%, 1600 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089944-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Hyde N-Bar Recharge Disposable Vape (5%, 4500 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089891-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Space Max Sub-Ohm Disposable Vape (5%, 4000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089227-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Valyrian Coils (2Pcs) - Uwell | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089934-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Vaptio Pago Replacement Pod | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089893-share-59344-sale/"><u>2024-09 Discount Coupons - $7.66 for Vaptio Prod Replacement Coils (5Pc.) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089925-share-59344-sale/"><u>2024-09 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089928-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for OXVA UniPro RBA | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089919-share-59344-sale/"><u>2024-09 Discount Coupons - $9.66 for Lucid Flow Disposable Vape (5%, 5000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089234-share-59344-sale/"><u>2024-09 Discount Coupons - $9.88 for SCAR-P3 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089241-share-59344-sale/"><u>2024-09 Discount Coupons - $9.88 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089522-share-122475-sale/"><u>2024-09 Discount Coupons - 50% of Enou Bar Compak Disposable, only $9.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089525-share-122475-sale/"><u>2024-09 Discount Coupons - 60% of WISMEC LUXOTIC SURFACE 80 W SQUONK Box Mod, only $26.79 | Bellavapor</u></a></li>
-</ul></div>
-
-
-
-
-
-
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-

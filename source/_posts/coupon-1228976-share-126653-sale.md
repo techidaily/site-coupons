@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Up to $50 Off | Back to School Sale Special Discount for Students | Soundcore | Fantasia Trading LLC
-date: 2024-09-10T10:34:10.630Z
-updated: 2024-09-11T10:34:10.630Z
+date: 2024-09-15T16:25:25.451Z
+updated: 2024-09-15T16:25:25.451Z
 categories:
   - Up to $50 Off | Back to School Sale Special Discou
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(44.80k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(11.63k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -44,56 +44,3 @@ categories:
     "Back to School Sale: Epic Deals and Upbeat Vibes for Your Best Year Yet" 
 Soundcore, Headphones,speaker, VR, Gaming, Meta, Sleep, Health  </p>
 </div>
-
-
-
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089236-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Mini EUC Coils (5Pcs) - Vaporesso | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089223-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089935-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Blueberry Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089936-share-59344-sale/"><u>2024-09 Discount Coupons - $15.66 for Vaptio Prod 20W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089240-share-59344-sale/"><u>2024-09 Discount Coupons - $2.66 for Reno Pods (2Pcs) - Suorin | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089225-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for RPM Lite Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089230-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for SCAR-P3 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089239-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089927-share-59344-sale/"><u>2024-09 Discount Coupons - $38.66 for YiHi SXmini SX Nano Pod Mod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089924-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Chew Disposable Vape (3%, 4000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089944-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Hyde N-Bar Recharge Disposable Vape (5%, 4500 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089227-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Valyrian Coils (2Pcs) - Uwell | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089934-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Vaptio Pago Replacement Pod | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089925-share-59344-sale/"><u>2024-09 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089928-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for OXVA UniPro RBA | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089234-share-59344-sale/"><u>2024-09 Discount Coupons - $9.88 for SCAR-P3 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089241-share-59344-sale/"><u>2024-09 Discount Coupons - $9.88 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089522-share-122475-sale/"><u>2024-09 Discount Coupons - 50% of Enou Bar Compak Disposable, only $9.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089525-share-122475-sale/"><u>2024-09 Discount Coupons - 60% of WISMEC LUXOTIC SURFACE 80 W SQUONK Box Mod, only $26.79 | Bellavapor</u></a></li>
-</ul></div>
-
-
-
-
-
-
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-

@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - FNIRSI 2C23T 3IN1 Dual Channel 10MHZ*2 50MS/S Handheld Digital Oscilloscope Multimeter + Function Signal Generator | Gshopper
-date: 2024-09-10T10:33:24.969Z
-updated: 2024-09-10T10:33:24.969Z
+date: 2024-09-15T16:25:25.519Z
+updated: 2024-09-15T16:25:25.519Z
 categories:
   - Tool & 3D Printer
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(20.92k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(16.98k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
