@@ -1,11 +1,10 @@
 ---
 title: 2024-09 Discount Coupons - $8.66 for Ripe Vapes Watermelon Freez 60Ml Vape Juice | Eight Vape
-date: 2024-09-20T17:15:02.878Z
-updated: 2024-09-20T17:15:02.878Z
+date: 2024-09-16T17:00:04.447Z
+updated: 2024-09-21T16:27:38.180Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,36 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089889-share-59344-sale/"><u>2024-09 Discount Coupons - $12.66 for SMOK RGC Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089886-share-59344-sale/"><u>2024-09 Discount Coupons - $2.66 for TFV8 X-Baby Replacement Glass #3 - Smok | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089890-share-59344-sale/"><u>2024-09 Discount Coupons - $4.66 for Smok SCAR-P5 Pods (3Pcs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089892-share-59344-sale/"><u>2024-09 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089887-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%, 3500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089891-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Space Max Sub-Ohm Disposable Vape (5%, 4000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089888-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Suorin Air Bar Max Disposable Vape (5%, 2000 Puffs) | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

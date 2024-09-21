@@ -1,11 +1,10 @@
 ---
 title: 2024-09 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape
-date: 2024-09-20T17:15:02.880Z
-updated: 2024-09-20T17:15:02.880Z
+date: 2024-09-15T17:03:38.057Z
+updated: 2024-09-21T16:43:01.997Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1227536-share-59344-sale/"><u>2024-09 Discount Coupons - $18.88 for SMOK Novo Pro 30W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1227539-share-59344-sale/"><u>2024-09 Discount Coupons - $48.88 for SMOK Morph 3 230W Vape Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1226653-share-59344-sale/"><u>2024-09 Discount Coupons - Onlly $8 for VAPGO BAR Vmax Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1226654-share-59344-sale/"><u>2024-09 Discount Coupons - Only $8 for VAPGO BAR X 12K Disposable Vape | EightVape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

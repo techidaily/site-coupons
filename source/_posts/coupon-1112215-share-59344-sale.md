@@ -1,11 +1,10 @@
 ---
 title: 2024-09 Discount Coupons - Only $8.00 for Airis Neo P8000 Disposable Vape | EightVape
-date: 2024-09-20T17:15:02.817Z
-updated: 2024-09-20T17:15:02.818Z
+date: 2024-09-17T17:06:33.050Z
+updated: 2024-09-21T17:03:48.569Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,29 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089966-share-59344-sale/"><u>2024-09 Discount Coupons - $14.66 for OXVA Unione PnM Standard Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089969-share-59344-sale/"><u>2024-09 Discount Coupons - $21.66 for Vandy Vape Vessel Set For Pulse AIO | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089970-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for Badger Hill Reserve American Way 30Ml Nic Salt Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089971-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for Ripe Vapes VCT Strawberry 60Ml Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089967-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for Ripe Vapes Watermelon Freez 60Ml Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089968-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Iced Volcano Burst 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
