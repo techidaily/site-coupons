@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Costar PS350 Portable Projector Smart Home Outdoor Projector 1080P HD Led Cinema 3000 Lumens Business Meeting Room | Gshopper
-date: 2024-09-15T16:25:25.626Z
-updated: 2024-09-15T16:25:25.626Z
+date: 2024-09-20T17:15:02.784Z
+updated: 2024-09-20T17:15:02.784Z
 categories:
   - Smart Home & Garden
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(19.74k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(39.16k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

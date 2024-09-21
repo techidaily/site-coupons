@@ -1,14 +1,15 @@
 ---
-title: "2024-09 Discount Coupons - \"\\\"25home.com \\\\\\\" 25Home: Labor Day Sale, UP TO 50%% OFF, Code: LB50\\\\\\\"\\\"\""
-date: 2024-09-14T16:22:55.091Z
-updated: 2024-09-16T16:05:35.010Z
+title: "2024-09 Discount Coupons - \"\\\"25home.com \\\\\\\" 25Home: Fall Season Sale, UP TO 50%% OFF, Code: Au25\\\\\\\"\\\"\""
+date: 2024-09-20T17:15:04.235Z
+updated: 2024-09-20T17:15:04.235Z
 categories:
   - Outdoors & Recreation
 ---
 
+
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
-    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">&quot;\&quot; 25Home: Labor Day Sale, UP TO 50%% OFF, Code: LB50\&quot;&quot;</h5>
+    <h5 class="mt-1 text-lg font-semibold text-white sm:text-slate-900 md:text-2xl dark:sm:text-white">&quot;\&quot; 25Home: Fall Season Sale, UP TO 50%% OFF, Code: Au25\&quot;&quot;</h5>
   </div>
   
   <div class="col-start-1 col-end-3 row-start-1 grid gap-4 sm:mb-6 sm:grid-cols-4 lg:col-start-2 lg:row-span-6 lg:row-end-6 lg:mb-0 lg:gap-6">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(4.62k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(5.15k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -39,32 +40,5 @@ categories:
     <button type="button" onClick="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F2123463%2F16836'), '_blank');void(0);" class="rounded-lg bg-red-600 px-3 py-2 text-sm font-medium leading-6 text-white">GET DEAL</button>
   </div>
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
-    "\" 25Home: Labor Day Sale, UP TO 50%% OFF, Code: LB50\""  </p>
+    "\" 25Home: Fall Season Sale, UP TO 50%% OFF, Code: Au25\""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1101822-share-122475-sale/"><u>2024-09 Discount Coupons - "Flash Sale: Up to 58% Off " | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1095265-share-150384-sale/"><u>2024-09 Discount Coupons - 14-Day Free Trial | MediaZilla</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104074-share-122475-sale/"><u>2024-09 Discount Coupons - 42% Off of Joyevita Capsu 2Ml Prefilled Pod Cartridge (2Pcs), only $6.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099962-share-122475-sale/"><u>2024-09 Discount Coupons - 45% of Gang XXL Switch Duo Disposable 2500 Puffs, only $11.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099439-share-122475-sale/"><u>2024-09 Discount Coupons - 63% of Vaal E5000 Disposable Vape Kit 5000 Puffs 650mAh, only $5.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104073-share-122475-sale/"><u>2024-09 Discount Coupons - 67% Off of Joyevita Capsu Rechargeable Disposable 500 Puffs 2ML, only $4.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1095263-share-150384-sale/"><u>2024-09 Discount Coupons - MediaZilla Business (Yearly) | MediaZilla</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

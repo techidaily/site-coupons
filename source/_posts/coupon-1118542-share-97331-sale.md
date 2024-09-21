@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Original Xiaomi 10000mAh Wireless Mobile Portable Large Capacity 18W Fast Charge Mi Powerbank 3 | Gshopper
-date: 2024-09-15T16:25:25.537Z
-updated: 2024-09-15T16:25:25.537Z
+date: 2024-09-20T17:15:02.697Z
+updated: 2024-09-20T17:15:02.697Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(30.46k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(9.63k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
