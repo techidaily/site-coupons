@@ -1,11 +1,10 @@
 ---
 title: 2024-09 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape
-date: 2024-09-25T11:30:32.737Z
-updated: 2024-09-25T11:30:32.737Z
+date: 2024-09-19T06:03:44.396Z
+updated: 2024-09-25T20:10:10.903Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,32 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-920596-share-90958-sale/"><u>2024-09 Discount Coupons - 32.57% Off for Steam Crave Aromamizer Plus V3 RDTA 30Mm 12Ml/3ml, only $28.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-924525-share-90958-sale/"><u>2024-09 Discount Coupons - 33.35% Off for VOOPOO VMATE E Pod System Kit 1200mAh 20W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-920918-share-90958-sale/"><u>2024-09 Discount Coupons - 34.64% Off for Vaporesso OSMALL 2 Pod System Kit 450mAh 2Ml, only $8.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-901522-share-90958-sale/"><u>2024-09 Discount Coupons - 34.72% Off for Vandy Vape Gaur-18 18650 Mod 200W, only $34.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-925254-share-90958-sale/"><u>2024-09 Discount Coupons - 35.25% Off for SMOK Novo 2X Pod System Kit 800mAh 20W, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-934131-share-90958-sale/"><u>2024-09 Discount Coupons - 38.48% Off for Geekvape Z Sub-Ohm SE Tank 29Mm 5.5Ml, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-912154-share-90958-sale/"><u>2024-09 Discount Coupons - 38.90% Off for Thunderhead Creations Blaze RTA 26Mm 2Ml, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-915303-share-90958-sale/"><u>2024-09 Discount Coupons - 40.01% Off for Hellvape Dead Rabbit 3 RTA 25Mm 3.5Ml, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-913252-share-90958-sale/"><u>2024-09 Discount Coupons - Only $9.99 VOOPOO Drag Q Pod System Kit 1250mAh 25W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

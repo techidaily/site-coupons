@@ -1,11 +1,10 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"New Customers: 15%% Off on Orders over $69\\\\\\\"\\\"\""
-date: 2024-09-25T11:30:34.019Z
-updated: 2024-09-25T11:30:34.020Z
+date: 2024-09-22T16:01:54.964Z
+updated: 2024-09-25T17:10:12.416Z
 categories:
   - Women's Apparel
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -42,3 +41,32 @@ categories:
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
     "\"New Customers: 15%% Off on Orders over $69\""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-931573-share-90958-sale/"><u>2024-09 Discount Coupons - 22.86% Off for Geekvape T200 (Aegis Touch) Vape Mod Kit 200W, only $53.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-921239-share-90958-sale/"><u>2024-09 Discount Coupons - 24.84% Off for SMOK MAG 18 Vape Kit 230W With TFV18 Tank 7.5Ml, only $29.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-922358-share-90958-sale/"><u>2024-09 Discount Coupons - 25.01% Off for SMOK Nord 5 Pod System Kit 2000mAh 80W, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-931576-share-90958-sale/"><u>2024-09 Discount Coupons - 30.79% Off for R and M Tornado 9000 Puffs Rechargeable Disposable Kit 18Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-929358-share-90958-sale/"><u>2024-09 Discount Coupons - 31.83% Off for Vaporesso LUXE QS Pod System Kit 1000mAh 2Ml, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-921235-share-90958-sale/"><u>2024-09 Discount Coupons - 36.70% Off for SMOK Solus 2 Pod System Kit 700mAh 17W, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-902959-share-90958-sale/"><u>2024-09 Discount Coupons - 40.02% Off for Eleaf iJust D20 Vape Pen Kit 1500mAh 30W, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-929032-share-90958-sale/"><u>2024-09 Discount Coupons - 50.02% Off for DotMod dotStick Revo Pod System Kit 35W 3.5Ml, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-928013-share-90958-sale/"><u>2024-09 Discount Coupons - 60.88% Off for Vandy Vape Pulse AIO.5 Kit 80W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
