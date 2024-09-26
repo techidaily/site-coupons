@@ -50,14 +50,7 @@ categories:
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089955-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Topgreen XMAX QOMO Replacement Glass Tube | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089954-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for Topgreen XMAX QOMO Glass Carb Cap | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089950-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Glamee Nova Disposable Vape (5%, 4000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089951-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Blue Razz Ice 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089952-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">

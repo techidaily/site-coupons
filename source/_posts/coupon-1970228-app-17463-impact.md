@@ -50,12 +50,7 @@ categories:
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089957-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Watermelon Ice 60Ml Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089958-share-59344-sale/"><u>2024-09 Discount Coupons - $18.66 for Voopoo Argus Air 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089959-share-59344-sale/"><u>2024-09 Discount Coupons - $8.00 for Geekvape Wenax H1 Pod Kit | Eight Vape</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <span id="1983552">

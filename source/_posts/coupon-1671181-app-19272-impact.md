@@ -50,12 +50,7 @@ categories:
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089955-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Topgreen XMAX QOMO Replacement Glass Tube | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089954-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for Topgreen XMAX QOMO Glass Carb Cap | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089952-share-59344-sale/"><u>2024-09 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">

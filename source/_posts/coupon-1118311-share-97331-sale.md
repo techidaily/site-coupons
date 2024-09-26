@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Translation Device, Supports Video and Voice Call Translation, 138 Languages, 60 Day Standby, Suitable for iOS and Android | Gshopper
-date: 2024-09-20T17:15:02.725Z
-updated: 2024-09-20T17:15:02.725Z
+date: 2024-09-25T11:30:32.578Z
+updated: 2024-09-25T11:30:32.578Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(36.21k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(32.61k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

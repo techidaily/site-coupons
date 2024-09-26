@@ -50,12 +50,7 @@ categories:
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089230-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for SCAR-P3 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089227-share-59344-sale/"><u>2024-09 Discount Coupons - $6.66 for Valyrian Coils (2Pcs) - Uwell | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089234-share-59344-sale/"><u>2024-09 Discount Coupons - $9.88 for SCAR-P3 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">

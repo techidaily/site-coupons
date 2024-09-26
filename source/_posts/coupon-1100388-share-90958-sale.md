@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - 22.78%% Off 7 Daze Clickmate 15000 Puffs Disposable Vape Kit 18Ml, only $11.49 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-20T17:15:02.808Z
-updated: 2024-09-20T17:15:02.808Z
+date: 2024-09-25T11:30:32.659Z
+updated: 2024-09-25T11:30:32.659Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(48.63k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(23.71k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

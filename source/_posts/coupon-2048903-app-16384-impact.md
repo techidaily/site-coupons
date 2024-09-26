@@ -50,12 +50,7 @@ categories:
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089955-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Topgreen XMAX QOMO Replacement Glass Tube | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089957-share-59344-sale/"><u>2024-09 Discount Coupons - $11.88 for Watermelon Ice 60Ml Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089954-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for Topgreen XMAX QOMO Glass Carb Cap | Eight Vape</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <span id="1982462">

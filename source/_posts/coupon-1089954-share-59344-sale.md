@@ -1,10 +1,11 @@
 ---
 title: 2024-09 Discount Coupons - $3.66 for Topgreen XMAX QOMO Glass Carb Cap | Eight Vape
-date: 2024-09-19T17:13:11.267Z
-updated: 2024-09-21T16:41:12.408Z
+date: 2024-09-25T11:30:32.729Z
+updated: 2024-09-25T11:30:32.729Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(38.69k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(14.43k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,35 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1098926-share-122475-sale/"><u>2024-09 Discount Coupons - 50% of VAAL 6000C Rechargeable Disposable Vape Kit 6000 Puffs 12Ml, only $5.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098927-share-122475-sale/"><u>2024-09 Discount Coupons - 63% of VAAL AOP 1000 Rechargeable Disposable Vape Kit 1000 Puffs 2Ml, only $2.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098928-share-122475-sale/"><u>2024-09 Discount Coupons - 64% of VAAL CQ3300 Rechargeable Disposable 5% Kit, only $2.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098359-share-122475-sale/"><u>2024-09 Discount Coupons - 75% of Joyetech CUBOID TAP with ProCore Aries (No Battery), only $29.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098925-share-122475-sale/"><u>2024-09 Discount Coupons - 76% of VAAL 4500M Rechargeable Disposable Kit 4500 Puffs 10Ml, only $5.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098358-share-122475-sale/"><u>2024-09 Discount Coupons - 82% of ESPION Solo with ProCore Air, only $19.99 | Bellavapor</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

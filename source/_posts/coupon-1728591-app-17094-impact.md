@@ -50,12 +50,7 @@ categories:
       data-full-width-responsive="true"></ins>
     
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089236-share-59344-sale/"><u>2024-09 Discount Coupons - $1.66 for Mini EUC Coils (5Pcs) - Vaporesso | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089240-share-59344-sale/"><u>2024-09 Discount Coupons - $2.66 for Reno Pods (2Pcs) - Suorin | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089239-share-59344-sale/"><u>2024-09 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape</u></a></li>
-</ul></div>
+
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
