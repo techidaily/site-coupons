@@ -1,7 +1,7 @@
 ---
-title: 2024-09 Discount Coupons - $12.99 Pod King XC5000 5000 Puffs Rechargeable Disposable Vape Kit 13.5Ml | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-25T11:30:32.757Z
-updated: 2024-09-25T11:30:32.757Z
+title: 2024-10 Discount Coupons - $12.99 Pod King XC5000 5000 Puffs Rechargeable Disposable Vape Kit 13.5Ml | Vapesourcing Electronics Co.,Ltd.
+date: 2024-09-30T12:37:04.701Z
+updated: 2024-09-30T12:37:04.701Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(26.44k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(35.45k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

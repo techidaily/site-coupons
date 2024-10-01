@@ -1,10 +1,11 @@
 ---
-title: 2024-09 Discount Coupons - Only $8 for VAPGO BAR X 12K Disposable Vape | EightVape
-date: 2024-09-21T18:44:40.536Z
-updated: 2024-09-25T18:06:12.227Z
+title: 2024-10 Discount Coupons - Only $8 for VAPGO BAR X 12K Disposable Vape | EightVape
+date: 2024-09-30T12:37:04.413Z
+updated: 2024-09-30T12:37:04.413Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(40.46k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(41.98k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,38 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118300-share-97331-sale/"><u>2024-09 Discount Coupons - ANBERNIC RG552 Game Console, LPDDR4 4GB, Android 64GB eMMC 5.1, Linux 16GB TF Card - Black | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118304-share-97331-sale/"><u>2024-09 Discount Coupons - BMAX B8 Pro Mini PC | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118303-share-97331-sale/"><u>2024-09 Discount Coupons - Funwater Stand-Up Surfboard Inflatable Paddle Board Sup Paddle Board Water Sports Adult Factory Direct Sales Thickened PVC Water Ski Board320*83*15 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118297-share-97331-sale/"><u>2024-09 Discount Coupons - Global Version Honor Watch GS3 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118305-share-97331-sale/"><u>2024-09 Discount Coupons - HiBREW Fully Automatic Espresso Cappuccino Latte 19Bar 3 in 1 Coffee Machine Automatic | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118302-share-97331-sale/"><u>2024-09 Discount Coupons - Original Global Version Xiaomi TV Box S(2nd Gen) 4K Ultra | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118298-share-97331-sale/"><u>2024-09 Discount Coupons - Xiaomi X MIIIW ART Series Z680 Three Modes Wireless Mechanical Keyboard 68 Keys | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118299-share-97331-sale/"><u>2024-09 Discount Coupons - Xiaomi X MIIIW ART Series Z870 Three Modes Wireless Mechanical Keyboard | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118301-share-97331-sale/"><u>2024-09 Discount Coupons - Xiaomi X MIIIW POP Series Z680cc Mechanical Keyboard 68 Keys Three-Mode | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

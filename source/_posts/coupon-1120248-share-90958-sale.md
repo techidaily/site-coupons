@@ -1,7 +1,7 @@
 ---
-title: 2024-09 Discount Coupons - 25.81%% Off Lost Vape Centaurus E40 Max Pod System Kit 1400mAh 40W, only $22.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-25T11:30:32.523Z
-updated: 2024-09-25T11:30:32.523Z
+title: 2024-10 Discount Coupons - 25.81%% Off Lost Vape Centaurus E40 Max Pod System Kit 1400mAh 40W, only $22.99 | Vapesourcing Electronics Co.,Ltd.
+date: 2024-09-30T12:37:04.452Z
+updated: 2024-09-30T12:37:04.452Z
 categories:
   - Starter Kit
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(19.71k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(3.76k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

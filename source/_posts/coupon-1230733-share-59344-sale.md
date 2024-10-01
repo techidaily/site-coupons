@@ -1,7 +1,7 @@
 ---
-title: 2024-09 Discount Coupons - $13.09 for Keep It 100 20K Disposable Vape | EightVape
-date: 2024-09-25T11:30:32.454Z
-updated: 2024-09-25T11:30:32.454Z
+title: 2024-10 Discount Coupons - $13.09 for Keep It 100 20K Disposable Vape | EightVape
+date: 2024-09-30T12:37:04.378Z
+updated: 2024-09-30T12:37:04.378Z
 categories:
   - NEW ARRIVALS
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(28.43k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(40.55k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

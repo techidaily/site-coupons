@@ -1,10 +1,11 @@
 ---
-title: 2024-09 Discount Coupons - $5.66 for Vandy Vape Pulse AIO DIY Accessories Set | Eight Vape
-date: 2024-09-21T17:55:50.285Z
-updated: 2024-09-26T05:37:03.230Z
+title: 2024-10 Discount Coupons - $5.66 for Vandy Vape Pulse AIO DIY Accessories Set | Eight Vape
+date: 2024-09-30T12:37:04.672Z
+updated: 2024-09-30T12:37:04.672Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(21.02k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(46.46k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-794857-share-90958-sale/"><u>2024-09 Discount Coupons - 28.58% Off for Geekvape Aegis Nano 30W Pod System Kit, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1006283-share-90958-sale/"><u>2024-09 Discount Coupons - 29.42% Off for ThunderHead Creations Blaze Solo RTA 25Mm, only $23.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-807698-share-90958-sale/"><u>2024-09 Discount Coupons - 30.01% Off for Eleaf iStick T80 Mod 80W, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227524-share-59344-sale/"><u>2024-09 Discount Coupons - Hot Weather Hot Deal | EightVape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

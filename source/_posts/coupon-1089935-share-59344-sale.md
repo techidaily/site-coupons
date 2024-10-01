@@ -1,10 +1,11 @@
 ---
-title: 2024-09 Discount Coupons - $11.88 for Blueberry Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape
-date: 2024-09-24T21:49:15.049Z
-updated: 2024-09-25T19:04:36.705Z
+title: 2024-10 Discount Coupons - $11.88 for Blueberry Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape
+date: 2024-09-30T12:37:04.673Z
+updated: 2024-09-30T12:37:04.673Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(41.53k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(49.94k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1229475-share-59344-sale/"><u>2024-09 Discount Coupons - $13.09 for Juice Head 30K Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229476-share-59344-sale/"><u>2024-09 Discount Coupons - $13.97 for Vookbar Cyber PRO 30000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229477-share-59344-sale/"><u>2024-09 Discount Coupons - $13.97 for VOOPOO NEXA Pro 30000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229474-share-59344-sale/"><u>2024-09 Discount Coupons - $14.29 for Remit Mega 18000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229473-share-59344-sale/"><u>2024-09 Discount Coupons - $16.61 for Pillow Talk Ice Control IC40000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229459-share-92020-sale/"><u>2024-09 Discount Coupons - CA_autoship | Relx CA</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229457-share-153311-sale/"><u>2024-09 Discount Coupons - WYBOT S2 Pro with Charging Dock High-End Cordless Robotic Pool Cleaner | WYBOTICS INC</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
