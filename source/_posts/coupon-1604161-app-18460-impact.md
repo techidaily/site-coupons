@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Cape Robbin All Customers Exclusive 12%% Off on All Purchase
-date: 2024-09-28T02:49:35.601Z
-updated: 2024-10-01T06:08:02.312Z
+date: 2024-10-05T17:23:53.072Z
+updated: 2024-10-06T17:46:30.987Z
 categories:
   - Shoes
 ---
@@ -52,21 +52,16 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1230718-share-59344-sale/"><u>2024-10 Discount Coupons - $10.45 for Innevape Strawberry Watermelon Peach Menthol Vape Juice 100Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230711-share-59344-sale/"><u>2024-10 Discount Coupons - $10.45 for Pod Juice Jewel Mint Emerald TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230712-share-59344-sale/"><u>2024-10 Discount Coupons - $10.45 for Pod Juice Rocket Pop Freeze TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230713-share-59344-sale/"><u>2024-10 Discount Coupons - $10.45 for Pod Juice Rocket Pop Freeze TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230714-share-59344-sale/"><u>2024-10 Discount Coupons - $10.45 for Pod Juice Rocket Pop TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230715-share-59344-sale/"><u>2024-10 Discount Coupons - $12.21 for Pod Juice Jewel Mint Emerald Synthetic Vape Juice 100Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230716-share-59344-sale/"><u>2024-10 Discount Coupons - $12.21 for Pod Juice Rocket Pop Freeze Synthetic Vape Juice 100Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230717-share-59344-sale/"><u>2024-10 Discount Coupons - $12.21 for Pod Juice Rocket Pop Synthetic Vape Juice 100Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230719-share-59344-sale/"><u>2024-10 Discount Coupons - $8.69 for Innevape Strawberry Watermelon Peach Nic Salt Vape Juice 30Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089889-share-59344-sale/"><u>2024-10 Discount Coupons - $12.66 for SMOK RGC Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089890-share-59344-sale/"><u>2024-10 Discount Coupons - $4.66 for Smok SCAR-P5 Pods (3Pcs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089887-share-59344-sale/"><u>2024-10 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%, 3500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089888-share-59344-sale/"><u>2024-10 Discount Coupons - $6.66 for Suorin Air Bar Max Disposable Vape (5%, 2000 Puffs) | Eight Vape</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

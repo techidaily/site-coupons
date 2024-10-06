@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - Only 7.66 for Uwell Caliburn Bar B6000 Disposable Vape | EightVape
-date: 2024-10-05T19:52:46.092Z
-updated: 2024-10-05T19:52:46.092Z
+date: 2024-09-29T18:05:43.159Z
+updated: 2024-10-06T19:41:20.754Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,35 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1108187-share-59344-sale/"><u>2024-10 Discount Coupons - $10 Off for Geekvape L200 (Aegis Legend 2) Box Mod Kit 200W | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107750-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Uwell Caliburn A2 15W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108184-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Voopoo V.THRU Pro 25W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108185-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for Geekvape Aegis Nano 30W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108186-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for SMOK Stick R22 Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107751-share-59344-sale/"><u>2024-10 Discount Coupons - $9 Off for Lost Vape Thelema Quest 200W Mod Kit | EightVape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

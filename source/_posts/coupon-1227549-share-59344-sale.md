@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $12.88 for Solaris 25000 Disposable Vape | EightVape
-date: 2024-10-05T19:52:45.899Z
-updated: 2024-10-05T19:52:45.899Z
+date: 2024-10-03T17:03:23.252Z
+updated: 2024-10-06T18:04:16.627Z
 categories:
   - Disposable Vapes
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,31 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1001823-share-90958-sale/"><u>2024-10 Discount Coupons - 22.68% Off Posh MAX 2.0 5200 Puffs Disposable Vape Kit 5%, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1000280-share-90958-sale/"><u>2024-10 Discount Coupons - 26.68% Off Mr Fog Switch 5500 Puffs Disposable Vape Kit 15Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-971128-share-90958-sale/"><u>2024-10 Discount Coupons - 30.56% Off for Eleaf iStick I40 Vape Kit With GTL D20 Tank, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-983052-share-90958-sale/"><u>2024-10 Discount Coupons - 30.56% Off for Vandy Vape Requiem RTA 24Mm 4.5Ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1024760-share-90958-sale/"><u>2024-10 Discount Coupons - 33.87% Off for VOOPOO Doric 20 SE Pod Kit 1200mAh 18W, only $8.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-978835-share-90958-sale/"><u>2024-10 Discount Coupons - 35.73% Off for Lost Vape Thelema Mini Box Mod 1500mAh 45W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1021173-share-90958-sale/"><u>2024-10 Discount Coupons - 37.51% Off for ThunderHead Creations Tauren Elite Pro RTA 22Mm 2Ml/4ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-979348-share-90958-sale/"><u>2024-10 Discount Coupons - 39.15% Off for Freemax Starlux Pod Mod Kit 1400mAh 40W, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

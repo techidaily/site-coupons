@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - Only $8 for VAPGO BAR X 12K Disposable Vape | EightVape
-date: 2024-10-05T19:52:45.906Z
-updated: 2024-10-05T19:52:45.906Z
+date: 2024-10-05T19:13:41.617Z
+updated: 2024-10-06T17:31:14.838Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,35 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1062742-share-90958-sale/"><u>2024-10 Discount Coupons - $12.99 for Flum UT Bar 6000 Disposable Vape Kit 10Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1097640-share-59344-sale/"><u>2024-10 Discount Coupons - $44.88 for VooPoo Drag 4 177W Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1072019-share-90958-sale/"><u>2024-10 Discount Coupons - 20.01% Off Digiflavor Digi-Q Pod System 1000mAh, only $17.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1069385-share-90958-sale/"><u>2024-10 Discount Coupons - 22.86% Off Steam Crave Hadron RDSA 30Mm, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1071405-share-90958-sale/"><u>2024-10 Discount Coupons - 32.15% Off Hellvape Drop Dead 2 RDA 24Mm, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1055123-share-90958-sale/"><u>2024-10 Discount Coupons - 38.11% Off Geekvape Wenax S3 Pod Kit 1100mAh 18W, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

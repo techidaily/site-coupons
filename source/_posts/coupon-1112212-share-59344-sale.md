@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - Only $8.00 for KK Energy 8000 Disposable Vape | EightVape
-date: 2024-10-05T19:52:46.092Z
-updated: 2024-10-05T19:52:46.092Z
+date: 2024-10-01T19:17:58.478Z
+updated: 2024-10-06T17:11:38.271Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,31 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1107705-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK Nfix Pro 25W Pod System Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107728-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK Novo 4 Mini 25W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107702-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK RPM 5 80W Pod Mod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107700-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK RPM 5 Pro 80W Pod Mod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107699-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Uwell Caliburn GK2 18W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107707-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Vaporesso XROS 2 16W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107740-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Vaporesso XROS Nano Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107704-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for VooPoo Argus GT 2 200W Kit | EightVape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
