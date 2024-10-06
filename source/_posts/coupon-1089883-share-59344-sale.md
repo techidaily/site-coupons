@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $5.66 for RPM 2 Pods (3Pcs) - Smok | Eight Vape
-date: 2024-09-28T21:43:12.560Z
-updated: 2024-09-30T22:31:14.399Z
+date: 2024-10-05T19:52:46.158Z
+updated: 2024-10-05T19:52:46.158Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(23.79k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(37.64k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1108701-share-77450-sale/"><u>2024-10 Discount Coupons - 179,00 ? For JIMMY HW9 Cordless Wet Dry Vacuum Cleaner | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1090396-share-77450-sale/"><u>2024-10 Discount Coupons - 209,00 ? For Ultenic D6S Gyro 3000Pa Suction Robot Vacuum Cleaner, 3-In-1 Sweep Vacuum Mop, 4 Cleaning Modes, 2600mAh Battery | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080574-share-77450-sale/"><u>2024-10 Discount Coupons - 79,99 ? For JIGOO J300 Dual-Cup Smart Mite Cleaner With 13KPa Suction, Dust Mite Sensor | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092795-share-77450-sale/"><u>2024-10 Discount Coupons - 849,00 ? For KUKIRIN G2 Master Electric Scooter, 2*1000W Motor, 52V 20.8Ah Battery | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1077299-share-77450-sale/"><u>2024-10 Discount Coupons - 89,99 ? For KTC H24V13 23.8-Inch Gaming Monitor, 100Hz, FHD 1920 X 1080 | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093569-share-77450-sale/"><u>2024-10 Discount Coupons - 949,00 ? For Engwe EP-2 Pro 20*4.0 Fat Tire Foldable Electric Bike - 750W Motor & 48V 13Ah Battery | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093607-share-77450-sale/"><u>2024-10 Discount Coupons - 949,00 ? For ENGWE P26 Electric City Bike Commuting Ebike | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093814-share-77450-sale/"><u>2024-10 Discount Coupons - 999,00 ? For ENGWE M20 20*4.0'' Fat Tires Electric Bike, 750W Brushless Motor | GEEKMAXI.COM</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

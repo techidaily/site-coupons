@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - 30.78%% Off for Eleaf iStick I80 Kit 80W With Melo C Tank, only $26.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-25T07:12:11.341Z
-updated: 2024-09-30T23:45:45.484Z
+date: 2024-10-05T19:52:46.176Z
+updated: 2024-10-05T19:52:46.176Z
 categories:
   - Starter Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(26.75k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(3.82k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,35 +44,3 @@ categories:
     30.78%% Off for Eleaf iStick I80 Kit 80W With Melo C Tank, only $26.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1081578-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for ESCO Bar H2O Disposable Vape (5%, 6000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082237-share-59344-sale/"><u>2024-10 Discount Coupons - $11.88 for Goat Apple Vape Juice 100Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082233-share-59344-sale/"><u>2024-10 Discount Coupons - $11.88 for Goat Watermelon Gum Vape Juice 100Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081711-share-90958-sale/"><u>2024-10 Discount Coupons - $6.99 for Joyetech EVIO M Pod System 900mAh 20W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082231-share-59344-sale/"><u>2024-10 Discount Coupons - $9.88 for Custard Monster NTD Gingerbread Crunch Vape Juice 100Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082226-share-59344-sale/"><u>2024-10 Discount Coupons - $9.88 for Vozol Neon 10000 Disposable Vape (5%, 10000 Puffs) | Eight Vape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

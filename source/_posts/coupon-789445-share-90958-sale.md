@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - 36.70%% Off for Joyetech eGo Pod AST Version Kit 1000mAh, only $7.59 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-23T19:08:00.629Z
-updated: 2024-09-30T20:13:10.010Z
+date: 2024-10-05T19:52:46.165Z
+updated: 2024-10-05T19:52:46.165Z
 categories:
   - Starter Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(22.37k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(8.88k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     36.70%% Off for Joyetech eGo Pod AST Version Kit 1000mAh, only $7.59 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1231769-share-122475-sale/"><u>2024-10 Discount Coupons - "Labor Day: Get $10 Off on Purchases over $100 " | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229645-share-90958-sale/"><u>2024-10 Discount Coupons - $9.99 HEMP Flash Sale | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229774-share-151449-sale/"><u>2024-10 Discount Coupons - 30% Off for Wireless Keyboard With Numeric Keypad | SODI</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1231768-share-122475-sale/"><u>2024-10 Discount Coupons - Bellavapor $9.9 Disposable Zone | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104267-share-59344-sale/"><u>2024-10 Discount Coupons - Buy 2 SMOK Spaceman 10K Pro Disposable Get 1 FREE!!! | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1227865-share-151449-sale/"><u>2024-10 Discount Coupons - SODI Head Strap for Apple Vision Pro | SODI</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

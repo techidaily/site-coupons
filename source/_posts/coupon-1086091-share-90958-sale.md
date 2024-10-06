@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $11.99 for Nicky for Jam X Fume 10000 Disposable Vape Salt Nic 19Ml | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-24T09:45:30.686Z
-updated: 2024-10-01T02:30:04.852Z
+date: 2024-10-05T19:52:46.173Z
+updated: 2024-10-05T19:52:46.173Z
 categories:
   - Disposable Pod Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(5.76k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(18.71k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     $11.99 for Nicky for Jam X Fume 10000 Disposable Vape Salt Nic 19Ml 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1066698-share-90958-sale/"><u>2024-10 Discount Coupons - $6.99 for DOTECO CBS900 510 Battery 900mAh | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1071404-share-90958-sale/"><u>2024-10 Discount Coupons - 30.31% Off Innokin EZ Tube Zenith Minimal Vape Mod Kit 2100mAh 40W, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1041869-share-90958-sale/"><u>2024-10 Discount Coupons - 31.27% Off SMOK Novo Bar AL9000 Disposable Vape Kit 9000 Puffs 15Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1059850-share-90958-sale/"><u>2024-10 Discount Coupons - 32.15% Off Eleaf iStick I75 Box Mod 75W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1064350-share-90958-sale/"><u>2024-10 Discount Coupons - 35.30% Off ThunderHead Creations Tauren MAX RDA 25Mm, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1040210-share-90958-sale/"><u>2024-10 Discount Coupons - 39.41% Off for Hellvape Dead Rabbit Pro RDA 24Mm, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1076140-share-90958-sale/"><u>2024-10 Discount Coupons - 52.55% Off Dovpo MVP Vape Kit 220W with DnP Pod Tank, only $27.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

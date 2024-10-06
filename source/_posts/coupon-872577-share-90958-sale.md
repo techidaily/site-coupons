@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - 35.91%% Off for Dovpo Blotto V1.5 RTA 26Mm 3.5Ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-30T12:37:04.591Z
-updated: 2024-09-30T12:37:04.591Z
+date: 2024-10-05T19:52:46.076Z
+updated: 2024-10-05T19:52:46.076Z
 categories:
   - Tanks/Atomizers
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(39.59k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(16.30k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

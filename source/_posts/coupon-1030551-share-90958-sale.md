@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - 38.91%% Off Sora 8000 Puffs Disposable Vape Kit 16Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-25T10:46:58.890Z
-updated: 2024-09-30T22:58:23.630Z
+date: 2024-10-05T19:52:46.171Z
+updated: 2024-10-05T19:52:46.171Z
 categories:
   - Disposable Pod Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(31.09k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(23.61k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,32 +44,3 @@ categories:
     38.91%% Off Sora 8000 Puffs Disposable Vape Kit 16Ml, only $10.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1407764-app-12108-impact/"><u>2024-09 Discount Coupons - DHgate Summer Sale 50% Off</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081569-share-59344-sale/"><u>2024-10 Discount Coupons - $11.88 for Monster Bar MAX Disposable Vape (5%, 6000 Puff) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081516-share-59344-sale/"><u>2024-10 Discount Coupons - $7.88 for U Toob Bar Disposable Vape (5%, 5000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-967927-share-90958-sale/"><u>2024-10 Discount Coupons - 21.27% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-997665-share-90958-sale/"><u>2024-10 Discount Coupons - 21.88% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-941775-share-90958-sale/"><u>2024-10 Discount Coupons - 26.48% Off for SMOK RPM 85&100 Pod Mod Kit, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1037475-share-90958-sale/"><u>2024-10 Discount Coupons - 40.04% Off for Innokin Klypse Zip Pod Kit 650mAh, only $6.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136713-app-12108-impact/"><u>2024-10 Discount Coupons - DHgate Enjoy $50-$6 With Coupon "DH20246OFFSEP " At Dhgate.com</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136714-app-12108-impact/"><u>2024-10 Discount Coupons - DHgate Enjoy $80$-$8 With Coupon "DH20248OFFSEP " At Dhgate.com</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

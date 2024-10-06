@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - Power Station N7576 User Manual | Gshopper
-date: 2024-09-30T12:37:04.511Z
-updated: 2024-09-30T12:37:04.511Z
+date: 2024-10-05T19:52:45.998Z
+updated: 2024-10-05T19:52:45.998Z
 categories:
   - Tool & 3D Printer
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(37.73k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(9.51k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

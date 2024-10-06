@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - 38.49%% Off MRVI Coming 10000 Disposable Vape 19Ml Digital Screen Display, only $7.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-09-30T12:37:04.625Z
-updated: 2024-09-30T12:37:04.625Z
+date: 2024-10-05T19:52:46.108Z
+updated: 2024-10-05T19:52:46.108Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(24.88k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(21.56k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
