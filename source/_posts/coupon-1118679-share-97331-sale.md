@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - New Xiaomi Dual Interface U Disk | Gshopper
-date: 2024-10-05T19:52:45.954Z
-updated: 2024-10-05T19:52:45.954Z
+date: 2024-10-11T13:02:41.192Z
+updated: 2024-10-11T13:02:41.192Z
 categories:
   - Game & Mini PC &TV Boxs
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(9.15k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(36.70k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

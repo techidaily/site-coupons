@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape
-date: 2024-10-02T17:15:33.210Z
-updated: 2024-10-06T18:45:33.067Z
+date: 2024-10-11T13:02:41.421Z
+updated: 2024-10-11T13:02:41.421Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(49.81k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(42.97k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118599-share-97331-sale/"><u>2024-10 Discount Coupons - Funwater KOI11 6 INFLATABLE STAND UP PADDLE BOARD | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118600-share-97331-sale/"><u>2024-10 Discount Coupons - Funwater| EMBLEM 10��6�� STAND UP PADDLE BOARD | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118597-share-97331-sale/"><u>2024-10 Discount Coupons - Global Version Xiaomi Smart Camera C500 Pro | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118527-share-97331-sale/"><u>2024-10 Discount Coupons - MIUI 3.5L Air Fryer | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118525-share-97331-sale/"><u>2024-10 Discount Coupons - Original Xiaomi Inspiration Stylus Pen Second Generation Magnetic 150 Hour Long Range Suitable for Mi Pad5/6/6 Pro Tablets | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118526-share-97331-sale/"><u>2024-10 Discount Coupons - POWKIDDY X18s Handheld Game Player | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118598-share-97331-sale/"><u>2024-10 Discount Coupons - Square Bottle Round Bottle Glass Bottle Cutting Tool Wine Bottle Cutter DIY | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118596-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi 65W GaN Charger (Type-A + Type-C) EU | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

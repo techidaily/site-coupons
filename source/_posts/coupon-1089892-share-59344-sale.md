@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape
-date: 2024-10-03T17:46:29.325Z
-updated: 2024-10-06T17:10:43.306Z
+date: 2024-10-11T13:02:41.416Z
+updated: 2024-10-11T13:02:41.416Z
 categories:
   - Disposable Vapes
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(37.44k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(9.87k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,37 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118429-share-97331-sale/"><u>2024-10 Discount Coupons - Airwheel SE3MiniT Sliver 20Inch Smart Rideable Suitcase Electric Luggage Scooter | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118431-share-97331-sale/"><u>2024-10 Discount Coupons - DUKA Little Q Electric Ruler Distance Meter | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118427-share-97331-sale/"><u>2024-10 Discount Coupons - EasyThreed K7 3D Printer | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118433-share-97331-sale/"><u>2024-10 Discount Coupons - NothingProjector 100 Inch HE Pet Crystal Fixed Frame Screen | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118432-share-97331-sale/"><u>2024-10 Discount Coupons - Powkiddy A20 Game Console Android Handheld Stick | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118426-share-97331-sale/"><u>2024-10 Discount Coupons - Tesvor Robot Vacuum Cleaner, S6 Suction Mop Robot with Laser Navigation | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118428-share-97331-sale/"><u>2024-10 Discount Coupons - TESVOR S4 Robot Vacuum Cleaner | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118430-share-97331-sale/"><u>2024-10 Discount Coupons - Toocki 67W Gallium Nitride Three-Port Black European Standard Charger for Laptops | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

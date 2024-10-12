@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - Buy 2 SMOK Spaceman 10K Pro Disposable Get 1 FREE!!! | EightVape
-date: 2024-10-05T18:15:27.722Z
-updated: 2024-10-06T18:59:04.435Z
+date: 2024-10-11T13:02:41.079Z
+updated: 2024-10-11T13:02:41.079Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(47.15k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(26.76k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-864033-share-90958-sale/"><u>2024-10 Discount Coupons - 30.45% Off for Geekvape Aegis One & 1FC Kit, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-894397-share-90958-sale/"><u>2024-10 Discount Coupons - 34.15% Off for Eleaf iStick Power 2 Box Mod 80W, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-939606-share-90958-sale/"><u>2024-10 Discount Coupons - 35.02% Off Joyetech EVIO C2 Pod System Kit 800mAh 18W, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-872378-share-90958-sale/"><u>2024-10 Discount Coupons - 39.03% Off for Innokin Kroma 217 100W Mod, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-899033-share-90958-sale/"><u>2024-10 Discount Coupons - 39.14% Off for VOOPOO Argus GT 2 Vape Mod Kit 200W, only $41.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-883099-share-90958-sale/"><u>2024-10 Discount Coupons - 50.04% Off for Uwell Popreel N1 Pod System Kit, only $6.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-843488-share-77450-sale/"><u>2024-10 Discount Coupons - 500? - 5% Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

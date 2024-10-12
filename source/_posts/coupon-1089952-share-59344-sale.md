@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2024-10-04T19:24:26.053Z
-updated: 2024-10-06T16:21:16.525Z
+date: 2024-10-11T13:02:41.412Z
+updated: 2024-10-11T13:02:41.412Z
 categories:
   - \"\"
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(36.36k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(43.36k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118191-share-97331-sale/"><u>2024-10 Discount Coupons - Classic Touch Sensor LED Table Lamp Rechargeable Desk Lamp | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118189-share-97331-sale/"><u>2024-10 Discount Coupons - EU Version Xiaomi Induction Cooker Lite | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118193-share-97331-sale/"><u>2024-10 Discount Coupons - Global Version Tenda AC6 WiFi Router | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118194-share-97331-sale/"><u>2024-10 Discount Coupons - HOCO/Hoco E58 Car AUX Bluetooth Receiver | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118192-share-97331-sale/"><u>2024-10 Discount Coupons - Tenda AC7 Dual Band Wireless AC1200 Wifi Router | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118190-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi NexTool 9 in 1 Multifunctional Wrench Folding Knife | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

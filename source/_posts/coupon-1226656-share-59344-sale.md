@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $7.88 for Drip More Goat Salts Spearmint Nic Salt Vape Juice 30Ml | EightVape
-date: 2024-10-01T17:11:25.129Z
-updated: 2024-10-06T16:14:33.447Z
+date: 2024-10-11T13:02:41.141Z
+updated: 2024-10-11T13:02:41.141Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(47.97k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(27.72k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1098865-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for Drip More GOAT Berry Vape Juice 100Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098864-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for Drip More GOAT Cola Vape Juice 100Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098867-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for Vapetasia Pod Punch Blue Razz Lemon Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098866-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for Vapetasia Pod Punch Hawaiian P.O.G. Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097873-share-90958-sale/"><u>2024-10 Discount Coupons - 27.01% Off Freemax Galex Nano 2 Pod System 900mAh 25W, only $14.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097872-share-90958-sale/"><u>2024-10 Discount Coupons - 27.84% Off Vaporesso XROS Cube Pod System 900mAh 16W, only $16.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1098515-share-127380-sale/"><u>2024-10 Discount Coupons - Grab a Bargain in AOHI MID-MONTH BIG SALE! | AOHI</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097916-share-96416-sale/"><u>2024-10 Discount Coupons - Netvue Home Security Camera | Netvue</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

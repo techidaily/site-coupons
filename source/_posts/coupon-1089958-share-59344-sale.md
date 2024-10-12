@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $18.66 for Voopoo Argus Air 25W Pod Kit | EightVape
-date: 2024-09-29T16:06:37.745Z
-updated: 2024-10-06T17:53:51.786Z
+date: 2024-10-11T13:02:41.412Z
+updated: 2024-10-11T13:02:41.412Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(34.89k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(7.41k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,37 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118158-share-97331-sale/"><u>2024-10 Discount Coupons - Mijia Karaoke Microphone | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118159-share-97331-sale/"><u>2024-10 Discount Coupons - New Mijia Body Fat Scale S400 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118156-share-97331-sale/"><u>2024-10 Discount Coupons - New Mijia Multifunctional Strong Light Flashlight | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118154-share-97331-sale/"><u>2024-10 Discount Coupons - New Mijia Portable Dental Rinser F400 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118152-share-97331-sale/"><u>2024-10 Discount Coupons - New Xiaomi 6A Dual Type-C High-Speed Braided Data Cable | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118157-share-97331-sale/"><u>2024-10 Discount Coupons - New Xiaomi Car Karaoke Microphone | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118155-share-97331-sale/"><u>2024-10 Discount Coupons - New Xiaomi Outdoor Bluetooth Speaker Camp | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118153-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi 6A Dual Type-C Braided Data Cable | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
