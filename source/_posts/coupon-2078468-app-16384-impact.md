@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER$109 GET $10 OFF (CODE: UR10)\\\\\\\"\\\"\""
-date: 2024-10-01T18:19:26.122Z
-updated: 2024-10-06T17:20:22.395Z
+date: 2024-10-10T21:09:55.844Z
+updated: 2024-10-12T11:05:39.084Z
 categories:
   - Women's Apparel
 ---
@@ -52,21 +52,24 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1229475-share-59344-sale/"><u>2024-10 Discount Coupons - $13.09 for Juice Head 30K Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229476-share-59344-sale/"><u>2024-10 Discount Coupons - $13.97 for Vookbar Cyber PRO 30000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229477-share-59344-sale/"><u>2024-10 Discount Coupons - $13.97 for VOOPOO NEXA Pro 30000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1055783-share-90958-sale/"><u>2024-10 Discount Coupons - 30.45% Off Eleaf iJust AIO Pro Pod Kit 3000mAh 70W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020802-share-102236-sale/"><u>2024-10 Discount Coupons - 50% Off for All Software Keys | Godeal24</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1068109-share-102236-sale/"><u>2024-10 Discount Coupons - 50% Off for Black Friday Sale | Godeal24</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020803-share-102236-sale/"><u>2024-10 Discount Coupons - 62%Off Coupon for All Office Items | Godeal24</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1068110-share-102236-sale/"><u>2024-10 Discount Coupons - Black Friday Discount for Black Friday Sale | Godeal24</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020807-share-102236-sale/"><u>2024-10 Discount Coupons - Extra 66% Off for Office 2021 Pro Plus | Godeal24</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094185-share-90958-sale/"><u>2024-10 Discount Coupons - 15.53% Off Lost Vape LightRise TB 18K Disposable Vape Kit 18Ml, only $10.88 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1081320-share-90958-sale/"><u>2024-10 Discount Coupons - 21.84% Off Gem Bar GB10000 Rechargeable Disposable Vape 20Ml, only $8.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083471-share-90958-sale/"><u>2024-10 Discount Coupons - 22.44% Off Foger CT10000 Disposable Vape 10000 Puffs, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1078004-share-90958-sale/"><u>2024-10 Discount Coupons - 24.33% Off Lost Vape Orion Bar 10000 Puffs Disposable Vape 20Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1067719-share-90958-sale/"><u>2024-10 Discount Coupons - 30.31% Off for VOOPOO Drag S2 Pod System 2500mAh 60W, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1079071-share-90958-sale/"><u>2024-10 Discount Coupons - 30.79% Off Yovo JB8000 Smart Disposable Vape Kit 8000 Puffs 12Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
