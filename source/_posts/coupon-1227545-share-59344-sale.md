@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $9.88 for Elf Bar BC5000 Disposable Vape | EightVape
-date: 2024-10-17T12:14:47.406Z
-updated: 2024-10-17T12:14:47.406Z
+date: 2024-10-14T05:15:13.297Z
+updated: 2024-10-18T07:23:47.601Z
 categories:
   - Disposable Vapes
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,31 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1228020-share-59344-sale/"><u>2024-10 Discount Coupons - $22.04 for VOOPOO Vmate Max 30W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1227850-share-59344-sale/"><u>2024-10 Discount Coupons - $9.74 for Vapetasia Better Salt Blue Razz Lemon TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1227849-share-59344-sale/"><u>2024-10 Discount Coupons - $9.74 for Vapetasia Better Salt Hawaiian POG TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086968-share-90958-sale/"><u>2024-10 Discount Coupons - 16.68% Off Lost Mary Off-Stamp SW9000 Disposable Vape Kit, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106332-share-90958-sale/"><u>2024-10 Discount Coupons - 26.93% Off Vaporesso XROS 4 Pod System Kit 1000mAh 16W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1064927-share-90958-sale/"><u>2024-10 Discount Coupons - 29.25% Off RabBeats RC10000 Disposable Vape Kit, only $6.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1103109-share-90958-sale/"><u>2024-10 Discount Coupons - 33.36% Off Cloud Bar TN15000 Disposable Vape Kit 23Ml, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1155738-share-157785-sale/"><u>2024-10 Discount Coupons - Discount | TESmart</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

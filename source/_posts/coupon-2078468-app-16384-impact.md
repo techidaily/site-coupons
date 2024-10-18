@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER$109 GET $10 OFF (CODE: UR10)\\\\\\\"\\\"\""
-date: 2024-10-10T21:09:55.844Z
-updated: 2024-10-12T11:05:39.084Z
+date: 2024-10-11T16:46:08.719Z
+updated: 2024-10-18T00:35:24.548Z
 categories:
   - Women's Apparel
 ---
@@ -52,24 +52,22 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1094185-share-90958-sale/"><u>2024-10 Discount Coupons - 15.53% Off Lost Vape LightRise TB 18K Disposable Vape Kit 18Ml, only $10.88 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081320-share-90958-sale/"><u>2024-10 Discount Coupons - 21.84% Off Gem Bar GB10000 Rechargeable Disposable Vape 20Ml, only $8.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083471-share-90958-sale/"><u>2024-10 Discount Coupons - 22.44% Off Foger CT10000 Disposable Vape 10000 Puffs, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1078004-share-90958-sale/"><u>2024-10 Discount Coupons - 24.33% Off Lost Vape Orion Bar 10000 Puffs Disposable Vape 20Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067719-share-90958-sale/"><u>2024-10 Discount Coupons - 30.31% Off for VOOPOO Drag S2 Pod System 2500mAh 60W, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1079071-share-90958-sale/"><u>2024-10 Discount Coupons - 30.79% Off Yovo JB8000 Smart Disposable Vape Kit 8000 Puffs 12Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117916-share-97331-sale/"><u>2024-10 Discount Coupons - CUBOT HAFURY V1(4G Smartphone) | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117914-share-97331-sale/"><u>2024-10 Discount Coupons - Global Version Xiaomi Sound Pocket | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117915-share-97331-sale/"><u>2024-10 Discount Coupons - NEW ANBERNIC RG35XXSP | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117917-share-97331-sale/"><u>2024-10 Discount Coupons - Oukitel WP38 Rugged Phone | Gshopper</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

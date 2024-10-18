@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape
-date: 2024-10-17T12:14:47.672Z
-updated: 2024-10-17T12:14:47.672Z
+date: 2024-10-13T03:45:50.326Z
+updated: 2024-10-17T17:29:31.497Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,30 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1023392-share-90958-sale/"><u>2024-10 Discount Coupons - $7.59 for Vapsi OAO Disposable Vape Kit 6000 Puffs 12Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1027021-share-90958-sale/"><u>2024-10 Discount Coupons - 21.26% Off BOT IT 10000 Puffs Disposable Vape Kit, only $12.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-658149-share-90958-sale/"><u>2024-10 Discount Coupons - 31.05% Off for GeekVape Zeus X RTA 4.5Ml, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-979071-share-90958-sale/"><u>2024-10 Discount Coupons - 32.02% Off for Innokin Sceptre 2 Pod Kit 1400mAh, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-996519-share-90958-sale/"><u>2024-10 Discount Coupons - 44.47% Off for Tugpod Ultra Disposable Vape Kit 6000 Puffs 15Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-981116-share-90958-sale/"><u>2024-10 Discount Coupons - 55.59% Off for Sfog Big Bang Disposable Vape Kit 9000 Puffs18ml, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094140-share-122475-sale/"><u>2024-10 Discount Coupons - Buy 1 Get 1 Free of ProCore Air Plus Atomizer, only $15.99 | Bellavapor</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

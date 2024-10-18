@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $16.88 for SMOK Propod 22W Pod Kit | Eight Vape
-date: 2024-10-17T12:14:47.673Z
-updated: 2024-10-17T12:14:47.673Z
+date: 2024-10-13T02:47:12.977Z
+updated: 2024-10-17T16:28:13.305Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,31 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1094238-share-59344-sale/"><u>2024-10 Discount Coupons - $19.88 for Uwell Caliburn Tenet 16W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094236-share-59344-sale/"><u>2024-10 Discount Coupons - $20.88 for Uwell Caliburn Tenet KOKO 18W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094240-share-59344-sale/"><u>2024-10 Discount Coupons - $23.88 for Lost Vape Thelema Mini 45W Pod Mod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094241-share-59344-sale/"><u>2024-10 Discount Coupons - $43.88 for BP Mods X DOVPO Lightsaber Pod Mod Kit - Model.L | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094242-share-59344-sale/"><u>2024-10 Discount Coupons - $9.88 for VooPoo Argus Z 17W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094835-share-136981-sale/"><u>2024-10 Discount Coupons - 18% OFF on All Sites | HONG KONG JINGCHEN E-COMMERCE CO., LIMITED</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094248-share-59344-sale/"><u>2024-10 Discount Coupons - 20% Off All Freebase | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094259-share-59344-sale/"><u>2024-10 Discount Coupons - Any 5 for $55 | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

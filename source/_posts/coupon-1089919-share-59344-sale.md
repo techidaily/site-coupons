@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $9.66 for Lucid Flow Disposable Vape (5%%, 5000 Puffs) | Eight Vape
-date: 2024-10-17T12:14:47.672Z
-updated: 2024-10-17T12:14:47.672Z
+date: 2024-10-14T02:14:36.864Z
+updated: 2024-10-18T02:51:20.347Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,29 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-967926-share-90958-sale/"><u>2024-10 Discount Coupons - 25.29% Off for Lost Vape Centaurus M200 Box Mod 200W, only $39.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-971128-share-90958-sale/"><u>2024-10 Discount Coupons - 30.56% Off for Eleaf iStick I40 Vape Kit With GTL D20 Tank, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-983052-share-90958-sale/"><u>2024-10 Discount Coupons - 30.56% Off for Vandy Vape Requiem RTA 24Mm 4.5Ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-978835-share-90958-sale/"><u>2024-10 Discount Coupons - 35.73% Off for Lost Vape Thelema Mini Box Mod 1500mAh 45W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-979348-share-90958-sale/"><u>2024-10 Discount Coupons - 39.15% Off for Freemax Starlux Pod Mod Kit 1400mAh 40W, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-945529-share-90958-sale/"><u>2024-10 Discount Coupons - 41.13% Off for VOOPOO VINCI SE Pod System Kit 900mAh 15W, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

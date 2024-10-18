@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2024-10-17T12:14:47.671Z
-updated: 2024-10-17T12:14:47.671Z
+date: 2024-10-12T01:58:10.633Z
+updated: 2024-10-18T06:44:53.252Z
 categories:
   - \"\"
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,30 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1085667-share-90958-sale/"><u>2024-10 Discount Coupons - $10.99 for VOZOL Neon 10000 Disposable Vape 10Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084856-share-59344-sale/"><u>2024-10 Discount Coupons - $13.88 for Geekvape AQ (Aegis Q) 20W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084857-share-59344-sale/"><u>2024-10 Discount Coupons - $13.88 for Geekvape Wenax K2 18W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084855-share-59344-sale/"><u>2024-10 Discount Coupons - $13.88 for Geekvape Wenax Q 25W Mini Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084859-share-59344-sale/"><u>2024-10 Discount Coupons - $15.88 for Uwell Caliburn GK3 25W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086043-share-90958-sale/"><u>2024-10 Discount Coupons - 30.01% Off BP Mods Warhammer Box Mod 60W, only $27.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1085393-share-90958-sale/"><u>2024-10 Discount Coupons - 30.78% Off VOOPOO Doric Galaxy Pod System with Power Bank, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

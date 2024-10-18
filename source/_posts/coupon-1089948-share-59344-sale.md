@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $8.66 for U TooB 100 Iced Strawberry Watermelon 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2024-10-17T12:14:47.671Z
-updated: 2024-10-17T12:14:47.671Z
+date: 2024-10-17T01:12:58.640Z
+updated: 2024-10-17T23:21:43.752Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,30 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1088918-share-59344-sale/"><u>2024-10 Discount Coupons - $15.88 for Lost Vape URSA NANO 2 22W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-702423-share-90958-sale/"><u>2024-10 Discount Coupons - 28.44% Off Uwell Caliburn Vape Pod System Kit, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-864033-share-90958-sale/"><u>2024-10 Discount Coupons - 30.45% Off for Geekvape Aegis One & 1FC Kit, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-789445-share-90958-sale/"><u>2024-10 Discount Coupons - 36.70% Off for Joyetech eGo Pod AST Version Kit 1000mAh, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-872378-share-90958-sale/"><u>2024-10 Discount Coupons - 39.03% Off for Innokin Kroma 217 100W Mod, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-883099-share-90958-sale/"><u>2024-10 Discount Coupons - 50.04% Off for Uwell Popreel N1 Pod System Kit, only $6.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-843488-share-77450-sale/"><u>2024-10 Discount Coupons - 500? - 5% Discount for Sitewide | GEEKMAXI.COM</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
