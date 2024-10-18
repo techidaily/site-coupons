@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $9.88 for Elf Bar BC5000 Disposable Vape | EightVape
-date: 2024-10-07T02:25:43.868Z
-updated: 2024-10-12T00:53:59.133Z
+date: 2024-10-17T12:14:47.406Z
+updated: 2024-10-17T12:14:47.406Z
 categories:
   - Disposable Vapes
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(17.37k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(9.91k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1024539-share-90958-sale/"><u>2024-10 Discount Coupons - 22.68% Off for Tyson 2.0 Heavy Weight Disposable Vape Kit 7000 Puffs 15Ml, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1021496-share-90958-sale/"><u>2024-10 Discount Coupons - 30.45% Off for SMOK Nord C Pod Kit 1800mAh 50W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1028464-share-90958-sale/"><u>2024-10 Discount Coupons - 51.23% Off for SMOK Mag Solo Vape Kit 100W Get One Free Mystery E-Juice, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1028168-share-90958-sale/"><u>2024-10 Discount Coupons - 56.53% Off for VOOPOO Drag M100 S Vape Kit 100W, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1005252-share-90958-sale/"><u>2024-10 Discount Coupons - 60.99% Off for LVE Orion 2 Pod Kit 1500mAh 40W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1028474-share-90958-sale/"><u>2024-10 Discount Coupons - 70.61% Off for VOOPOO Drag M100 S Box Mod 100W, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

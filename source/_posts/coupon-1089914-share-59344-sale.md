@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape
-date: 2024-10-10T06:49:49.223Z
-updated: 2024-10-11T20:56:26.131Z
+date: 2024-10-17T12:14:47.673Z
+updated: 2024-10-17T12:14:47.673Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(27.17k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(12.51k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118712-share-97331-sale/"><u>2024-10 Discount Coupons - Global Version Xiaomi Mi TV Stick Android TV 9.0 4-Core 1080P | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118667-share-97331-sale/"><u>2024-10 Discount Coupons - Nextool Rechargeable Flashlight 5000mAh 2000Lm | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118666-share-97331-sale/"><u>2024-10 Discount Coupons - PETKIT Fit 3 Smart Pet Collars Tag Bluetooth Remote Control | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118716-share-97331-sale/"><u>2024-10 Discount Coupons - Redmi Buds 4 ActiveGlobal Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118715-share-97331-sale/"><u>2024-10 Discount Coupons - Redmi Buds 4 LiteGlobal Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118713-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi Redmi Buds 3 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118717-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi Redmi Buds 4 Global Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118714-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi Redmi Buds 4 ProGlobal Version | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

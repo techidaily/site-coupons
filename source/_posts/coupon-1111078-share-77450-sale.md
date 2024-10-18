@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - 64? OFF for ONESPORT OT16-2 Foldable Electric Bike, 250W Motor, 48V 17Ah Battery | GEEKMAXI.COM
-date: 2024-10-11T13:02:41.084Z
-updated: 2024-10-11T13:02:41.084Z
+date: 2024-10-17T12:14:47.360Z
+updated: 2024-10-17T12:14:47.360Z
 categories:
   - Sports&Outdoors
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(47.31k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(29.94k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

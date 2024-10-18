@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - Only $9.88 for MOTI Duo 9000 Disposable Vape | EightVape
-date: 2024-10-11T02:23:34.406Z
-updated: 2024-10-12T12:42:17.831Z
+date: 2024-10-17T12:14:47.608Z
+updated: 2024-10-17T12:14:47.608Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(44.24k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(47.39k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,37 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117922-share-97331-sale/"><u>2024-10 Discount Coupons - Baseus 65W Chargeur Rapide USB-C Type C | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117926-share-97331-sale/"><u>2024-10 Discount Coupons - Huawei Sound Joy Portable Smart Speaker | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117924-share-97331-sale/"><u>2024-10 Discount Coupons - Mi 5-Blade Electric Shaver | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117919-share-97331-sale/"><u>2024-10 Discount Coupons - Oukitel C38 5150mAh Battery 6.6-Inch 2K Display Android 13 Smartphone | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117920-share-97331-sale/"><u>2024-10 Discount Coupons - Oukitel C51 5150mAh Battery 9Mm Ultra-Thin Body SmartPhone | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117923-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi 14 Ultra Camera Kit | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117921-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi 50W Wireless Car Charger | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117925-share-97331-sale/"><u>2024-10 Discount Coupons - Xiaomi Electric Toothbrush T700 | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

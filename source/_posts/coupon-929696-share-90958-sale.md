@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - 50.03%% Off Cloud Bar Geerdun Boom 10000 Puffs Rechargeable Disposable Vape Kit 17Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-10-07T10:04:31.765Z
-updated: 2024-10-11T17:06:25.877Z
+date: 2024-10-17T12:14:47.692Z
+updated: 2024-10-17T12:14:47.692Z
 categories:
   - Disposable Pod Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(18.25k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(16.23k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     50.03%% Off Cloud Bar Geerdun Boom 10000 Puffs Rechargeable Disposable Vape Kit 17Ml, only $8.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-931573-share-90958-sale/"><u>2024-10 Discount Coupons - 22.86% Off for Geekvape T200 (Aegis Touch) Vape Mod Kit 200W, only $53.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-929358-share-90958-sale/"><u>2024-10 Discount Coupons - 31.83% Off for Vaporesso LUXE QS Pod System Kit 1000mAh 2Ml, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-921235-share-90958-sale/"><u>2024-10 Discount Coupons - 36.70% Off for SMOK Solus 2 Pod System Kit 700mAh 17W, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-928013-share-90958-sale/"><u>2024-10 Discount Coupons - 60.88% Off for Vandy Vape Pulse AIO.5 Kit 80W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2148808-app-18498-impact/"><u>2024-10 Discount Coupons - Unicoeye 10%OFF FOR 2+ PAIRS</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2148811-app-18498-impact/"><u>2024-10 Discount Coupons - Unicoeye 20% OFF FOR 3+ PAIRS</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2148821-app-18498-impact/"><u>2024-10 Discount Coupons - Unicoeye BUY 4 GET 1 FREE</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

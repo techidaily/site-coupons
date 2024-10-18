@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - Save Extra 15 for Order over 300, US/EU/DE/UK/CA/AU/JP Store | CrealityOfficialStore
-date: 2024-10-11T13:02:41.158Z
-updated: 2024-10-11T13:02:41.158Z
+date: 2024-10-17T12:14:47.429Z
+updated: 2024-10-17T12:14:47.429Z
 categories:
   - Coupon Code
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(39.87k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(28.89k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

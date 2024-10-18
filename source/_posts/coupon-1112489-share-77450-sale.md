@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - 20? OFF for Flashfish A1001 1030Wh/1000W Portable Power Station Solar Generator | GEEKMAXI.COM
-date: 2024-10-11T13:02:41.095Z
-updated: 2024-10-11T13:02:41.095Z
+date: 2024-10-17T12:14:47.370Z
+updated: 2024-10-17T12:14:47.370Z
 categories:
   - Sports&Outdoors
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(31.55k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(14.15k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

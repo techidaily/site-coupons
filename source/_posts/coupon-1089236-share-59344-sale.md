@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $1.66 for Mini EUC Coils (5Pcs) - Vaporesso | Eight Vape
-date: 2024-10-09T10:57:10.241Z
-updated: 2024-10-12T10:34:44.046Z
+date: 2024-10-17T12:14:47.679Z
+updated: 2024-10-17T12:14:47.679Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(44.98k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(46.50k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1069039-share-90958-sale/"><u>2024-10 Discount Coupons - 21.44% Off IJOY Captain 10000 Disposable Vape Kit 10000 Puffs 18Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1020003-share-90958-sale/"><u>2024-10 Discount Coupons - 28.13% Off for SMOK RPM C Pod Kit 1650mAh 50W, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-978833-share-90958-sale/"><u>2024-10 Discount Coupons - 29.42% Off for Lost Vape Thelema Mini Pod Mod Kit 1500mAh 45W, only $23.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1045986-share-90958-sale/"><u>2024-10 Discount Coupons - 32.95% Off for Uwell Caliburn AZ3 Pod Kit 750mAh 17W, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-985935-share-90958-sale/"><u>2024-10 Discount Coupons - 33.14% Off for Steam Crave Meson RTA 25Mm 5Ml/6ml, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1063078-share-90958-sale/"><u>2024-10 Discount Coupons - 43.78% Off for RandM Digital Box 12000 12K Fumot Vape 20Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-999107-share-90958-sale/"><u>2024-10 Discount Coupons - 48.02% Off for Smoant Pasito Mini Pod Kit 1100mAh 30W, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1079074-share-110294-sale/"><u>2024-10 Discount Coupons - 5% OFF Requiring No Minimum | SmallRig DE</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
