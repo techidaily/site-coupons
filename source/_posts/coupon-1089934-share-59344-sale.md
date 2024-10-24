@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $6.66 for Vaptio Pago Replacement Pod | Eight Vape
-date: 2024-10-23T05:43:24.708Z
-updated: 2024-10-23T05:43:24.708Z
+date: 2024-10-20T03:21:56.112Z
+updated: 2024-10-23T23:58:19.241Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,38 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-892179-share-90958-sale/"><u>2024-10 Discount Coupons - 25.02% Off for Geekvape Wenax M1 Pod System Kit 800mAh 16W, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1033356-share-90958-sale/"><u>2024-10 Discount Coupons - 29.18% Off for OXVA Xlim V2 Pod Kit 900mAh 25W, only $16.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-791468-share-90958-sale/"><u>2024-10 Discount Coupons - 36.01% Off for Geekvape Z Max Sub Ohm Tank, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-873638-share-90958-sale/"><u>2024-10 Discount Coupons - 37.52% Off for Joyetech eGo Air Pod System Kit 650mAh, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-829802-share-90958-sale/"><u>2024-10 Discount Coupons - 37.79% Off for Geekvape S100 Box Mod (Aegis Solo 2) 100W, only $27.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1027339-share-90958-sale/"><u>2024-10 Discount Coupons - 38.91% Off for Hellvape Fusion R Pod Kit 800mAh, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-993547-share-90958-sale/"><u>2024-10 Discount Coupons - 39.69% Off for Innokin Endura APEX Vape Pen Kit 1800mAh, only $18.69 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1007305-share-90958-sale/"><u>2024-10 Discount Coupons - 44.49% Off for VOOPOO Doric Q Pod Kit 800mAh 12W, only $4.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-985119-share-90958-sale/"><u>2024-10 Discount Coupons - 51.53% Off for Uwell Crown M Pod Mod Kit 1000mAh 35W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

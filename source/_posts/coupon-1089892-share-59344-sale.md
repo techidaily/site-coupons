@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape
-date: 2024-10-23T05:43:24.710Z
-updated: 2024-10-23T05:43:24.710Z
+date: 2024-10-19T05:42:16.887Z
+updated: 2024-10-23T19:15:14.599Z
 categories:
   - Disposable Vapes
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,28 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1106046-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Lost Vape Centaurus Q80 Pod Mod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106054-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for Lost Vape Centaurus Q200 Kit W/ UB Max Tank | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106030-share-59344-sale/"><u>2024-10 Discount Coupons - 10% OFF FOR NEWEST ELF BAR | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094184-share-90958-sale/"><u>2024-10 Discount Coupons - 33.36% Off WTNSMOK 16K Disposable Vape 30Ml - 2 in 1 Double Flavors, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106028-share-124834-sale/"><u>2024-10 Discount Coupons - Get Extra 5% Off for All Items, DE Store Only | CrealityOfficialStore</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%%, 3500 Puffs) | Eight Vape
-date: 2024-10-23T05:43:24.711Z
-updated: 2024-10-23T05:43:24.711Z
+date: 2024-10-22T19:09:26.642Z
+updated: 2024-10-24T00:25:25.596Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,32 @@ categories:
     Grab Your Deal Now, While Supplies Hold Up! 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1107748-share-59344-sale/"><u>2024-10 Discount Coupons - $10 Off for Geekvape Aegis S100 (Solo 2) Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107746-share-59344-sale/"><u>2024-10 Discount Coupons - $2 Off for Uwell Caliburn AK2 Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107705-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK Nfix Pro 25W Pod System Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107728-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK Novo 4 Mini 25W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107707-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Vaporesso XROS 2 16W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107740-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Vaporesso XROS Nano Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107747-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for VooPoo Doric 60W Pod Mod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107745-share-59344-sale/"><u>2024-10 Discount Coupons - $6 Off for Geekvape H45 (Aegis Hero 2) Pod Mod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107744-share-127380-sale/"><u>2024-10 Discount Coupons - Discover Our New Release! Enjoy Your Early Bird Price Just for This Time!!! | AOHI</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

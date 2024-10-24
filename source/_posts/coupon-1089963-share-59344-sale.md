@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $12.66 for Releafy Torch 2.0 Replacement Heating Chambers (4X Pack) | Eight Vape
-date: 2024-10-23T05:43:24.706Z
-updated: 2024-10-23T05:43:24.706Z
+date: 2024-10-21T18:58:24.068Z
+updated: 2024-10-23T20:16:18.353Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,28 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1088926-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for Vaporesso ECO NANO Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1088925-share-59344-sale/"><u>2024-10 Discount Coupons - $12.88 for Lost Vape URSA Baby 2 22W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1088927-share-59344-sale/"><u>2024-10 Discount Coupons - $12.88 for Uwell Caliburn AZ3 17W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1088928-share-59344-sale/"><u>2024-10 Discount Coupons - $15.88 for Uwell Caliburn GZ2 17W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1088930-share-59344-sale/"><u>2024-10 Discount Coupons - $28.88 for Geekvape H45 Classic (Aegis Hero 2 Classic) Pod Mod Kit | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

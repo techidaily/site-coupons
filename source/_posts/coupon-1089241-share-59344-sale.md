@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $9.88 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape
-date: 2024-10-23T05:43:24.715Z
-updated: 2024-10-23T05:43:24.715Z
+date: 2024-10-21T17:13:54.387Z
+updated: 2024-10-24T02:38:09.851Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,31 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1113757-share-90958-sale/"><u>2024-10 Discount Coupons - $16.99 for Lost Vape Ursa Nano Pro 2 Pod System | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1113756-share-90958-sale/"><u>2024-10 Discount Coupons - $18.99 for Lost Vape Thelema Elite 40 Pod System 1400mAh 40W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106031-share-81748-sale/"><u>2024-10 Discount Coupons - 12% Off | EasySMX Co., Ltd</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1113417-share-90958-sale/"><u>2024-10 Discount Coupons - 27.79% Off HOPO Fliptip HD 16000 Puffs Disposable Vape Kit 20Ml, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1113441-share-155934-sale/"><u>2024-10 Discount Coupons - Buy Now and Save $20.Don't Miss Out! | TYVOK</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1111726-share-92020-sale/"><u>2024-10 Discount Coupons - FR_pod&pod Pro_buy Six Get Seven | RELX Global</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1113038-share-96806-sale/"><u>2024-10 Discount Coupons - FSR Special Discount! | Prime Buy</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1114215-share-59344-sale/"><u>2024-10 Discount Coupons - Welcome Offer 20% OFF | EightVape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

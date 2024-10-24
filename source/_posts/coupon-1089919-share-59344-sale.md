@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $9.66 for Lucid Flow Disposable Vape (5%%, 5000 Puffs) | Eight Vape
-date: 2024-10-23T05:43:24.709Z
-updated: 2024-10-23T05:43:24.709Z
+date: 2024-10-22T20:57:02.216Z
+updated: 2024-10-23T18:03:01.455Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,29 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1105539-share-59344-sale/"><u>2024-10 Discount Coupons - $10.88 for VooPoo VMATE Infinity Edition 17W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1105534-share-59344-sale/"><u>2024-10 Discount Coupons - $11.88 for Geek Bar Digiflavor Lush Disposable Vape (5%, 20000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1105536-share-59344-sale/"><u>2024-10 Discount Coupons - $11.88 for HotBox LUXE 12K Disposable Vape (5%, 12000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1105538-share-59344-sale/"><u>2024-10 Discount Coupons - $18.88 for VooPoo VMATE E 20W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1105541-share-59344-sale/"><u>2024-10 Discount Coupons - $22.88 for SMOK Nord 5 80W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1105514-share-90958-sale/"><u>2024-10 Discount Coupons - 29.17% Off for Timesvape The Dreamer Clutch Mechanical Mod, only $50.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

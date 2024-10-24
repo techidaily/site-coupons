@@ -1,11 +1,10 @@
 ---
 title: 2024-10 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape
-date: 2024-10-23T05:43:24.708Z
-updated: 2024-10-23T05:43:24.708Z
+date: 2024-10-17T17:15:11.757Z
+updated: 2024-10-24T02:06:28.816Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,33 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1100683-share-38812-sale/"><u>2024-10 Discount Coupons - $425.28 for Creality K1 3D Printer Updated Version-EU Stock | Geekbuying</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1100605-share-90958-sale/"><u>2024-10 Discount Coupons - 24.02% Off VAPGO XERO Classic Pod System Kit 800mAh 24W, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1100604-share-90958-sale/"><u>2024-10 Discount Coupons - 26.33% Off DotMod Switch Nano 25W Pod System, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1100574-share-59344-sale/"><u>2024-10 Discount Coupons - Buy 1 Item Get 1 Item at 50% Off-IJOY IC 8000 | EightVape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
