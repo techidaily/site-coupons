@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape
-date: 2024-10-14T01:34:46.103Z
-updated: 2024-10-18T08:02:51.680Z
+date: 2024-10-23T05:43:24.715Z
+updated: 2024-10-23T05:43:24.715Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(34.13k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(31.24k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1108187-share-59344-sale/"><u>2024-10 Discount Coupons - $10 Off for Geekvape L200 (Aegis Legend 2) Box Mod Kit 200W | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108190-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for SMOK Nord 4 80W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108189-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for SMOK Novo 4 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108188-share-59344-sale/"><u>2024-10 Discount Coupons - $9 Off for SMOK Arcfox 230W Kit | EightVape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

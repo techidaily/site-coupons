@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $5.66 for RGC RBA Coil - Smok | Eight Vape
-date: 2024-10-10T17:00:17.484Z
-updated: 2024-10-18T10:04:39.152Z
+date: 2024-10-23T05:43:24.711Z
+updated: 2024-10-23T05:43:24.711Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(21.66k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(36.11k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1099385-share-59344-sale/"><u>2024-10 Discount Coupons - $7.88 for Reds Salts Apple Original Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099389-share-59344-sale/"><u>2024-10 Discount Coupons - $7.88 for Yogi Grape Jam Granola Vape Juice 60Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099399-share-59344-sale/"><u>2024-10 Discount Coupons - $7.88 for Yogi Salts Blackberry Granola Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099387-share-59344-sale/"><u>2024-10 Discount Coupons - $7.88 for Yogi Salts Grape Jam Granola Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1099398-share-59344-sale/"><u>2024-10 Discount Coupons - $7.88 for Yogi Salts Peach Cobbler Granola Nic Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1082616-share-90958-sale/"><u>2024-10 Discount Coupons - 34.54% Off InstaBar WT15000 Disposable Vape 15Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088149-share-90958-sale/"><u>2024-10 Discount Coupons - 41.20% Off BMOR Bangma DM15000 Disposable Vape 22Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089819-share-111907-sale/"><u>2024-10 Discount Coupons - Exclusive 12% Off on Any Orders | Donner Music US</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
