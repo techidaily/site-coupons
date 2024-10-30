@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $12.66 for SMOK RGC Replacement Coils (Pack of 5) | Eight Vape
-date: 2024-10-18T18:22:06.159Z
-updated: 2024-10-23T22:51:50.204Z
+date: 2024-10-29T01:23:10.212Z
+updated: 2024-10-29T01:23:10.212Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(11.80k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(41.95k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     Grab Your Deal Now, While Supplies Hold Up! 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1108191-share-59344-sale/"><u>2024-10 Discount Coupons - $4 Off for Vape Pen V2 60W Kit - Smok | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108190-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for SMOK Nord 4 80W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108189-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for SMOK Novo 4 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-987414-share-92020-sale/"><u>2024-10 Discount Coupons - FR_Obtenez 10�% De R�duction Pour Acheter Tous Les Produits RELX | Relx FR</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-987412-share-92020-sale/"><u>2024-10 Discount Coupons - FR_Obtenez 40% De R�duction Pour Acheter Votre Premier Appareil RELX Avec Le Code De R�duction "NEW40 " ! | Relx FR</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

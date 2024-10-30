@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - 36.70%% Off Uwell Gabriel BF8000 Disposable Vape Kit 8000 Puffs 18Ml, only $7.59 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-10-23T05:43:24.666Z
-updated: 2024-10-23T05:43:24.666Z
+date: 2024-10-29T01:23:10.172Z
+updated: 2024-10-29T01:23:10.172Z
 categories:
   - Disposable Pod Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(47.40k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(17.24k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

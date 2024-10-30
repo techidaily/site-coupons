@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $7.66 for Vaptio Prod Replacement Coils (5Pc.) | Eight Vape
-date: 2024-10-18T03:18:40.761Z
-updated: 2024-10-23T16:54:27.889Z
+date: 2024-10-29T01:23:10.211Z
+updated: 2024-10-29T01:23:10.211Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(35.78k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(31.49k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1106073-share-59344-sale/"><u>2024-10 Discount Coupons - $10 Off for Vaporesso GEN 200 Kit (220W) | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106062-share-59344-sale/"><u>2024-10 Discount Coupons - $12.88 for OXVA Xlim 25W Pod Kit (W/ V2 Pod) | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106071-share-59344-sale/"><u>2024-10 Discount Coupons - $17.88 for VooPoo Argus 20W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106061-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for SMOK RPM 25W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106068-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for VooPoo Drag Q 25W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106072-share-59344-sale/"><u>2024-10 Discount Coupons - $5 Off for Geekvape B60 (Aegis Boost 2) 60W Pod Mod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106069-share-59344-sale/"><u>2024-10 Discount Coupons - $9 Off for SMOK G-PRIV 4 230W Kit | Eight Vape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

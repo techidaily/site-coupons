@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape
-date: 2024-10-22T20:36:28.907Z
-updated: 2024-10-23T17:59:07.476Z
+date: 2024-10-29T01:23:10.211Z
+updated: 2024-10-29T01:23:10.211Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(40.49k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(30.88k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1106105-share-90958-sale/"><u>2024-10 Discount Coupons - $11.99 for Vapefly Jester Pro Pod System Kit 1000mAh 25W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107186-share-90958-sale/"><u>2024-10 Discount Coupons - $18.99 for Sleepy Sloth CBD Gummies 3000Mg (75Pcs/Pack) | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106823-share-90958-sale/"><u>2024-10 Discount Coupons - $7.99 for Joyetech EVIO M Pro Pod System Kit 1100mAh 30W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106106-share-90958-sale/"><u>2024-10 Discount Coupons - $7.99 for Yocan Ziva Pro 510 Battery 650mAh | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1107089-share-122475-sale/"><u>2024-10 Discount Coupons - 20% Off E-Liquid Sitewide | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106759-share-87684-sale/"><u>2024-10 Discount Coupons - Buy Two and Get 20% Off | Campark</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1106088-share-90958-sale/"><u>2024-10 Discount Coupons - Get 15% Off for All E-Juice | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

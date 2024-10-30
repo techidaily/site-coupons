@@ -1,7 +1,7 @@
 ---
 title: 2024-10 Discount Coupons - N-ONE Nbook Plus Laptop Intel Alder Lake-N N100 14.1 Inch YOGA 360-Degree Touchscreen 16GB DDR4 512GB SSD Windows 11 Pro | Gshopper
-date: 2024-10-23T05:43:24.529Z
-updated: 2024-10-23T05:43:24.529Z
+date: 2024-10-29T01:23:10.032Z
+updated: 2024-10-29T01:23:10.032Z
 categories:
   - Computer & Tablet
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(48.72k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(25.41k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

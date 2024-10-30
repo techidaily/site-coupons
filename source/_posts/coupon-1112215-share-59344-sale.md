@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - Only $8.00 for Airis Neo P8000 Disposable Vape | EightVape
-date: 2024-10-17T17:37:43.878Z
-updated: 2024-10-23T21:02:31.197Z
+date: 2024-10-29T01:23:10.142Z
+updated: 2024-10-29T01:23:10.142Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(35.75k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(32.19k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-920596-share-90958-sale/"><u>2024-10 Discount Coupons - 32.57% Off for Steam Crave Aromamizer Plus V3 RDTA 30Mm 12Ml/3ml, only $28.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-920918-share-90958-sale/"><u>2024-10 Discount Coupons - 34.64% Off for Vaporesso OSMALL 2 Pod System Kit 450mAh 2Ml, only $8.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-901522-share-90958-sale/"><u>2024-10 Discount Coupons - 34.72% Off for Vandy Vape Gaur-18 18650 Mod 200W, only $34.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-925254-share-90958-sale/"><u>2024-10 Discount Coupons - 35.25% Off for SMOK Novo 2X Pod System Kit 800mAh 20W, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-929696-share-90958-sale/"><u>2024-10 Discount Coupons - 50.03% Off Cloud Bar Geerdun Boom 10000 Puffs Rechargeable Disposable Vape Kit 17Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-913252-share-90958-sale/"><u>2024-10 Discount Coupons - Only $9.99 VOOPOO Drag Q Pod System Kit 1250mAh 25W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

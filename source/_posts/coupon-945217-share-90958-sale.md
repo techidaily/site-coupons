@@ -1,10 +1,11 @@
 ---
 title: 2024-10 Discount Coupons - 30.78%% Off for Eleaf iStick I80 Kit 80W With Melo C Tank, only $26.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-10-21T05:43:07.582Z
-updated: 2024-10-24T00:35:18.180Z
+date: 2024-10-29T01:23:10.231Z
+updated: 2024-10-29T01:23:10.231Z
 categories:
   - Starter Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(33.63k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(10.12k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,34 +44,3 @@ categories:
     30.78%% Off for Eleaf iStick I80 Kit 80W With Melo C Tank, only $26.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118195-share-97331-sale/"><u>2024-10 Discount Coupons - ESR Yise Car Mobile Phone Holde | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118193-share-97331-sale/"><u>2024-10 Discount Coupons - Global Version Tenda AC6 WiFi Router | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118196-share-97331-sale/"><u>2024-10 Discount Coupons - HOCO/Hoco C96A Single Port Charger | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118194-share-97331-sale/"><u>2024-10 Discount Coupons - HOCO/Hoco E58 Car AUX Bluetooth Receiver | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118197-share-97331-sale/"><u>2024-10 Discount Coupons - OneGx1 Pro 7.0-Inch Mini Gaming Laptop | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
