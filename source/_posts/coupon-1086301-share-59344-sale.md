@@ -1,10 +1,11 @@
 ---
-title: 2024-10 Discount Coupons - $18.88 for Lost Vape Thelema Elite 40W Pod Kit | Eight Vape
-date: 2024-10-26T16:34:56.314Z
-updated: 2024-10-30T01:05:16.358Z
+title: 2024-11 Discount Coupons - $18.88 for Lost Vape Thelema Elite 40W Pod Kit | Eight Vape
+date: 2024-11-03T18:08:51.382Z
+updated: 2024-11-03T18:08:51.383Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(13.18k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(28.23k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1081518-share-90958-sale/"><u>2024-10 Discount Coupons - $10.99 for UPENDS MIRROR PRO Disposable Vape Kit 12000 Puffs 20Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088919-share-59344-sale/"><u>2024-10 Discount Coupons - $13.88 for Vaporesso Luxe Q2 SE Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088923-share-59344-sale/"><u>2024-10 Discount Coupons - $16.88 for Uwell Caliburn G3 25W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088922-share-59344-sale/"><u>2024-10 Discount Coupons - $32.88 for Vaporesso Luxe X Pro 40W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1078353-share-90958-sale/"><u>2024-10 Discount Coupons - 25.02% Off Modus X Kado Bar KB10000 Disposable Vape 5% Nicotine 18Ml, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1077557-share-90958-sale/"><u>2024-10 Discount Coupons - 29.28% Off Vandy Vape Kylin M Tank 24Mm 3Ml, only $28.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

@@ -1,7 +1,7 @@
 ---
-title: 2024-10 Discount Coupons - 1 559,00 ? For ENGWE X26 26*4.0 Inch Fat Tires Electric Bike - 48V 1000W Motor & 19Ah Battery | GEEKMAXI.COM
-date: 2024-10-29T01:23:09.908Z
-updated: 2024-10-29T01:23:09.908Z
+title: 2024-11 Discount Coupons - 1 559,00 ? For ENGWE X26 26*4.0 Inch Fat Tires Electric Bike - 48V 1000W Motor & 19Ah Battery | GEEKMAXI.COM
+date: 2024-11-03T18:08:51.066Z
+updated: 2024-11-03T18:08:51.066Z
 categories:
   - Sports&Outdoors
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(26.48k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(11.91k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

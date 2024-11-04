@@ -1,10 +1,11 @@
 ---
-title: 2024-10 Discount Coupons - $23.88 for Lost Vape Thelema Mini 45W Pod Mod Kit | Eight Vape
-date: 2024-10-27T23:55:18.459Z
-updated: 2024-10-29T23:45:28.601Z
+title: 2024-11 Discount Coupons - $23.88 for Lost Vape Thelema Mini 45W Pod Mod Kit | Eight Vape
+date: 2024-11-03T18:08:51.343Z
+updated: 2024-11-03T18:08:51.343Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(8.19k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(48.88k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,32 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1201859-share-59344-sale/"><u>2024-10 Discount Coupons - $23.88 for Vaporesso XROS 4 30W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1201861-share-59344-sale/"><u>2024-10 Discount Coupons - $25.88 for VOOPOO Argus E40 40W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1201844-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Bounce Turbo 25000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1201854-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Hellvape Dead Rabbit 3 RTA 2024 Edition | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1201857-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for Vaporesso XROS 4 Mini 30W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1201852-share-59344-sale/"><u>2024-10 Discount Coupons - $3 Off for VNM Hypercharged VM25000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1201860-share-59344-sale/"><u>2024-10 Discount Coupons - $6.88 for Uwell Caliburn G3 Lite 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1104238-share-153311-sale/"><u>2024-10 Discount Coupons - $90.00 Off WYBOT L1 High-End Corded Robotic Pool Cleaner with APP Control | WYBOTICS INC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112217-share-90958-sale/"><u>2024-10 Discount Coupons - 29.43% Off iJOY Mars Cabin 20000 Disposable Vape 20Ml, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

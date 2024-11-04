@@ -1,7 +1,7 @@
 ---
-title: 2024-10 Discount Coupons - DDPAI Mini Dash Camera, Global Version, 1080P Full HD | Gshopper
-date: 2024-10-29T01:23:10.037Z
-updated: 2024-10-29T01:23:10.037Z
+title: 2024-11 Discount Coupons - DDPAI Mini Dash Camera, Global Version, 1080P Full HD | Gshopper
+date: 2024-11-03T18:08:51.191Z
+updated: 2024-11-03T18:08:51.191Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(40.65k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(6.73k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

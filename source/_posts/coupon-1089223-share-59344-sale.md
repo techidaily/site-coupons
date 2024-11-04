@@ -1,10 +1,11 @@
 ---
-title: 2024-10 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape
-date: 2024-10-27T00:18:52.047Z
-updated: 2024-10-29T18:17:13.727Z
+title: 2024-11 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape
+date: 2024-11-03T18:08:51.372Z
+updated: 2024-11-03T18:08:51.372Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(13.83k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(31.07k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,38 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1232636-share-38812-sale/"><u>2024-10 Discount Coupons - "Code:NNNRG40X, $65 for ANBERNIC RG40XXV Retro Game Console " | Geekbuying</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232914-share-155620-sale/"><u>2024-10 Discount Coupons - 10% OFF Entire Order | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232915-share-155620-sale/"><u>2024-10 Discount Coupons - 20% OFF Entire Order | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232916-share-155620-sale/"><u>2024-10 Discount Coupons - 30% Discount on Orders over $400 | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233059-share-154766-sale/"><u>2024-10 Discount Coupons - Celebrate Labor Day with Exclusive Discounts on Herbal Supplements! | Herbsdaily Inc</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233060-share-154766-sale/"><u>2024-10 Discount Coupons - Enhance Your Yoga Practice with Our Special Supplements! | Herbsdaily Inc</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232885-share-115200-sale/"><u>2024-10 Discount Coupons - Get 39% OFF on eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive | Eufy | Fantasia Trading LLC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1232887-share-115200-sale/"><u>2024-10 Discount Coupons - Get 44% OFF on eufyCam S300 (eufyCam 3C) 4-Cam Kit + 1 TB Hard Drive | Eufy | Fantasia Trading LLC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1233067-share-153229-sale/"><u>2024-10 Discount Coupons - September Month Offer | Godbricks</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
