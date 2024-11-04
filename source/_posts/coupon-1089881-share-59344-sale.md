@@ -1,11 +1,10 @@
 ---
 title: 2024-11 Discount Coupons - $9.66 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape
-date: 2024-11-03T18:08:51.368Z
-updated: 2024-11-03T18:08:51.368Z
+date: 2024-10-29T17:20:48.018Z
+updated: 2024-11-04T16:06:16.213Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,28 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1117857-share-97331-sale/"><u>2024-11 Discount Coupons - Global Version Xiaomi POCO X6 Pro 5G | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117854-share-97331-sale/"><u>2024-11 Discount Coupons - Huohou Damascus Knife Shadow Series 5-Piece Set | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117856-share-97331-sale/"><u>2024-11 Discount Coupons - Huohou German Molybdenum Vanadium Steel Kitchen Knife Set 6 Pieces | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117855-share-97331-sale/"><u>2024-11 Discount Coupons - Youpin Dafeng Damascus Steel Kitchen Knife 6-Piece Set | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117853-share-97331-sale/"><u>2024-11 Discount Coupons - Youpin Zhujiang Damascus Kitchen Knife 4-Piece Set | Gshopper</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

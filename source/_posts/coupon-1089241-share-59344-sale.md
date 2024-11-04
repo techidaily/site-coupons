@@ -1,11 +1,10 @@
 ---
 title: 2024-11 Discount Coupons - $9.88 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape
-date: 2024-11-03T18:08:51.371Z
-updated: 2024-11-03T18:08:51.372Z
+date: 2024-11-03T16:29:02.965Z
+updated: 2024-11-04T16:45:56.520Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1117949-share-97331-sale/"><u>2024-11 Discount Coupons - DOOGEE N55 9+128 GB Android 14 Smart Phone | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117950-share-97331-sale/"><u>2024-11 Discount Coupons - DOOGEE N55 Pro 16+256GB Android 14 Smart Phone | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117948-share-97331-sale/"><u>2024-11 Discount Coupons - Doogee T30 Max Tablet PCs 12.4 IPS 4K Display 20+512GB Android 14 | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117947-share-97331-sale/"><u>2024-11 Discount Coupons - GPD MicroPC Pocket Laptop Mini PC | Gshopper</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
