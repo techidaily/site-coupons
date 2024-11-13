@@ -1,10 +1,11 @@
 ---
 title: 2024-11 Discount Coupons - $9.66 for Lucid Flow Disposable Vape (5%%, 5000 Puffs) | Eight Vape
-date: 2024-10-28T17:02:32.645Z
-updated: 2024-11-04T16:47:45.228Z
+date: 2024-11-12T20:47:22.238Z
+updated: 2024-11-12T20:47:22.238Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(43.52k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(20.15k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-681870-share-90958-sale/"><u>2024-11 Discount Coupons - $17.99 for SMOK Novo X Pod System Kit 25W 800mAh | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1033811-share-90958-sale/"><u>2024-11 Discount Coupons - 26.14% Off WAKA SoPro PA10000 Disposable Vape Kit 10000 Puffs 18Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1047917-share-90958-sale/"><u>2024-11 Discount Coupons - 36.86% Off for SMOK Propod GT Pod Kit 700mAh 22W, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1031547-share-90958-sale/"><u>2024-11 Discount Coupons - 55.58% Off for Rincoe Manto AIO Plus Pod Kit 80W 3Ml, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117809-share-97331-sale/"><u>2024-11 Discount Coupons - Hagibis Switch Portable Base Ns/OLED Projection Line Expansion Dock Typec TV Extension Cable Game Video Display Converter HDMI Cable HD TV Mode Accessories | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117808-share-97331-sale/"><u>2024-11 Discount Coupons - Hagibis Switch Rotating Card Box Ns Cassette Storage Box Game Card OLED/Lite Card Slot Storage | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117807-share-97331-sale/"><u>2024-11 Discount Coupons - Hagibis Switch Storage Bag Protective Cover Protective Shell Nintendo | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

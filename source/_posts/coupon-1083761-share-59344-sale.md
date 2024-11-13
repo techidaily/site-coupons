@@ -1,10 +1,11 @@
 ---
 title: 2024-11 Discount Coupons - $11.88 for Lucid Charge Disposable Vape | Eight Vape
-date: 2024-10-29T17:53:25.750Z
-updated: 2024-11-04T16:46:37.239Z
+date: 2024-11-12T20:47:22.262Z
+updated: 2024-11-12T20:47:22.262Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(21.11k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(48.64k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,37 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1124045-share-84147-sale/"><u>2024-11 Discount Coupons - "Coupon Code: " NEW " For New Customer First Order 7% " | Smokstore</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123771-share-104816-sale/"><u>2024-11 Discount Coupons - 20% Off | The Inner Technology LLC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123943-share-155620-sale/"><u>2024-11 Discount Coupons - 20% Off Your Order Sitewide. | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-745160-share-90958-sale/"><u>2024-11 Discount Coupons - 22.23% Off for SMOK X-PRIV Kit with TFV12 Prince 225W, only $34.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-854800-share-90958-sale/"><u>2024-11 Discount Coupons - 40.56% Off for Dovpo M VV II Mechanical Mod 280W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123933-share-151962-sale/"><u>2024-11 Discount Coupons - Buy 10Boxes Get 10% Off | SUPREME GLOBAL SUPPLY LLC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123770-share-104816-sale/"><u>2024-11 Discount Coupons - Prime Day Coupon | The Inner Technology LLC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123932-share-151962-sale/"><u>2024-11 Discount Coupons - Special Offers For New Members | SUPREME GLOBAL SUPPLY LLC</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

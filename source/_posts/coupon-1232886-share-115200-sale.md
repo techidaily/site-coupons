@@ -1,7 +1,7 @@
 ---
 title: 2024-11 Discount Coupons - Get 38%% OFF on Eufy X8 Pro with Self-Empty Station | Eufy | Fantasia Trading LLC
-date: 2024-11-03T18:08:51.029Z
-updated: 2024-11-03T18:08:51.029Z
+date: 2024-11-12T20:47:21.879Z
+updated: 2024-11-12T20:47:21.879Z
 categories:
   - Robovac
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(48.82k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(5.70k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

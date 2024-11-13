@@ -1,7 +1,7 @@
 ---
 title: 2024-11 Discount Coupons - 29.42%% Off for Lost Vape Thelema Mini Pod Mod Kit 1500mAh 45W, only $23.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-11-03T18:08:51.121Z
-updated: 2024-11-03T18:08:51.121Z
+date: 2024-11-12T20:47:21.987Z
+updated: 2024-11-12T20:47:21.987Z
 categories:
   - Starter Kit
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(18.68k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(5.45k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

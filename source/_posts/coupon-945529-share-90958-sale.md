@@ -1,7 +1,7 @@
 ---
 title: 2024-11 Discount Coupons - 41.13%% Off for VOOPOO VINCI SE Pod System Kit 900mAh 15W, only $10.59 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-11-03T18:08:51.335Z
-updated: 2024-11-03T18:08:51.335Z
+date: 2024-11-12T20:47:22.210Z
+updated: 2024-11-12T20:47:22.210Z
 categories:
   - Starter Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(23.11k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(26.55k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
