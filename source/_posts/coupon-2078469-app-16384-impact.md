@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $169 GET $30 OFF (CODE: UR30)\\\\\\\"\\\"\""
-date: 2024-10-31T17:38:31.306Z
-updated: 2024-11-04T17:46:27.623Z
+date: 2024-11-10T17:03:11.209Z
+updated: 2024-11-13T18:20:11.544Z
 categories:
   - Women's Apparel
 ---
@@ -52,21 +52,17 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1109544-share-63219-sale/"><u>2024-11 Discount Coupons - "Use Code: BEST20 to Get 20% Off Best-Sellers Sitewide | No Min. Buy | Max Discount - $75 | Can Be Used Multiple Times. " | BestofSigns</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110238-share-90958-sale/"><u>2024-11 Discount Coupons - $12.99 for BLVK Bar 20000 Puffs Disposable Vape Kit 22Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108970-share-90958-sale/"><u>2024-11 Discount Coupons - $6.90 for Bang Pi10000 Disposable Vape Kit 15Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108956-share-90958-sale/"><u>2024-11 Discount Coupons - 15% Off Lost Mary Disposable Vapes | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109985-share-90958-sale/"><u>2024-11 Discount Coupons - 23.09% Off Lost Vape Ursa Epoch Pod System Kit, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109982-share-90958-sale/"><u>2024-11 Discount Coupons - 25.02% Off Lost Vape Ursa Cap 25W Pod System Kit, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109979-share-90958-sale/"><u>2024-11 Discount Coupons - 25.02% Off Uwell Prime BG12000 Disposable Vape Kit 20Ml, only $10.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110209-share-90958-sale/"><u>2024-11 Discount Coupons - 26.68% Off Cokii 16K Double Tanks Disposable Vape Kit 16Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110003-share-138391-sale/"><u>2024-11 Discount Coupons - Get $10 Off on SJCAM Action Cameras | Shenzhen Zhencheng Technology Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086548-share-59344-sale/"><u>2024-11 Discount Coupons - $18.88 for Geekvape Wenax S3 18W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086978-share-90958-sale/"><u>2024-11 Discount Coupons - $9.99 for Mirus Bulb 10000 Best Disposable Vape 15Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1060430-share-90958-sale/"><u>2024-11 Discount Coupons - 34.30% Off BP MODS TMD BORO Tank, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086922-share-90958-sale/"><u>2024-11 Discount Coupons - 35.74% Off Lost Vape OB5500 Puffs Disposable Vape, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1087128-share-90958-sale/"><u>2024-11 Discount Coupons - 38.49% Off Puff Air Mesh Disposable Vape Kit 3500 Puffs 9Ml, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

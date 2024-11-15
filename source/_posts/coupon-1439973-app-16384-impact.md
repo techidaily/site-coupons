@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Ursime Order Amount Over $199 Get $30 Off
-date: 2024-11-01T17:27:32.155Z
-updated: 2024-11-04T17:16:46.518Z
+date: 2024-11-06T19:01:08.151Z
+updated: 2024-11-13T19:09:07.984Z
 categories:
   - Women's Apparel
 ---
@@ -52,20 +52,16 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1094185-share-90958-sale/"><u>2024-11 Discount Coupons - 15.53% Off Lost Vape LightRise TB 18K Disposable Vape Kit 18Ml, only $10.88 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081320-share-90958-sale/"><u>2024-11 Discount Coupons - 21.84% Off Gem Bar GB10000 Rechargeable Disposable Vape 20Ml, only $8.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083471-share-90958-sale/"><u>2024-11 Discount Coupons - 22.44% Off Foger CT10000 Disposable Vape 10000 Puffs, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1078004-share-90958-sale/"><u>2024-11 Discount Coupons - 24.33% Off Lost Vape Orion Bar 10000 Puffs Disposable Vape 20Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067719-share-90958-sale/"><u>2024-11 Discount Coupons - 30.31% Off for VOOPOO Drag S2 Pod System 2500mAh 60W, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1079071-share-90958-sale/"><u>2024-11 Discount Coupons - 30.79% Off Yovo JB8000 Smart Disposable Vape Kit 8000 Puffs 12Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1047917-share-90958-sale/"><u>2024-11 Discount Coupons - 36.86% Off for SMOK Propod GT Pod Kit 700mAh 22W, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1062271-share-90958-sale/"><u>2024-11 Discount Coupons - 40.02% Off Uwell Whirl F Pod System Kit 450mAh 11W, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1099381-share-59344-sale/"><u>2024-11 Discount Coupons - $7.88 for Reds Salts Apple Berries Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1099383-share-59344-sale/"><u>2024-11 Discount Coupons - $7.88 for Reds Salts Apple Original Iced Nic Salt Vape Juice 30Ml | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1006996-share-90958-sale/"><u>2024-11 Discount Coupons - 40.93% Off for Eleaf iStick Amnis 3 Vape Mod Kit 900mAh 20W, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1016033-share-90958-sale/"><u>2024-11 Discount Coupons - 50.03% Off Snowplus Go Disposable Vape Kit 10000 Puffs 20Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

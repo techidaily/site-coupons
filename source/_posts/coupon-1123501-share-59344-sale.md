@@ -1,7 +1,7 @@
 ---
 title: 2024-11 Discount Coupons - Buy 3 Flum Mello 20000 Disposables and Get 1 Flum 6000 FREE! | EightVape
-date: 2024-11-12T20:47:21.990Z
-updated: 2024-11-12T20:47:21.990Z
+date: 2024-11-14T01:04:02.122Z
+updated: 2024-11-14T01:04:02.122Z
 categories:
   - Deals
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(47.07k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(34.99k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

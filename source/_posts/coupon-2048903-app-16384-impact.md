@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"Buy 5Th Get Free Off (Code: URfree)\\\\\\\"\\\"\""
-date: 2024-10-30T17:46:30.728Z
-updated: 2024-11-04T17:01:02.220Z
+date: 2024-11-12T18:59:58.173Z
+updated: 2024-11-13T18:34:15.911Z
 categories:
   - Women's Apparel
 ---
@@ -52,21 +52,24 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1108615-share-59344-sale/"><u>2024-11 Discount Coupons - $3 Off for SMOK Nord X 60W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108192-share-59344-sale/"><u>2024-11 Discount Coupons - $3 Off for SMOK Novo 3 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108618-share-59344-sale/"><u>2024-11 Discount Coupons - $3 Off for Smok Novo X 25W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108616-share-59344-sale/"><u>2024-11 Discount Coupons - $3 Off for SMOK RPM 2 80W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108620-share-59344-sale/"><u>2024-11 Discount Coupons - $3 Off for Voopoo Drag S 60W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108193-share-59344-sale/"><u>2024-11 Discount Coupons - $4 Off for Uwell Caliburn G 18W Pod Kit | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108207-share-90958-sale/"><u>2024-11 Discount Coupons - 33.36% Off RandM Tornado 15000 Disposable Vape 25Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108382-share-90958-sale/"><u>2024-11 Discount Coupons - Enjoy 22% Off Clearance HEMP | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108398-share-92020-sale/"><u>2024-11 Discount Coupons - Use the Code "KIT20 " Get 20% Off for RELX Essentail Kit (1 Essential Device+1 RELX Pod) and One Use per Customer | Relx FR</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-750895-share-90958-sale/"><u>2024-11 Discount Coupons - 34.30% Off for Geekvape Aegis Boost LE Bonus Kit 40W, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-776002-share-90958-sale/"><u>2024-11 Discount Coupons - 34.80% Off for Vaporesso LUXE Q Pod System Kit, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-888883-share-90958-sale/"><u>2024-11 Discount Coupons - 35.14% Off for SMOK RPM 5 & RPM 5 Pro Pod Mod Kit 2000mAh 80W, only $23.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-797832-share-90958-sale/"><u>2024-11 Discount Coupons - 38.35% Off for Eleaf iStick Pico Plus 75W TC Box Mod, only $18.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-724789-share-90958-sale/"><u>2024-11 Discount Coupons - 38.47% Off for VOOPOO Argus Pro Pod Mod Kit 80W 3000mAh, only $23.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-874882-share-79751-sale/"><u>2024-11 Discount Coupons - FlexClip Video Editor 10% OFF Any Plan | FlexClip</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
