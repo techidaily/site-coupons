@@ -1,11 +1,10 @@
 ---
 title: 2024-11 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape
-date: 2024-11-14T01:04:02.365Z
-updated: 2024-11-14T01:04:02.365Z
+date: 2024-11-13T23:32:59.508Z
+updated: 2024-11-14T21:21:34.858Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1497646-app-15852-impact/"><u>2024-09 Discount Coupons - " "FitVille "Offer: 50% Off FitVille Men's Rebound Core Shoes (US 7-12.5, Medium Width Only) " " "</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1565914-app-14420-impact/"><u>2024-09 Discount Coupons - " "Newchic " Newchic Men Hot Sale Clothing with Code:PROMO20 20% Off over $80+ " " "</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1664515-app-14420-impact/"><u>2024-09 Discount Coupons - Newchic NCAFF15</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1449938-app-15155-impact/"><u>2024-09 Discount Coupons - UPERFECT ALL Product On Sales During Back To School Season, Use BTS Codes in Checkout Page to Get the Best Discount in the Year!</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

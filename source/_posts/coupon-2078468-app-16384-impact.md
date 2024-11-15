@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER$109 GET $10 OFF (CODE: UR10)\\\\\\\"\\\"\""
-date: 2024-11-10T17:16:38.791Z
-updated: 2024-11-13T17:00:07.619Z
+date: 2024-11-12T22:06:44.833Z
+updated: 2024-11-14T18:25:21.153Z
 categories:
   - Women's Apparel
 ---
@@ -52,19 +52,25 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1001005-share-90958-sale/"><u>2024-11 Discount Coupons - 24.53% Off for Geekvape Z200 Vape Kit 200W, only $39.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-988534-share-90958-sale/"><u>2024-11 Discount Coupons - 30.00% Off for US Warehouse Steam Crave Meson AIO Vape Kit 100W, only $55.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054855-share-90958-sale/"><u>2024-11 Discount Coupons - 33.36% Off Vaporesso Luxe Q2 SE Pod Kit 1000mAh, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1058462-share-90958-sale/"><u>2024-11 Discount Coupons - 35.31% Off Cali UL8000 Disposable Vape Kit 8000 Puffs 18Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-949660-share-90958-sale/"><u>2024-11 Discount Coupons - 37.52% Off for Daze OHMLET 7000 Puffs Rechargeable Disposable Kit 15Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1030551-share-90958-sale/"><u>2024-11 Discount Coupons - 38.91% Off Sora 8000 Puffs Disposable Vape Kit 16Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1049652-share-90958-sale/"><u>2024-11 Discount Coupons - 41.20% Off OGbarz Pattaya Disposable Vape Kit 12000 Puffs 18Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106791-share-59344-sale/"><u>2024-11 Discount Coupons - 5 for $39 & 10 for $69 | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107189-share-92020-sale/"><u>2024-11 Discount Coupons - FR_Essentail | RELX Global</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1112224-share-59344-sale/"><u>2024-11 Discount Coupons - Only $10.66 for Pillow Talk Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1112216-share-59344-sale/"><u>2024-11 Discount Coupons - Only $8.66 for ICEWAVE X8500 Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1112218-share-59344-sale/"><u>2024-11 Discount Coupons - Only $9.88 for MOTI Duo 9000 Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1112562-share-126653-sale/"><u>2024-11 Discount Coupons - Sleep A20 Bluetooth Earbuds | Available Now | Soundcore | Fantasia Trading LLC</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1112533-share-126653-sale/"><u>2024-11 Discount Coupons - Soundcore Sleep A20-Your Best Sleeping Partner | Soundcore | Fantasia Trading LLC</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,11 +1,10 @@
 ---
 title: 2024-11 Discount Coupons - $9.88 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape
-date: 2024-11-14T01:04:02.364Z
-updated: 2024-11-14T01:04:02.364Z
+date: 2024-11-11T17:07:44.691Z
+updated: 2024-11-15T00:09:22.066Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1728587-app-17092-impact/"><u>2024-09 Discount Coupons - Bluetti DE 20 Off when Order over 1000</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1728591-app-17094-impact/"><u>2024-09 Discount Coupons - Bluetti ES 20 Off when Order over 1000</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1728590-app-17095-impact/"><u>2024-09 Discount Coupons - Bluetti FR 20 Off when Order over 1000</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1728589-app-17093-impact/"><u>2024-09 Discount Coupons - Bluetti IT 20 Off when Order over 1000</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

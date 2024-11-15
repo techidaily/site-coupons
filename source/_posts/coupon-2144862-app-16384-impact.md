@@ -1,11 +1,10 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"New Customers: 15%% Off on Orders over $69\\\\\\\"\\\"\""
-date: 2024-11-14T01:04:03.554Z
-updated: 2024-11-14T01:04:03.555Z
+date: 2024-11-10T21:14:42.750Z
+updated: 2024-11-14T20:37:57.865Z
 categories:
   - Women's Apparel
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -42,3 +41,35 @@ categories:
   <p class="col-start-1 mt-4 text-sm leading-6 sm:col-span-2 lg:col-span-1 lg:row-start-4 lg:mt-6 dark:text-slate-400">
     "\"New Customers: 15%% Off on Orders over $69\""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1081516-share-59344-sale/"><u>2024-11 Discount Coupons - $7.88 for U Toob Bar Disposable Vape (5%, 5000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-967927-share-90958-sale/"><u>2024-11 Discount Coupons - 21.27% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-997665-share-90958-sale/"><u>2024-11 Discount Coupons - 21.88% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-941775-share-90958-sale/"><u>2024-11 Discount Coupons - 26.48% Off for SMOK RPM 85&100 Pod Mod Kit, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1037475-share-90958-sale/"><u>2024-11 Discount Coupons - 40.04% Off for Innokin Klypse Zip Pod Kit 650mAh, only $6.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-899319-share-90958-sale/"><u>2024-11 Discount Coupons - 50.05% Off for Samsung 25R 18650 Battery 20A 2500mAh, only $4.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
