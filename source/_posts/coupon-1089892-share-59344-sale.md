@@ -1,10 +1,11 @@
 ---
 title: 2024-11 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape
-date: 2024-11-09T16:43:57.173Z
-updated: 2024-11-14T17:36:06.230Z
+date: 2024-11-23T10:43:55.135Z
+updated: 2024-11-23T10:43:55.135Z
 categories:
   - Disposable Vapes
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(43.97k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(22.95k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1201886-share-59344-sale/"><u>2024-11 Discount Coupons - $3 Off for Pod Juice X RAZ Blue Razz Cotton Clouds Synthetic Vape Juice 100Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123501-share-59344-sale/"><u>2024-11 Discount Coupons - Buy 3 Flum Mello 20000 Disposables and Get 1 Flum 6000 FREE! | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1225702-share-126653-sale/"><u>2024-11 Discount Coupons - CA-Most-Loved Soundcore Essentials | Soundcore | Fantasia Trading LLC</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1216385-share-90958-sale/"><u>2024-11 Discount Coupons - Disposable Vapes Under $20 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1121450-share-79751-sale/"><u>2024-11 Discount Coupons - FlexClip Education Discount | FlexClip</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1225701-share-126653-sale/"><u>2024-11 Discount Coupons - Most-Loved Soundcore Essentials | Soundcore | Fantasia Trading LLC</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

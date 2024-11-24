@@ -1,10 +1,11 @@
 ---
 title: 2024-11 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2024-11-10T18:40:58.434Z
-updated: 2024-11-14T16:03:03.751Z
+date: 2024-11-23T10:43:55.132Z
+updated: 2024-11-23T10:43:55.132Z
 categories:
   - \"\"
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(6.43k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(28.89k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,31 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-931573-share-90958-sale/"><u>2024-11 Discount Coupons - 22.86% Off for Geekvape T200 (Aegis Touch) Vape Mod Kit 200W, only $53.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-922358-share-90958-sale/"><u>2024-11 Discount Coupons - 25.01% Off for SMOK Nord 5 Pod System Kit 2000mAh 80W, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-931576-share-90958-sale/"><u>2024-11 Discount Coupons - 30.79% Off for R and M Tornado 9000 Puffs Rechargeable Disposable Kit 18Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-929358-share-90958-sale/"><u>2024-11 Discount Coupons - 31.83% Off for Vaporesso LUXE QS Pod System Kit 1000mAh 2Ml, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-921235-share-90958-sale/"><u>2024-11 Discount Coupons - 36.70% Off for SMOK Solus 2 Pod System Kit 700mAh 17W, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-929032-share-90958-sale/"><u>2024-11 Discount Coupons - 50.02% Off for DotMod dotStick Revo Pod System Kit 35W 3.5Ml, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-928013-share-90958-sale/"><u>2024-11 Discount Coupons - 60.88% Off for Vandy Vape Pulse AIO.5 Kit 80W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2148821-app-18498-impact/"><u>2024-11 Discount Coupons - Unicoeye BUY 4 GET 1 FREE</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

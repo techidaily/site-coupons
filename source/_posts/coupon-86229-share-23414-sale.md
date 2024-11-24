@@ -1,10 +1,11 @@
 ---
 title: 2024-11 Discount Coupons - $4.99 Flat Rate Shipping on Ink Cartridge Orders Under $50 | Ink4Less
-date: 2024-11-12T19:38:32.134Z
-updated: 2024-11-14T22:35:12.055Z
+date: 2024-11-23T10:43:55.053Z
+updated: 2024-11-23T10:43:55.053Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(21.18k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(10.15k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,34 +44,3 @@ categories:
     Always Enjoy LOW Flat Rate Shipping at Ink4Less on All Ink Cartridge and Laser Toner Orders Under $50. Or Get Free Shipping on Any Order $50+. 
 Ink, Toner, Printer Ink, Laser Toner, Copier Toner, Ink Cartridges, Inkjet Cartridges, Toner Cartridges, Printer Ink Cartridges, Solid Inks, Laser Toner Drums, Ink Coupons, Toner Coupons, Printer Ink Coupons, Laser Toner Coupons, Copier Toner Coupons, Ink Cartridge Coupons, Inkjet Cartridge Coupons, Toner Cartridge Coupons, Printer Ink Cartridge Coupons, Solid Ink Coupons, Laser Toner Drums Coupons  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-681876-share-90958-sale/"><u>2024-11 Discount Coupons - 36.12% Off for SMOK RPM 2 Pod Mod Kit, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056483-share-90958-sale/"><u>2024-11 Discount Coupons - 38.25% Off for Vandy Vape Jackaroo 18650 Pod Mod Kit 70W, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971155-share-90958-sale/"><u>2024-11 Discount Coupons - 41.20% Off for Uwell Caliburn A3 Pod Kit 520mAh 13W, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1040487-share-90958-sale/"><u>2024-11 Discount Coupons - 42.88% Offf for Joyetech eGo AIO 2 Vape Pen Kit 1700mAh, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-983589-share-90958-sale/"><u>2024-11 Discount Coupons - 50.02% Off for Rincoe Jellybox XS Pod Kit 1000mAh 30W, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-

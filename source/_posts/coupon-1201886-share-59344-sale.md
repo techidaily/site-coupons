@@ -1,10 +1,11 @@
 ---
 title: 2024-11 Discount Coupons - $3 Off for Pod Juice X RAZ Blue Razz Cotton Clouds Synthetic Vape Juice 100Ml | EightVape
-date: 2024-11-09T23:45:36.713Z
-updated: 2024-11-14T23:27:09.863Z
+date: 2024-11-23T10:43:54.883Z
+updated: 2024-11-23T10:43:54.883Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(17.39k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(16.79k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,30 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118951-share-90958-sale/"><u>2024-11 Discount Coupons - 19.34% Off iJOY Uranus 25000 Disposable Vape 20Ml, only $9.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118952-share-90958-sale/"><u>2024-11 Discount Coupons - 22.08% Off Moti Triplus 20000 Puffs Disposable Vape Kit 18Ml, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1119442-share-90958-sale/"><u>2024-11 Discount Coupons - 25.02% Off SMOK Solus GT Pod System Kit 700mAh, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118693-share-97331-sale/"><u>2024-11 Discount Coupons - IScooter iX3 800W Off Road Electric Scooter | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118692-share-97331-sale/"><u>2024-11 Discount Coupons - MIYOO Mini Plus Game Console 64G | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118691-share-97331-sale/"><u>2024-11 Discount Coupons - X96 X10 Amlogic S928X TV Box 8GB 64GB Support 8K USB3.0 Wifi6 BT5.2 1000M LAN Google Voice Set Top Box Media Player X96X10 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118737-share-97331-sale/"><u>2024-11 Discount Coupons - Xiaomi Mijia Electric Shaver S700��global Version | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
