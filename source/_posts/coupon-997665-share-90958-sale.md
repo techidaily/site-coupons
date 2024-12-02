@@ -1,10 +1,11 @@
 ---
-title: 2024-11 Discount Coupons - 21.88%% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-11-22T22:24:36.136Z
-updated: 2024-11-24T08:37:46.155Z
+title: 2024-12 Discount Coupons - 21.88%% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99 | Vapesourcing Electronics Co.,Ltd.
+date: 2024-12-01T14:21:17.681Z
+updated: 2024-12-01T14:21:17.681Z
 categories:
   - Starter Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(48.34k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(23.80k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     21.88%% Off for DotMod dotPod Nano Pod Kit 800mAh 18W, only $24.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1024539-share-90958-sale/"><u>2024-11 Discount Coupons - 22.68% Off for Tyson 2.0 Heavy Weight Disposable Vape Kit 7000 Puffs 15Ml, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-979075-share-90958-sale/"><u>2024-11 Discount Coupons - 26.68% Off for Uwell Caliburn AK3 Pod Kit 520mAh 13W, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-988886-share-90958-sale/"><u>2024-11 Discount Coupons - 29.49% Off for Geekvape Aegis Boost Pro 2 Pod Mod Kit 100W, only $27.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1021496-share-90958-sale/"><u>2024-11 Discount Coupons - 30.45% Off for SMOK Nord C Pod Kit 1800mAh 50W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-996071-share-90958-sale/"><u>2024-11 Discount Coupons - 36.01% Off for VOOPOO VINCI 3 Pod Kit 1800mAh 50W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-940109-share-90958-sale/"><u>2024-11 Discount Coupons - 39.75% Off for Lost Vape Ursa Nano Pro Pod System Kit 900mAh 25W, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1028168-share-90958-sale/"><u>2024-11 Discount Coupons - 56.53% Off for VOOPOO Drag M100 S Vape Kit 100W, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1005252-share-90958-sale/"><u>2024-11 Discount Coupons - 60.99% Off for LVE Orion 2 Pod Kit 1500mAh 40W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

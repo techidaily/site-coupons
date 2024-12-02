@@ -1,7 +1,7 @@
 ---
-title: 2024-11 Discount Coupons - HUOHOU Stainless Steel Knife Set Household Kitchen Knife Holder | Gshopper
-date: 2024-11-23T10:43:54.989Z
-updated: 2024-11-23T10:43:54.989Z
+title: 2024-12 Discount Coupons - HUOHOU Stainless Steel Knife Set Household Kitchen Knife Holder | Gshopper
+date: 2024-12-01T14:21:17.513Z
+updated: 2024-12-01T14:21:17.513Z
 categories:
   - Smart Home & Garden
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(42.41k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(19.14k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

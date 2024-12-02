@@ -1,7 +1,7 @@
 ---
-title: 2024-11 Discount Coupons - 20%% Off for Fume Eternity 20000 Disposable Vape (5%%, 20000 Puffs) | EightVape
-date: 2024-11-23T10:43:55.067Z
-updated: 2024-11-23T10:43:55.067Z
+title: 2024-12 Discount Coupons - 20%% Off for Fume Eternity 20000 Disposable Vape (5%%, 20000 Puffs) | EightVape
+date: 2024-12-01T14:21:17.589Z
+updated: 2024-12-01T14:21:17.589Z
 categories:
   - Coupon Code
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(49.05k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(28.47k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
