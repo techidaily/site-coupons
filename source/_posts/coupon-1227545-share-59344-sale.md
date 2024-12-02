@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $9.88 for Elf Bar BC5000 Disposable Vape | EightVape
-date: 2024-12-01T14:21:17.396Z
-updated: 2024-12-01T14:21:17.396Z
+date: 2024-11-26T13:30:42.743Z
+updated: 2024-12-02T03:22:40.414Z
 categories:
   - Disposable Vapes
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,29 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089972-share-59344-sale/"><u>2024-12 Discount Coupons - $1.66 for Jellybox Nano Empty Cartridge - Rincoe | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089966-share-59344-sale/"><u>2024-12 Discount Coupons - $14.66 for OXVA Unione PnM Standard Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089969-share-59344-sale/"><u>2024-12 Discount Coupons - $21.66 for Vandy Vape Vessel Set For Pulse AIO | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089973-share-59344-sale/"><u>2024-12 Discount Coupons - $5.66 for Yocan Falcon Replacement Glass | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089970-share-59344-sale/"><u>2024-12 Discount Coupons - $8.66 for Badger Hill Reserve American Way 30Ml Nic Salt Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089971-share-59344-sale/"><u>2024-12 Discount Coupons - $8.66 for Ripe Vapes VCT Strawberry 60Ml Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089967-share-59344-sale/"><u>2024-12 Discount Coupons - $8.66 for Ripe Vapes Watermelon Freez 60Ml Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089968-share-59344-sale/"><u>2024-12 Discount Coupons - $8.66 for U TooB 100 Iced Volcano Burst 2X 60Ml (120Ml) Vape Juice | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089807-share-122475-sale/"><u>2024-12 Discount Coupons - 79% of Wismec HiFlask Pod System 40W Kit, only $9.99 | Bellavapor</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $17.88 for SMOK Novo 2S 20W Pod Kit | EightVape
-date: 2024-12-01T14:21:17.397Z
-updated: 2024-12-01T14:21:17.397Z
+date: 2024-11-27T04:45:13.699Z
+updated: 2024-12-02T01:50:13.812Z
 categories:
   - Vape Kits
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,25 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1095747-share-122475-sale/"><u>2024-12 Discount Coupons - 40% of Puff Xtra Limited Disposable 3000 Puffs 8Ml, only $11.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095440-share-122475-sale/"><u>2024-12 Discount Coupons - 41% of Lykcan BELO 6000 Disposable Vape 6000 Puffs, only $12.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095748-share-122475-sale/"><u>2024-12 Discount Coupons - 45% of 7 Daze Egge Rechargeable Disposable Vape 3000 Puffs, only $11.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095745-share-122475-sale/"><u>2024-12 Discount Coupons - 45% of Nic5 Vapor EDM Disposable Vape Pen 5000 Puff 10Ml, only $11.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1097108-share-122475-sale/"><u>2024-12 Discount Coupons - 74% of Myvapor-Disposable Battery Kit, only $4.99 | Bellavapor</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

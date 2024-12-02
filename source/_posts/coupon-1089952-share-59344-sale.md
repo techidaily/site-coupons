@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $8.66 for U TooB 100 Sour Star 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2024-12-01T14:21:17.654Z
-updated: 2024-12-01T14:21:17.654Z
+date: 2024-11-25T04:36:21.707Z
+updated: 2024-12-02T08:29:10.998Z
 categories:
   - \"\"
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1108623-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for SMOK Nord 2 40W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108615-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for SMOK Nord X 60W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108618-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Smok Novo X 25W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108616-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for SMOK RPM 2 80W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108620-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Voopoo Drag S 60W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108382-share-90958-sale/"><u>2024-12 Discount Coupons - Enjoy 22% Off Clearance HEMP | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1108398-share-92020-sale/"><u>2024-12 Discount Coupons - Use the Code "KIT20 " Get 20% Off for RELX Essentail Kit (1 Essential Device+1 RELX Pod) and One Use per Customer | Relx FR</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

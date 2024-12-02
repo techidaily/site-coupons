@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $8.66 for U TooB 100 Iced Volcano Burst 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2024-12-01T14:21:17.652Z
-updated: 2024-12-01T14:21:17.652Z
+date: 2024-11-29T01:13:02.841Z
+updated: 2024-12-01T19:12:30.024Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,29 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1106062-share-59344-sale/"><u>2024-12 Discount Coupons - $12.88 for OXVA Xlim 25W Pod Kit (W/ V2 Pod) | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106071-share-59344-sale/"><u>2024-12 Discount Coupons - $17.88 for VooPoo Argus 20W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106046-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Lost Vape Centaurus Q80 Pod Mod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106061-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for SMOK RPM 25W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106068-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for VooPoo Drag Q 25W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106072-share-59344-sale/"><u>2024-12 Discount Coupons - $5 Off for Geekvape B60 (Aegis Boost 2) 60W Pod Mod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106054-share-59344-sale/"><u>2024-12 Discount Coupons - $5 Off for Lost Vape Centaurus Q200 Kit W/ UB Max Tank | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106069-share-59344-sale/"><u>2024-12 Discount Coupons - $9 Off for SMOK G-PRIV 4 230W Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106030-share-59344-sale/"><u>2024-12 Discount Coupons - 10% OFF FOR NEWEST ELF BAR | EightVape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

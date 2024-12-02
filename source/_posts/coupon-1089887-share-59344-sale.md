@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%%, 3500 Puffs) | Eight Vape
-date: 2024-12-01T14:21:17.657Z
-updated: 2024-12-01T14:21:17.657Z
+date: 2024-11-26T21:33:33.992Z
+updated: 2024-12-02T10:33:59.736Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,26 @@ categories:
     Grab Your Deal Now, While Supplies Hold Up! 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1117881-share-97331-sale/"><u>2024-12 Discount Coupons - CUKTECH Mobile Power Bank 30W Power Block PB100 | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117880-share-97331-sale/"><u>2024-12 Discount Coupons - CUKTECH Power Block with Built-In Cable 20000mAh PB200N | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117884-share-97331-sale/"><u>2024-12 Discount Coupons - FENGMI S5 Mini Laser Projector | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117885-share-97331-sale/"><u>2024-12 Discount Coupons - Realme GT Neo 6 SE CN ROM Version | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117883-share-97331-sale/"><u>2024-12 Discount Coupons - VIVO X100S PRO | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117882-share-97331-sale/"><u>2024-12 Discount Coupons - Youpin Honeywell Air Outlet Gravity Car Phone Holder | Gshopper</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $18.88 for SMOK Novo Pro 30W Pod Kit | EightVape
-date: 2024-12-01T14:21:17.397Z
-updated: 2024-12-01T14:21:17.397Z
+date: 2024-11-24T20:49:01.191Z
+updated: 2024-12-01T16:19:06.221Z
 categories:
   - Vape Kits
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,28 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1095155-share-122475-sale/"><u>2024-12 Discount Coupons - 29% of Snowwolf Ease Disposable Vape Kit 8000 Puffs 18Ml, only $14.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095158-share-122475-sale/"><u>2024-12 Discount Coupons - 40% of Mixsyst Space Cup Disposable 5500 Puffs 12Ml, only $11.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095157-share-122475-sale/"><u>2024-12 Discount Coupons - 40% of Top Shine Cherub Disposable Vape 4500 Puffs 5% Nicotine, only $11.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095156-share-122475-sale/"><u>2024-12 Discount Coupons - 43% of Phun Box Ultra Disposable 6000 Puffs 14Ml, only $11.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1095439-share-122475-sale/"><u>2024-12 Discount Coupons - 50% of Enou Bar Compak Disposable 6000 Puffs 500mAh, only $9.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1098926-share-122475-sale/"><u>2024-12 Discount Coupons - 50% of VAAL 6000C Rechargeable Disposable Vape Kit 6000 Puffs 12Ml, only $5.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1098927-share-122475-sale/"><u>2024-12 Discount Coupons - 63% of VAAL AOP 1000 Rechargeable Disposable Vape Kit 1000 Puffs 2Ml, only $2.99 | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1098928-share-122475-sale/"><u>2024-12 Discount Coupons - 64% of VAAL CQ3300 Rechargeable Disposable 5% Kit, only $2.99 | Bellavapor</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

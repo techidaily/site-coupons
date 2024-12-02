@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape
-date: 2024-12-01T14:21:17.655Z
-updated: 2024-12-01T14:21:17.655Z
+date: 2024-11-27T09:35:39.402Z
+updated: 2024-12-02T12:07:21.967Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,26 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1024539-share-90958-sale/"><u>2024-12 Discount Coupons - 22.68% Off for Tyson 2.0 Heavy Weight Disposable Vape Kit 7000 Puffs 15Ml, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1021496-share-90958-sale/"><u>2024-12 Discount Coupons - 30.45% Off for SMOK Nord C Pod Kit 1800mAh 50W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-996071-share-90958-sale/"><u>2024-12 Discount Coupons - 36.01% Off for VOOPOO VINCI 3 Pod Kit 1800mAh 50W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1028464-share-90958-sale/"><u>2024-12 Discount Coupons - 51.23% Off for SMOK Mag Solo Vape Kit 100W Get One Free Mystery E-Juice, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1028168-share-90958-sale/"><u>2024-12 Discount Coupons - 56.53% Off for VOOPOO Drag M100 S Vape Kit 100W, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1005252-share-90958-sale/"><u>2024-12 Discount Coupons - 60.99% Off for LVE Orion 2 Pod Kit 1500mAh 40W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

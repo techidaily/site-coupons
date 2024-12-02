@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $299 GET $50 OFF (CODE: UR50)\\\\\\\"\\\"\""
-date: 2024-11-19T06:48:39.172Z
-updated: 2024-11-24T05:54:20.724Z
+date: 2024-11-28T13:50:00.813Z
+updated: 2024-12-02T06:24:38.906Z
 categories:
   - Women's Apparel
 ---
@@ -52,14 +52,14 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118266-share-97331-sale/"><u>2024-11 Discount Coupons - Global Version Xiaomi Outdoor Camera CW400 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118265-share-97331-sale/"><u>2024-11 Discount Coupons - Global Version Xiaomi Watch 2 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118263-share-97331-sale/"><u>2024-11 Discount Coupons - Gogoway 8.5 Inch Electric Scooter | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118264-share-97331-sale/"><u>2024-11 Discount Coupons - New Global Version Redmi A3 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118267-share-97331-sale/"><u>2024-11 Discount Coupons - NEW Kukirin G1 Pro | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1227543-share-59344-sale/"><u>2024-12 Discount Coupons - $11.88 for RAZ TN9000 Disposable Vap | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1227549-share-59344-sale/"><u>2024-12 Discount Coupons - $12.88 for Solaris 25000 Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1087688-share-59344-sale/"><u>2024-12 Discount Coupons - $20.88 for SMOK Novo 5 30W Pod Kit | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1227545-share-59344-sale/"><u>2024-12 Discount Coupons - $9.88 for Elf Bar BC5000 Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1081511-share-59344-sale/"><u>2024-12 Discount Coupons - $9.88 for Smok PRIV Bar Turbo Disposable Vape (5%, 15000 Puffs) | EightVape</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
