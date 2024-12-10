@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape
-date: 2024-12-09T05:41:32.064Z
-updated: 2024-12-09T05:41:32.064Z
+date: 2024-12-07T20:18:14.049Z
+updated: 2024-12-09T21:47:08.421Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1230734-share-59344-sale/"><u>2024-12 Discount Coupons - $13.97 for Airfuze Smart 30000 Disposable Vape | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-985313-share-80610-sale/"><u>2024-12 Discount Coupons - 18% Off Sitewide Evergreen Code | ESR</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1099938-share-90958-sale/"><u>2024-12 Discount Coupons - 22.86% Off Rincoe Manto AIO Ultra Kit/AIO Ultra RTA Kit 80W, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1028462-share-90958-sale/"><u>2024-12 Discount Coupons - 49.86% Off for SMOK Mag Solo Box Mod 100W Get One Free 18650 Battery, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1231106-share-92020-sale/"><u>2024-12 Discount Coupons - UK_B10G1 | RELX Global</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1231107-share-92020-sale/"><u>2024-12 Discount Coupons - UK_B15G1 | RELX Global</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1231078-share-92020-sale/"><u>2024-12 Discount Coupons - UK_B5G1 | RELX Global</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $6.66 for Chew Disposable Vape (3%%, 4000 Puffs) | Eight Vape
-date: 2024-12-09T05:41:32.063Z
-updated: 2024-12-09T05:41:32.063Z
+date: 2024-12-06T21:16:20.788Z
+updated: 2024-12-09T23:25:28.153Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,25 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1229339-share-90958-sale/"><u>2024-12 Discount Coupons - 24.40% Off Geekvape Aegis Solo 3 (S100) Box Mod, only $30.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1229329-share-90958-sale/"><u>2024-12 Discount Coupons - 25.00% Off Geekvape S100 (Aegis Solo 3) Vape Mod Kit 3000mAh 100W, only $44.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1229342-share-90958-sale/"><u>2024-12 Discount Coupons - 25.87% Off Geekvape S100 (Aegis Solo 3) Vape Mod Kit, only $42.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1229459-share-92020-sale/"><u>2024-12 Discount Coupons - CA_autoship | Relx CA</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1229457-share-153311-sale/"><u>2024-12 Discount Coupons - WYBOT S2 Pro with Charging Dock High-End Cordless Robotic Pool Cleaner | WYBOTICS INC</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

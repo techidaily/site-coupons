@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - TWOPAGES 8%% For All Orders
-date: 2024-12-01T05:16:22.503Z
-updated: 2024-12-02T14:08:38.181Z
+date: 2024-12-04T21:11:10.535Z
+updated: 2024-12-09T21:17:57.181Z
 categories:
   - Gifts & Stationery
 ---
@@ -52,17 +52,15 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1110967-share-90958-sale/"><u>2024-12 Discount Coupons - $11.99 for KFBAR Duet 20000 Double Tank Disposable Vape 20Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112001-share-150021-sale/"><u>2024-12 Discount Coupons - 10% OFF for Your First Oder, All Stores | CrealityFalcon</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110989-share-90958-sale/"><u>2024-12 Discount Coupons - 18.54% Off OVNS Prime 16000 Disposable Vape Kit 20Ml, only $8.79 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110614-share-90958-sale/"><u>2024-12 Discount Coupons - 21.61% Off MOVEMENT LV18000 by Lost Vape Disposable Vape Kit 18Ml, only $10.88 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110998-share-90958-sale/"><u>2024-12 Discount Coupons - 24.15% Off Vaporesso Luxe X2 Pod System Kit, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110437-share-90958-sale/"><u>2024-12 Discount Coupons - 24.15% Off VOOPOO Argus E40 Pod System Kit 1800mAh 40W, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110993-share-90958-sale/"><u>2024-12 Discount Coupons - 25.01% Off Uwell Crown S 75W Pod System Kit 1500mAh, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1111987-share-90958-sale/"><u>2024-12 Discount Coupons - 27.29% Off Uwell Havok R Pod System Kit 950mAh 22W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1201871-share-59344-sale/"><u>2024-12 Discount Coupons - $10.88 for Pod Juice X RAZ Jolly Watermelon Synthetic Vape Juice 100Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1201868-share-59344-sale/"><u>2024-12 Discount Coupons - $10.88 for Pod Juice X RAZ Pink Burst Chew Synthetic Vape Juice 100Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1201869-share-59344-sale/"><u>2024-12 Discount Coupons - $10.88 for Pod Juice X RAZ Tropical Vice City Ice Synthetic Vape Juice 100Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1201874-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pod Juice X RAZ Jewel Spearmint Synthetic Vape Juice 100Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1201872-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pod Juice X RAZ Jolly Blue Razz Ice Synthetic Vape Juice 100Ml | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1201969-share-96806-sale/"><u>2024-12 Discount Coupons - Merrill Specials! | Prime Buy</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

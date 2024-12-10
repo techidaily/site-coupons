@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $11.99 for Nicky for Jam X Fume 10000 Disposable Vape Salt Nic 19Ml | Vapesourcing Electronics Co.,Ltd.
-date: 2024-12-09T05:41:32.081Z
-updated: 2024-12-09T05:41:32.081Z
+date: 2024-12-08T21:04:02.332Z
+updated: 2024-12-09T20:54:42.836Z
 categories:
   - Disposable Pod Kits
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,25 @@ categories:
     $11.99 for Nicky for Jam X Fume 10000 Disposable Vape Salt Nic 19Ml 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1080590-share-59344-sale/"><u>2024-12 Discount Coupons - $7.88 for ICEWAVE X8500 Disposable Vape (5%, 8500 Puffs) | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1079634-share-90958-sale/"><u>2024-12 Discount Coupons - 25% Off for New Arrival Disposable Kits | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1082613-share-90958-sale/"><u>2024-12 Discount Coupons - 28.36% Off Uwell Caliburn Bar B6000 Disposable Vape 6000 Puffs, only $8.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1077999-share-90958-sale/"><u>2024-12 Discount Coupons - 29.10% Off VOOPOO Doric E Pod System Rechargeable, only $15.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1077245-share-90958-sale/"><u>2024-12 Discount Coupons - 30.78% Off Freemax Maxus 3 Box Mod 200W, only $35.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
