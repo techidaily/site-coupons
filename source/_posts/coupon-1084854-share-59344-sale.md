@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $19.88 for Geekvape AN2 (Aegis Nano 2) 30W Pod Kit | Eight Vape
-date: 2024-12-01T01:13:59.173Z
-updated: 2024-12-02T04:44:15.711Z
+date: 2024-12-09T05:41:32.084Z
+updated: 2024-12-09T05:41:32.084Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(6.48k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(49.04k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,25 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1123683-share-80218-sale/"><u>2024-12 Discount Coupons - $15.00 Off For Orders Over $250 | www.blackview.hk</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123679-share-90958-sale/"><u>2024-12 Discount Coupons - 27.51% Off Dotmod Dotpod Pro Pod System Kit 1000mAh 35W, only $28.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123495-share-90958-sale/"><u>2024-12 Discount Coupons - 29.43% Off Wave Turbo 25000 Disposable Vape 30Ml, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123640-share-142145-sale/"><u>2024-12 Discount Coupons - 5% Off for All Wecreat Products! | WECREAT TECH LTD</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123493-share-90958-sale/"><u>2024-12 Discount Coupons - 57.51% Off Kumiho THOTH T Pod System Kit 1300mAh, only $16.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

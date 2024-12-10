@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $1.66 for Topgreen XMAX QOMO Replacement Glass Tube | Eight Vape
-date: 2024-11-30T08:16:08.830Z
-updated: 2024-12-02T13:37:28.047Z
+date: 2024-12-09T05:41:32.062Z
+updated: 2024-12-09T05:41:32.062Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(31.16k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(41.72k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1109544-share-63219-sale/"><u>2024-12 Discount Coupons - "Use Code: BEST20 to Get 20% Off Best-Sellers Sitewide | No Min. Buy | Max Discount - $75 | Can Be Used Multiple Times. " | BestofSigns</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110238-share-90958-sale/"><u>2024-12 Discount Coupons - $12.99 for BLVK Bar 20000 Puffs Disposable Vape Kit 22Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1108970-share-90958-sale/"><u>2024-12 Discount Coupons - $6.90 for Bang Pi10000 Disposable Vape Kit 15Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109985-share-90958-sale/"><u>2024-12 Discount Coupons - 23.09% Off Lost Vape Ursa Epoch Pod System Kit, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109982-share-90958-sale/"><u>2024-12 Discount Coupons - 25.02% Off Lost Vape Ursa Cap 25W Pod System Kit, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109979-share-90958-sale/"><u>2024-12 Discount Coupons - 25.02% Off Uwell Prime BG12000 Disposable Vape Kit 20Ml, only $10.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110209-share-90958-sale/"><u>2024-12 Discount Coupons - 26.68% Off Cokii 16K Double Tanks Disposable Vape Kit 16Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110003-share-138391-sale/"><u>2024-12 Discount Coupons - Get $10 Off on SJCAM Action Cameras | Shenzhen Zhencheng Technology Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

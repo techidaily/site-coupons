@@ -1,7 +1,7 @@
 ---
 title: 2024-12 Discount Coupons - $100 OFF for Wecreat All Product! | WECREAT TECH LTD
-date: 2024-12-01T14:21:17.409Z
-updated: 2024-12-01T14:21:17.409Z
+date: 2024-12-09T05:41:31.817Z
+updated: 2024-12-09T05:41:31.817Z
 categories:
   - Laser Cutter Laser Engraver 3D Print
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(16.57k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(32.07k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

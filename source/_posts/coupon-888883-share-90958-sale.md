@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - 35.14%% Off for SMOK RPM 5 & RPM 5 Pro Pod Mod Kit 2000mAh 80W, only $23.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-11-30T12:24:25.098Z
-updated: 2024-12-01T23:10:28.688Z
+date: 2024-12-09T05:41:32.059Z
+updated: 2024-12-09T05:41:32.059Z
 categories:
   - General
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(3.97k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(12.25k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     35.14%% Off for SMOK RPM 5 & RPM 5 Pro Pod Mod Kit 2000mAh 80W, only $23.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118179-share-97331-sale/"><u>2024-12 Discount Coupons - ANBERNIC RG35XX Retro Handheld Game Console | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118109-share-97331-sale/"><u>2024-12 Discount Coupons - Global Version Xiaomi Smart Doorbell 3S | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118178-share-97331-sale/"><u>2024-12 Discount Coupons - Global Version Xiaomi Watch S3 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118183-share-97331-sale/"><u>2024-12 Discount Coupons - Huohou Fire Weather Nano Ceramic Knife Se | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118182-share-97331-sale/"><u>2024-12 Discount Coupons - HUOHOU Stainless Steel Knife Set Household Kitchen Knife Holder | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118181-share-97331-sale/"><u>2024-12 Discount Coupons - M18 R43 Pro Handheld Game Console | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118180-share-97331-sale/"><u>2024-12 Discount Coupons - Xiaomi 12 Global Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118110-share-97331-sale/"><u>2024-12 Discount Coupons - Xiaomi Open-Back Headphones | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

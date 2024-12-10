@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - 5 for $39 & 10 for $69 | EightVape
-date: 2024-11-28T19:29:36.726Z
-updated: 2024-12-01T19:39:37.225Z
+date: 2024-12-09T05:41:32.016Z
+updated: 2024-12-09T05:41:32.016Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(25.94k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(37.27k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,26 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1975660-app-17059-impact/"><u>2024-09 Discount Coupons - " "Modlily "Code: FREE4 " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1993490-app-17059-impact/"><u>2024-09 Discount Coupons - " "Modlily "CODE:VACA20 " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1752904-app-17091-impact/"><u>2024-09 Discount Coupons - Bluetti EU 10 OFF For AC200P| AC200MAX |PV350</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1752905-app-17091-impact/"><u>2024-09 Discount Coupons - Bluetti EU 2 Off Sitewide Code</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1752903-app-17091-impact/"><u>2024-09 Discount Coupons - Bluetti EU 5 OFF For EB3A | RB55 | EB70 | PV200</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1959489-app-17059-impact/"><u>2024-09 Discount Coupons - Modlily CODE：WOM50$89-$6$109-$12$169-$25</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

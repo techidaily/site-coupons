@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $12.88 for Solaris 25000 Disposable Vape | EightVape
-date: 2024-11-28T05:04:37.453Z
-updated: 2024-12-02T01:58:30.209Z
+date: 2024-12-09T05:41:31.804Z
+updated: 2024-12-09T05:41:31.804Z
 categories:
   - Disposable Vapes
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(4.34k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(7.00k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089886-share-59344-sale/"><u>2024-12 Discount Coupons - $2.66 for TFV8 X-Baby Replacement Glass #3 - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089884-share-59344-sale/"><u>2024-12 Discount Coupons - $5.66 for RGC RBA Coil - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089883-share-59344-sale/"><u>2024-12 Discount Coupons - $5.66 for RPM 2 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089887-share-59344-sale/"><u>2024-12 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%, 3500 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089888-share-59344-sale/"><u>2024-12 Discount Coupons - $6.66 for Suorin Air Bar Max Disposable Vape (5%, 2000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089885-share-59344-sale/"><u>2024-12 Discount Coupons - $8.66 for Vaporesso QF Replacement Coils (3X Pack) | Hot Buy Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089881-share-59344-sale/"><u>2024-12 Discount Coupons - $9.66 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

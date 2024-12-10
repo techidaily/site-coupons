@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $11.88 for Watermelon Ice 60Ml Vape Juice - Yogi | Eight Vape
-date: 2024-11-27T17:59:10.295Z
-updated: 2024-12-01T16:35:34.486Z
+date: 2024-12-09T05:41:32.062Z
+updated: 2024-12-09T05:41:32.062Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(37.67k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(20.27k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-761155-share-77450-sale/"><u>2024-12 Discount Coupons - 100? - 5? Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-761156-share-77450-sale/"><u>2024-12 Discount Coupons - 200? - 10? Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-773291-share-90958-sale/"><u>2024-12 Discount Coupons - 26.93% Off for SMOK Novo 4 Pod Vape Kit 25W 800mAh, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-727573-share-90958-sale/"><u>2024-12 Discount Coupons - 27.78% Off for Vandy Vape Gaur-21 Dual 21700 Box Mod 200W, only $38.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-643237-share-77450-sale/"><u>2024-12 Discount Coupons - 300? - 15? Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-684532-share-90958-sale/"><u>2024-12 Discount Coupons - 40.81% Off for Joyetech eGo Pod Kit 1000mAh, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-643238-share-77450-sale/"><u>2024-12 Discount Coupons - 400? - 20? Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
