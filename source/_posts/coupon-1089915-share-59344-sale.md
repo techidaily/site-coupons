@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $4.00 for Geek Bar Pro 4.5Ml Disposable Vape (5%%, 1500 Puffs) | Eight Vape
-date: 2024-12-03T05:28:12.010Z
-updated: 2024-12-09T17:05:57.911Z
+date: 2024-12-15T09:01:09.319Z
+updated: 2024-12-15T09:01:09.319Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(27.61k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(30.51k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1100142-share-90958-sale/"><u>2024-12 Discount Coupons - 20.82% Off Prism 20K Spaceman 18Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1113843-share-90958-sale/"><u>2024-12 Discount Coupons - 23.09% Off VOOPOO Argus G2 Mini Pod System Kit 1200mAh 30W, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230038-share-90958-sale/"><u>2024-12 Discount Coupons - 23.54% Off Nose Knows AT5000 Disposable Vape 10Ml 2%, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230037-share-90958-sale/"><u>2024-12 Discount Coupons - 25.94% Off SMOK Novo GT Box Pod System Kit, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110992-share-90958-sale/"><u>2024-12 Discount Coupons - 40.04% Off Uwell Caliburn G3 Lite Pod System Kit, only $5.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229848-share-97331-sale/"><u>2024-12 Discount Coupons - 6Th Anniversary Celebration | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1229857-share-116593-sale/"><u>2024-12 Discount Coupons - Available Sitewide at Kaiweets.com | Kaiweets</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1230036-share-127720-sale/"><u>2024-12 Discount Coupons - Enjoy up to 15% Off | Flextail</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

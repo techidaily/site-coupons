@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - Up to $50 Off | Back to School Sale Special Discount for Students | Soundcore | Fantasia Trading LLC
-date: 2024-12-05T05:07:54.123Z
-updated: 2024-12-09T19:05:53.790Z
+date: 2024-12-15T09:01:09.045Z
+updated: 2024-12-15T09:01:09.045Z
 categories:
   - Up to $50 Off | Back to School Sale Special Discou
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(41.39k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(40.75k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "Back to School Sale: Epic Deals and Upbeat Vibes for Your Best Year Yet" 
 Soundcore, Headphones,speaker, VR, Gaming, Meta, Sleep, Health  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118048-share-97331-sale/"><u>2024-12 Discount Coupons - Original Apple AirPods Pro (2Nd Generation)2023 with MagSafe Charging Case (USB?C) | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118046-share-97331-sale/"><u>2024-12 Discount Coupons - Original Apple Watch SE 2023 ( GPS/WIFI) Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118047-share-97331-sale/"><u>2024-12 Discount Coupons - Original Apple Watch Series 9 ( GPS/WIFI) Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118045-share-97331-sale/"><u>2024-12 Discount Coupons - POCO X6 ProGlobal Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118043-share-97331-sale/"><u>2024-12 Discount Coupons - Rax Hiking Shoes, Men's Waterproof Shoes, High-Top Non-Slip Hiking Shoes, Women's Warm Hiking Boots, Lightweight Travel Outdoor Shoes | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118044-share-97331-sale/"><u>2024-12 Discount Coupons - RAX Spring and Summer Men's and Women's River Trekking Ultra-Light Speed Interference Water Fishing Hiking Hiking Shoes 82-5K463 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118042-share-97331-sale/"><u>2024-12 Discount Coupons - Xiaomi Mijia Desk Lamp 2 Lite | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

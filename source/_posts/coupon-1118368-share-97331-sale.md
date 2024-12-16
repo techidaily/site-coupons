@@ -1,7 +1,7 @@
 ---
 title: 2024-12 Discount Coupons - DDPAI X5 Pro Dual Channel Dashcam, Global Version, 4K Front & 1080P Rear | Gshopper
-date: 2024-12-09T05:41:31.898Z
-updated: 2024-12-09T05:41:31.898Z
+date: 2024-12-15T09:01:09.154Z
+updated: 2024-12-15T09:01:09.154Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(24.39k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(37.15k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

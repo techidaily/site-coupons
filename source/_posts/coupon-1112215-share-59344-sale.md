@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - Only $8.00 for Airis Neo P8000 Disposable Vape | EightVape
-date: 2024-12-03T23:56:40.547Z
-updated: 2024-12-10T05:28:16.354Z
+date: 2024-12-15T09:01:09.255Z
+updated: 2024-12-15T09:01:09.255Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(19.19k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(16.00k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118341-share-97331-sale/"><u>2024-12 Discount Coupons - Original Soundcore AeroFit Pro Secure Open-Ear Sport Earbuds | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118342-share-97331-sale/"><u>2024-12 Discount Coupons - Original Soundcore AeroFit Superior Comfort Open-Ear Earbuds | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118339-share-97331-sale/"><u>2024-12 Discount Coupons - Original Soundcore H30i On-Ear Bluetooth Headphones A3012 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118340-share-97331-sale/"><u>2024-12 Discount Coupons - Original Soundcore P20i Earbuds | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118338-share-97331-sale/"><u>2024-12 Discount Coupons - Original Soundcore V30i Open-Ear Earbuds | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118337-share-97331-sale/"><u>2024-12 Discount Coupons - Solar Hand Crank Power Generation Emergency NOAA Radio 5000Mah Rechargeable Treasure Power Display | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118336-share-97331-sale/"><u>2024-12 Discount Coupons - Ugreen KU005 Bluetooth / 2.4 GHz Wireless Membrane Keyboard - Black | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118335-share-97331-sale/"><u>2024-12 Discount Coupons - Youpin Car Front Sun Protection and Insulated Parasol 79X140cm | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
