@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $169 GET $30 OFF (CODE: UR30)\\\\\\\"\\\"\""
-date: 2024-12-08T00:50:04.092Z
-updated: 2024-12-09T18:55:45.577Z
+date: 2024-12-15T03:06:27.515Z
+updated: 2024-12-15T23:53:54.649Z
 categories:
   - Women's Apparel
 ---
@@ -52,16 +52,18 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118281-share-97331-sale/"><u>2024-12 Discount Coupons - Mijia HandheldGarment Steamer 2 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118283-share-97331-sale/"><u>2024-12 Discount Coupons - New Xiaomi Bluetooth Speaker Black | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118285-share-97331-sale/"><u>2024-12 Discount Coupons - New Xiaomi Mijia Smart Portable Electric Heating Cup 2 Temperature LED | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118286-share-97331-sale/"><u>2024-12 Discount Coupons - Youpin ? Cocacola 316 Stainless Steel Portable Coffee Thermos Cup 400Ml | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118287-share-97331-sale/"><u>2024-12 Discount Coupons - Youpin Circle Joy Rechargeable Salt Pepper Grinder Set with Base Stainless | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118284-share-97331-sale/"><u>2024-12 Discount Coupons - Youpin Doco Electric Hair Clipper | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118282-share-97331-sale/"><u>2024-12 Discount Coupons - Youpin Qujia Insulated Lunch Box | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1085667-share-90958-sale/"><u>2024-12 Discount Coupons - $10.99 for VOZOL Neon 10000 Disposable Vape 10Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084856-share-59344-sale/"><u>2024-12 Discount Coupons - $13.88 for Geekvape AQ (Aegis Q) 20W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084857-share-59344-sale/"><u>2024-12 Discount Coupons - $13.88 for Geekvape Wenax K2 18W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084855-share-59344-sale/"><u>2024-12 Discount Coupons - $13.88 for Geekvape Wenax Q 25W Mini Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1084859-share-59344-sale/"><u>2024-12 Discount Coupons - $15.88 for Uwell Caliburn GK3 25W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086043-share-90958-sale/"><u>2024-12 Discount Coupons - 30.01% Off BP Mods Warhammer Box Mod 60W, only $27.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1085393-share-90958-sale/"><u>2024-12 Discount Coupons - 30.78% Off VOOPOO Doric Galaxy Pod System with Power Bank, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086090-share-90958-sale/"><u>2024-12 Discount Coupons - 31.27% Off for ZQ Xtal Max Pod System Kit 1200mAh, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086089-share-90958-sale/"><u>2024-12 Discount Coupons - 33.36% Off for HorizonTech Talons Pod System Kit 700mAh, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

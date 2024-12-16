@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $9.88 for Smok PRIV Bar Turbo Disposable Vape (5%%, 15000 Puffs) | EightVape
-date: 2024-12-15T09:01:09.059Z
-updated: 2024-12-15T09:01:09.059Z
+date: 2024-12-12T04:20:02.737Z
+updated: 2024-12-15T18:33:45.914Z
 categories:
   - Coupon Code
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,24 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089889-share-59344-sale/"><u>2024-12 Discount Coupons - $12.66 for SMOK RGC Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089890-share-59344-sale/"><u>2024-12 Discount Coupons - $4.66 for Smok SCAR-P5 Pods (3Pcs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089887-share-59344-sale/"><u>2024-12 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%, 3500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089888-share-59344-sale/"><u>2024-12 Discount Coupons - $6.66 for Suorin Air Bar Max Disposable Vape (5%, 2000 Puffs) | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

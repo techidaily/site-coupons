@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"Buy 4Th Get 80%% Off (Code: URS80)\\\\\\\"\\\"\""
-date: 2024-12-05T22:34:27.645Z
-updated: 2024-12-10T04:50:50.823Z
+date: 2024-12-08T19:59:33.010Z
+updated: 2024-12-15T17:39:42.087Z
 categories:
   - Women's Apparel
 ---
@@ -52,13 +52,18 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118266-share-97331-sale/"><u>2024-12 Discount Coupons - Global Version Xiaomi Outdoor Camera CW400 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118265-share-97331-sale/"><u>2024-12 Discount Coupons - Global Version Xiaomi Watch 2 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118264-share-97331-sale/"><u>2024-12 Discount Coupons - New Global Version Redmi A3 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118267-share-97331-sale/"><u>2024-12 Discount Coupons - NEW Kukirin G1 Pro | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-969310-share-90958-sale/"><u>2024-12 Discount Coupons - 25.77% Off for Vandy Vape Bskr Elite Vape Pen Kit 3Ml, only $24.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-948205-share-90958-sale/"><u>2024-12 Discount Coupons - 25.90% Off for Lost Vape Orion Art Pod Kit 800mAh 18W, only $12.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-968346-share-90958-sale/"><u>2024-12 Discount Coupons - 26.87% Off for Geekvape L200 (Aegis Legend 2) Classic Kit with Z Max Tank, only $48.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-980594-share-90958-sale/"><u>2024-12 Discount Coupons - 32.37% Off for SMOK Propod Pod Kit 800mAh, only $11.49 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-894397-share-90958-sale/"><u>2024-12 Discount Coupons - 34.15% Off for Eleaf iStick Power 2 Box Mod 80W, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-939606-share-90958-sale/"><u>2024-12 Discount Coupons - 35.02% Off Joyetech EVIO C2 Pod System Kit 800mAh 18W, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-872378-share-90958-sale/"><u>2024-12 Discount Coupons - 39.03% Off for Innokin Kroma 217 100W Mod, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-899033-share-90958-sale/"><u>2024-12 Discount Coupons - 39.14% Off for VOOPOO Argus GT 2 Vape Mod Kit 200W, only $41.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-883099-share-90958-sale/"><u>2024-12 Discount Coupons - 50.04% Off for Uwell Popreel N1 Pod System Kit, only $6.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

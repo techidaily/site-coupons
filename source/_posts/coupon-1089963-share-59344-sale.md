@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $12.66 for Releafy Torch 2.0 Replacement Heating Chambers (4X Pack) | Eight Vape
-date: 2024-12-15T09:01:09.316Z
-updated: 2024-12-15T09:01:09.316Z
+date: 2024-12-11T02:20:30.740Z
+updated: 2024-12-16T08:56:13.067Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,24 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1106062-share-59344-sale/"><u>2024-12 Discount Coupons - $12.88 for OXVA Xlim 25W Pod Kit (W/ V2 Pod) | EightVape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106071-share-59344-sale/"><u>2024-12 Discount Coupons - $17.88 for VooPoo Argus 20W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106068-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for VooPoo Drag Q 25W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1106069-share-59344-sale/"><u>2024-12 Discount Coupons - $9 Off for SMOK G-PRIV 4 230W Kit | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
