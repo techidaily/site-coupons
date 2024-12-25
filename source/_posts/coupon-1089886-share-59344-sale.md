@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $2.66 for TFV8 X-Baby Replacement Glass #3 - Smok | Eight Vape
-date: 2024-12-24T05:36:33.248Z
-updated: 2024-12-24T05:36:33.248Z
+date: 2024-12-21T04:28:06.464Z
+updated: 2024-12-25T01:11:19.979Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,24 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089890-share-59344-sale/"><u>2024-12 Discount Coupons - $4.66 for Smok SCAR-P5 Pods (3Pcs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089892-share-59344-sale/"><u>2024-12 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089891-share-59344-sale/"><u>2024-12 Discount Coupons - $6.66 for Space Max Sub-Ohm Disposable Vape (5%, 4000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089885-share-59344-sale/"><u>2024-12 Discount Coupons - $8.66 for Vaporesso QF Replacement Coils (3X Pack) | Hot Buy Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

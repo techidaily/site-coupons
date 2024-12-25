@@ -1,11 +1,10 @@
 ---
 title: 2024-12 Discount Coupons - $16.88 for SMOK Propod 22W Pod Kit | Eight Vape
-date: 2024-12-24T05:36:33.246Z
-updated: 2024-12-24T05:36:33.246Z
+date: 2024-12-20T03:39:16.396Z
+updated: 2024-12-25T03:25:55.909Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,25 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-934183-share-90958-sale/"><u>2024-12 Discount Coupons - 21.44% Off Puff Hotbox Disposable Vape Kit 7500 Puffs 16Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-936625-share-90958-sale/"><u>2024-12 Discount Coupons - 33.35% Off for SMOK IGEE A1 Pod System Kit, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-924525-share-90958-sale/"><u>2024-12 Discount Coupons - 33.35% Off for VOOPOO VMATE E Pod System Kit 1200mAh 20W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-934131-share-90958-sale/"><u>2024-12 Discount Coupons - 38.48% Off for Geekvape Z Sub-Ohm SE Tank 29Mm 5.5Ml, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-920919-share-90958-sale/"><u>2024-12 Discount Coupons - 40.01% Off for Innokin GoZee Vape Kit 2100mAh 60W, only $23.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"Buy 3Th Get 50%% Off (Code: URS50)\\\\\\\"\\\"\""
-date: 2024-12-12T04:11:01.814Z
-updated: 2024-12-15T21:40:02.808Z
+date: 2024-12-18T16:53:36.340Z
+updated: 2024-12-24T17:45:53.994Z
 categories:
   - Women's Apparel
 ---
@@ -52,17 +52,15 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1088918-share-59344-sale/"><u>2024-12 Discount Coupons - $15.88 for Lost Vape URSA NANO 2 22W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088908-share-90958-sale/"><u>2024-12 Discount Coupons - 22.25% Off for Eleaf EN Drive Tank 2Ml, only $6.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088907-share-90958-sale/"><u>2024-12 Discount Coupons - 25.03% Off for Joyetech EVIO Gemini Pod System Kit 650mAh, only $5.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-702423-share-90958-sale/"><u>2024-12 Discount Coupons - 28.44% Off Uwell Caliburn Vape Pod System Kit, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088909-share-90958-sale/"><u>2024-12 Discount Coupons - 28.59% Off for Eleaf EN Air Tank 2Ml/3.5ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-864033-share-90958-sale/"><u>2024-12 Discount Coupons - 30.45% Off for Geekvape Aegis One & 1FC Kit, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-789445-share-90958-sale/"><u>2024-12 Discount Coupons - 36.70% Off for Joyetech eGo Pod AST Version Kit 1000mAh, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-843488-share-77450-sale/"><u>2024-12 Discount Coupons - 500? - 5% Discount for Sitewide | GEEKMAXI.COM</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1061237-share-90958-sale/"><u>2024-12 Discount Coupons - $14.99 for EBDESIGN Pi9000 Disposable Vape Kit 9000 Puffs 19Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1052142-share-90958-sale/"><u>2024-12 Discount Coupons - 25.02% Off Fifty Bar Disposable Vape Kit 6500 Puffs 16Ml, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1056160-share-90958-sale/"><u>2024-12 Discount Coupons - 26.68% Off Puff PIXI Pro Disposable Vape Kit 8000 Puffs 14Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1060473-share-90958-sale/"><u>2024-12 Discount Coupons - 31.78% Off ICEWAVE X8500 Disposable Vape Kit 8500 Puffs 18Ml, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1067304-share-90958-sale/"><u>2024-12 Discount Coupons - 33.77% Off Geekvape Wenax Q Mini Pod System, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1071024-share-90958-sale/"><u>2024-12 Discount Coupons - 41.20% Off VASY Drag Disposable Vape Kit 10000 Puffs 20Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

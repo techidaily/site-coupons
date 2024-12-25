@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $299 GET $50 OFF (CODE: UR50)\\\\\\\"\\\"\""
-date: 2024-12-08T22:22:24.054Z
-updated: 2024-12-15T22:43:28.680Z
+date: 2024-12-20T00:10:37.275Z
+updated: 2024-12-25T05:17:54.256Z
 categories:
   - Women's Apparel
 ---
@@ -52,14 +52,13 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1086091-share-90958-sale/"><u>2024-12 Discount Coupons - $11.99 for Nicky for Jam X Fume 10000 Disposable Vape Salt Nic 19Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086301-share-59344-sale/"><u>2024-12 Discount Coupons - $18.88 for Lost Vape Thelema Elite 40W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086295-share-59344-sale/"><u>2024-12 Discount Coupons - $20.88 for Vaporesso XROS Pro 30W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086303-share-59344-sale/"><u>2024-12 Discount Coupons - $25.88 for VOOPOO Drag S2 60W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1086296-share-59344-sale/"><u>2024-12 Discount Coupons - $53.88 for Vandy Vape Pulse AIO V2 80W Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1001823-share-90958-sale/"><u>2024-12 Discount Coupons - 22.68% Off Posh MAX 2.0 5200 Puffs Disposable Vape Kit 5%, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1000280-share-90958-sale/"><u>2024-12 Discount Coupons - 26.68% Off Mr Fog Switch 5500 Puffs Disposable Vape Kit 15Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-983052-share-90958-sale/"><u>2024-12 Discount Coupons - 30.56% Off for Vandy Vape Requiem RTA 24Mm 4.5Ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1021173-share-90958-sale/"><u>2024-12 Discount Coupons - 37.51% Off for ThunderHead Creations Tauren Elite Pro RTA 22Mm 2Ml/4ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

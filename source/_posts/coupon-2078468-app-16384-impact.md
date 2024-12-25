@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER$109 GET $10 OFF (CODE: UR10)\\\\\\\"\\\"\""
-date: 2024-12-14T19:18:14.977Z
-updated: 2024-12-16T08:00:44.253Z
+date: 2024-12-18T16:15:03.770Z
+updated: 2024-12-24T18:03:45.241Z
 categories:
   - Women's Apparel
 ---
@@ -52,17 +52,17 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1082224-share-59344-sale/"><u>2024-12 Discount Coupons - $11.88 for Flum UTBAR 6000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1084492-share-59344-sale/"><u>2024-12 Discount Coupons - $12.88 for Spree Bar 6000 Diposable Starter Pack | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1084854-share-59344-sale/"><u>2024-12 Discount Coupons - $19.88 for Geekvape AN2 (Aegis Nano 2) 30W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056956-share-90958-sale/"><u>2024-12 Discount Coupons - 23.09% Off for Sigelei Smart AC10000 Disposable Vape Kit 10000 Puffs 20Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1076838-share-90958-sale/"><u>2024-12 Discount Coupons - 34.49% Off for Lost Vape Thelema Elite 40 Pod System 1400mAh 40W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056749-share-90958-sale/"><u>2024-12 Discount Coupons - 37.52% Off Breze Stiik King Max Zero Nicotine Disposable Vape Kit 10000 Puffs 20Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1054053-share-90958-sale/"><u>2024-12 Discount Coupons - 37.52% Off Luckee Vape Daniel?s Disposable Vape Kit 8000 Puffs 18Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1065186-share-101288-sale/"><u>2024-12 Discount Coupons - Minisforum $10 Off To Fans | Micro Computer (HK) Tech Limited</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094839-share-136981-sale/"><u>2024-12 Discount Coupons - $20 OFF Order $119+ | HONG KONG JINGCHEN E-COMMERCE CO., LIMITED</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094835-share-136981-sale/"><u>2024-12 Discount Coupons - 18% OFF on All Sites | HONG KONG JINGCHEN E-COMMERCE CO., LIMITED</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094871-share-90958-sale/"><u>2024-12 Discount Coupons - 22% Off for All R and M Disposable Kits | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-829869-share-90958-sale/"><u>2024-12 Discount Coupons - 29.79% Off for Geekvape M100 Box Mod (Aegis Mini 2) 2500 mAh 100W, only $32.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-829200-share-90958-sale/"><u>2024-12 Discount Coupons - 36.38% Off for Vaporesso XROS 2 Pod System Kit 16W, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1094259-share-59344-sale/"><u>2024-12 Discount Coupons - Any 5 for $55 | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-778898-share-90958-sale/"><u>2024-12 Discount Coupons - Extra 15% Off for All Coils and Heads | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1097387-share-122475-sale/"><u>2024-12 Discount Coupons - Join Our Mailling List to Get a 10% OFF Coupon on Your First Order. | Bellavapor</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

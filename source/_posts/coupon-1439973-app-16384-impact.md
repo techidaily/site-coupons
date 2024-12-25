@@ -1,7 +1,7 @@
 ---
 title: 2024-09 Discount Coupons - Ursime Order Amount Over $199 Get $30 Off
-date: 2024-12-14T04:35:50.340Z
-updated: 2024-12-15T16:39:39.589Z
+date: 2024-12-20T05:05:59.932Z
+updated: 2024-12-25T01:06:36.706Z
 categories:
   - Women's Apparel
 ---
@@ -52,16 +52,18 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-967926-share-90958-sale/"><u>2024-12 Discount Coupons - 25.29% Off for Lost Vape Centaurus M200 Box Mod 200W, only $39.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-840655-share-90958-sale/"><u>2024-12 Discount Coupons - 30.46% Off for SMOK SOLUS Pod System Kit, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971128-share-90958-sale/"><u>2024-12 Discount Coupons - 30.56% Off for Eleaf iStick I40 Vape Kit With GTL D20 Tank, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-871445-share-90958-sale/"><u>2024-12 Discount Coupons - 31.05% Off for Vandy Vape Unicorn Pod Kit, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-941980-share-90958-sale/"><u>2024-12 Discount Coupons - 33.34% Off for Uwell Caliburn X Pod System Kit 850mAh 20W, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-978835-share-90958-sale/"><u>2024-12 Discount Coupons - 35.73% Off for Lost Vape Thelema Mini Box Mod 1500mAh 45W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-945529-share-90958-sale/"><u>2024-12 Discount Coupons - 41.13% Off for VOOPOO VINCI SE Pod System Kit 900mAh 15W, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1103151-share-59344-sale/"><u>2024-12 Discount Coupons - $3.00 Off RabBeats RC10000 Touch Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1103149-share-59344-sale/"><u>2024-12 Discount Coupons - 18% Off GeekVape Digi Q Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1104126-share-122475-sale/"><u>2024-12 Discount Coupons - 18% Off of Spring Sale Sitewide | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1104232-share-90958-sale/"><u>2024-12 Discount Coupons - 25.02% Off for Joyetech eGo NexO Pod System Kit 1500mAh 20W, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1103103-share-90958-sale/"><u>2024-12 Discount Coupons - 26.93% Off Uwell Caliburn GK3 Tenet Pod System Kit 25W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1104228-share-90958-sale/"><u>2024-12 Discount Coupons - 29.74% Off for Auguse Era V2 RDA 22Mm, only $25.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1074718-share-90958-sale/"><u>2024-12 Discount Coupons - 30.45% Off VOOPOO VMATE Pro Pod System, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1087676-share-90958-sale/"><u>2024-12 Discount Coupons - 37.52% Off Exeek EK15000 Disposable Vape, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1062294-share-90958-sale/"><u>2024-12 Discount Coupons - 43.78% Off Fat Boy FB10000 Disposable Vape Kit 10000 Puffs 15Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
