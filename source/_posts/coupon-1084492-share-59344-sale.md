@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $12.88 for Spree Bar 6000 Diposable Starter Pack | Eight Vape
-date: 2024-12-15T07:21:29.734Z
-updated: 2024-12-15T19:44:59.806Z
+date: 2024-12-24T05:36:33.267Z
+updated: 2024-12-24T05:36:33.267Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(16.43k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(12.23k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1123223-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Blueberry Watermelon Pomegranate TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123221-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Lemon Apple Ice TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123222-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Mango Lemon Lychee TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123220-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Peach Pear Ice TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123219-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Strawberry Kiwi Ice TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123224-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Strawberry Orange Banana TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1123218-share-59344-sale/"><u>2024-12 Discount Coupons - $3 Off for Pachamama Plus+ Strawberry Passionfruit Ice TFN Salt Vape Juice 30Ml | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1113208-share-90958-sale/"><u>2024-12 Discount Coupons - 23.54% Off Buy V-Play 20K Disposable Vape 25Ml Get Free Mystery Disposable, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083796-share-90958-sale/"><u>2024-12 Discount Coupons - 28.03% Off MICCO N16000 Disposable Vape 20Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

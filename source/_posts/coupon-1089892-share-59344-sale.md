@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $5.66 for SMOK Stick R22 Empty Tank | Eight Vape
-date: 2024-12-13T22:40:08.135Z
-updated: 2024-12-16T06:18:53.089Z
+date: 2024-12-24T05:36:33.247Z
+updated: 2024-12-24T05:36:33.247Z
 categories:
   - Disposable Vapes
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(8.43k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(48.76k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117635-share-156155-sale/"><u>2024-12 Discount Coupons - $20OFF For AME2A Podcasting Studio Bundle | Maono Technology Co., Ltd</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117615-share-156155-sale/"><u>2024-12 Discount Coupons - $20OFF For PD200X & AMC2 NEO Gaming Bundle | Maono Technology Co., Ltd</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117634-share-156155-sale/"><u>2024-12 Discount Coupons - $20OFF For PD200X Podcast Starter Kit | Maono Technology Co., Ltd</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117604-share-156155-sale/"><u>2024-12 Discount Coupons - $20OFF For PD400X & AME2 Audio Bundle | Maono Technology Co., Ltd</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117607-share-155620-sale/"><u>2024-12 Discount Coupons - 10% OFF Sitewide | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117608-share-155620-sale/"><u>2024-12 Discount Coupons - 20% OFF Sitewide | Hangzhou Loonxi</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117609-share-155620-sale/"><u>2024-12 Discount Coupons - 30% OFF on Orders Over $400 | Hangzhou Loonxi</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

@@ -1,7 +1,7 @@
 ---
 title: 2024-12 Discount Coupons - AFERIY P310 Portable Power Station 3600W 3840Wh��5 Years Warranty�� | Gshopper
-date: 2024-12-15T09:01:09.140Z
-updated: 2024-12-15T09:01:09.140Z
+date: 2024-12-24T05:36:33.062Z
+updated: 2024-12-24T05:36:33.062Z
 categories:
   - Auto & Sport
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(23.43k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(26.16k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

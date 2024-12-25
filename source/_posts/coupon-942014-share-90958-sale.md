@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - 51.37%% Off for VOOPOO Drag H80 S Pod Mod Kit 80W, only $17.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-12-09T21:50:32.244Z
-updated: 2024-12-15T22:06:09.994Z
+date: 2024-12-24T05:36:33.264Z
+updated: 2024-12-24T05:36:33.264Z
 categories:
   - Starter Kit
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(49.44k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(9.83k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,24 +44,3 @@ categories:
     51.37%% Off for VOOPOO Drag H80 S Pod Mod Kit 80W, only $17.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118668-share-97331-sale/"><u>2024-12 Discount Coupons - Mi Vacuum Cleaner Mini Global | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118667-share-97331-sale/"><u>2024-12 Discount Coupons - Nextool Rechargeable Flashlight 5000mAh 2000Lm | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118666-share-97331-sale/"><u>2024-12 Discount Coupons - PETKIT Fit 3 Smart Pet Collars Tag Bluetooth Remote Control | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118669-share-97331-sale/"><u>2024-12 Discount Coupons - Xiaomi Router AX3200Global Version | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

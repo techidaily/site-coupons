@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - $6.66 for Chew Disposable Vape (3%%, 4000 Puffs) | Eight Vape
-date: 2024-12-11T07:27:38.800Z
-updated: 2024-12-15T17:11:53.852Z
+date: 2024-12-24T05:36:33.245Z
+updated: 2024-12-24T05:36:33.245Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>5.00 <span class="font-normal text-slate-400">(29.48k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(14.15k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-751252-share-63219-sale/"><u>2024-12 Discount Coupons - "Save on Bulk Orders at BestofSigns.com! Use Code: BOSODR35 for 10% Off Orders of $350 or More! Offer Does Not Expire! " | BestofSigns</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114243-share-90958-sale/"><u>2024-12 Discount Coupons - 20.01% Off Geek Bar Pulse X 25K Disposable Vape, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114245-share-90958-sale/"><u>2024-12 Discount Coupons - 21.91% Off Geek Bar Pulse 15000 Frozen Edition Disposable Vape Kit 16Ml, only $10.69 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-716195-share-90958-sale/"><u>2024-12 Discount Coupons - 35.02% Off for SMOK Vape Pen V2 Kit 60W, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114559-share-92020-sale/"><u>2024-12 Discount Coupons - FR_GA600SA600 | Relx FR</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114216-share-59344-sale/"><u>2024-12 Discount Coupons - Save $30 on Order over $200 | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1114215-share-59344-sale/"><u>2024-12 Discount Coupons - Welcome Offer 20% OFF | EightVape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - Only $8 for VAPGO BAR X 12K Disposable Vape | EightVape
-date: 2024-12-15T04:42:29.089Z
-updated: 2024-12-16T07:10:35.264Z
+date: 2024-12-24T05:36:32.985Z
+updated: 2024-12-24T05:36:32.985Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(5.68k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(33.66k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1092830-share-59344-sale/"><u>2024-12 Discount Coupons - $6.88 for Off-Stamp SW9000 Disposable Replacement Pod | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094768-share-122475-sale/"><u>2024-12 Discount Coupons - 38% of VAAL AOP 1000 Rechargeable Disposable Vape Kit 1000 Puffs 2Ml, only $4.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094765-share-122475-sale/"><u>2024-12 Discount Coupons - 38% of Waka soPro PA7000 Disposable 3% 14mL, only $12.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089761-share-122475-sale/"><u>2024-12 Discount Coupons - 64% of WISMEC MOTIV 2 AIO POD SYSTEM, only $9.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092777-share-122475-sale/"><u>2024-12 Discount Coupons - 69% Off of WISMEC INDE DUO Atomizer Kit, only $9.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089775-share-122475-sale/"><u>2024-12 Discount Coupons - 77% of WISMEC Sinuous Predator 228 with Elabo Kit, only $20.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089767-share-122475-sale/"><u>2024-12 Discount Coupons - 78% of CLOUPOR MINI 30W WATT BOX MOD, only $10.99 | Bellavapor</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

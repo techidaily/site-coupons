@@ -1,7 +1,7 @@
 ---
 title: 2024-12 Discount Coupons - New Magnetic 3-in-1 Wireless Charger for Apple 14 Huawei 15W Night Light Wireless Charger | Gshopper
-date: 2024-12-15T09:01:09.130Z
-updated: 2024-12-15T09:01:09.130Z
+date: 2024-12-24T05:36:33.051Z
+updated: 2024-12-24T05:36:33.052Z
 categories:
   - Mobile & Accessories
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(39.23k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(28.53k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

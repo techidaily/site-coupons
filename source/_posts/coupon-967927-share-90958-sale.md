@@ -1,10 +1,11 @@
 ---
 title: 2024-12 Discount Coupons - 21.27%% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59 | Vapesourcing Electronics Co.,Ltd.
-date: 2024-12-10T03:53:23.634Z
-updated: 2024-12-16T05:44:14.713Z
+date: 2024-12-24T05:36:33.268Z
+updated: 2024-12-24T05:36:33.268Z
 categories:
   - Starter Kit
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(12.54k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(15.23k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     21.27%% Off for Lost Vape Centaurus M200 Vape Kit with Centaurus Sub Ohm Tank, only $49.59 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1069759-share-90958-sale/"><u>2024-12 Discount Coupons - $39.99 for Any 3PCS Disposable Kit | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1079076-share-90958-sale/"><u>2024-12 Discount Coupons - $69.9 for Any 10Pcs Disposable Kits | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1088336-share-90958-sale/"><u>2024-12 Discount Coupons - 17.07% Off Lost Mary MT15000 Turbo Disposable Vape 5%, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1083259-share-90958-sale/"><u>2024-12 Discount Coupons - 24.18% Off Mirus XN 10000 Puffs Prefilled Vape Pod Kit 20Ml, only $5.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1112220-share-90958-sale/"><u>2024-12 Discount Coupons - 25.59% Off Fume Eternity 20000 Disposable Vape Kit 21Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1102846-share-90958-sale/"><u>2024-12 Discount Coupons - 30.02% Off Kangvape Onee Stick Smart TC25K Disposable Vape, only $12.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1084868-share-90958-sale/"><u>2024-12 Discount Coupons - 30.56% Off VOOPOO Argus Pro 2 Pod Mod Kit 3000mAh 80W, Ony $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
