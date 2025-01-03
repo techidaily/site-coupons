@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\" $5.00 OFF OVER $79.00 (CODE: UR05)\\\\\\\"\\\"\""
-date: 2024-12-21T17:21:46.042Z
-updated: 2024-12-24T23:55:39.330Z
+date: 2024-12-30T01:23:05.785Z
+updated: 2025-01-03T03:09:55.204Z
 categories:
   - Women's Apparel
 ---
@@ -52,16 +52,18 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1092625-share-90958-sale/"><u>2024-12 Discount Coupons - $10.99 for FOG X Clarity Zero Nicotine Disposable Vape Kit 7000 Puffs 14Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092831-share-59344-sale/"><u>2024-12 Discount Coupons - $9.88 for Off-Stamp SW9000 Disposable Vape Kit (5%,9000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093539-share-90958-sale/"><u>2024-12 Discount Coupons - 28.13% Off Innokin Ares Finale RTA 24.5Mm 4.5Ml, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093761-share-122475-sale/"><u>2024-12 Discount Coupons - Buy 1 Get 1 Free of Eleaf Tance Pod System Kit, only $12.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092989-share-122475-sale/"><u>2024-12 Discount Coupons - Buy 2 Get 1 Free of Packwoods Packspod Disposable Vape Kit 5000 Puffs | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092765-share-116593-sale/"><u>2024-12 Discount Coupons - Exclusive for All Affiliate Referrals | Kaiweets</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092567-share-96416-sale/"><u>2024-12 Discount Coupons - Perfect Gift for Bird Lovers | Netvue</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1081578-share-59344-sale/"><u>2025-01 Discount Coupons - $10.88 for ESCO Bar H2O Disposable Vape (5%, 6000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1082237-share-59344-sale/"><u>2025-01 Discount Coupons - $11.88 for Goat Apple Vape Juice 100Ml | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1082233-share-59344-sale/"><u>2025-01 Discount Coupons - $11.88 for Goat Watermelon Gum Vape Juice 100Ml | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083526-share-59344-sale/"><u>2025-01 Discount Coupons - $6.88 for Avidvape Plump Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083258-share-90958-sale/"><u>2025-01 Discount Coupons - $6.99 for Cube Palm 5000 Disposable Vape Salt Nic 15Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1081711-share-90958-sale/"><u>2025-01 Discount Coupons - $6.99 for Joyetech EVIO M Pod System 900mAh 20W | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1081572-share-59344-sale/"><u>2025-01 Discount Coupons - $7.88 for Freeton F-Resin Max 2 Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1082231-share-59344-sale/"><u>2025-01 Discount Coupons - $9.88 for Custard Monster NTD Gingerbread Crunch Vape Juice 100Ml | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1082226-share-59344-sale/"><u>2025-01 Discount Coupons - $9.88 for Vozol Neon 10000 Disposable Vape (5%, 10000 Puffs) | Eight Vape</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

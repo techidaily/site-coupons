@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER$109 GET $10 OFF (CODE: UR10)\\\\\\\"\\\"\""
-date: 2024-12-18T16:15:03.770Z
-updated: 2024-12-24T18:03:45.241Z
+date: 2025-01-01T08:16:43.059Z
+updated: 2025-01-02T20:54:31.761Z
 categories:
   - Women's Apparel
 ---
@@ -52,17 +52,14 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1094839-share-136981-sale/"><u>2024-12 Discount Coupons - $20 OFF Order $119+ | HONG KONG JINGCHEN E-COMMERCE CO., LIMITED</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094835-share-136981-sale/"><u>2024-12 Discount Coupons - 18% OFF on All Sites | HONG KONG JINGCHEN E-COMMERCE CO., LIMITED</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094871-share-90958-sale/"><u>2024-12 Discount Coupons - 22% Off for All R and M Disposable Kits | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-829869-share-90958-sale/"><u>2024-12 Discount Coupons - 29.79% Off for Geekvape M100 Box Mod (Aegis Mini 2) 2500 mAh 100W, only $32.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-829200-share-90958-sale/"><u>2024-12 Discount Coupons - 36.38% Off for Vaporesso XROS 2 Pod System Kit 16W, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1094259-share-59344-sale/"><u>2024-12 Discount Coupons - Any 5 for $55 | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-778898-share-90958-sale/"><u>2024-12 Discount Coupons - Extra 15% Off for All Coils and Heads | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1097387-share-122475-sale/"><u>2024-12 Discount Coupons - Join Our Mailling List to Get a 10% OFF Coupon on Your First Order. | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086091-share-90958-sale/"><u>2025-01 Discount Coupons - $11.99 for Nicky for Jam X Fume 10000 Disposable Vape Salt Nic 19Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086295-share-59344-sale/"><u>2025-01 Discount Coupons - $20.88 for Vaporesso XROS Pro 30W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086296-share-59344-sale/"><u>2025-01 Discount Coupons - $53.88 for Vandy Vape Pulse AIO V2 80W Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086090-share-90958-sale/"><u>2025-01 Discount Coupons - 31.27% Off for ZQ Xtal Max Pod System Kit 1200mAh, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086089-share-90958-sale/"><u>2025-01 Discount Coupons - 33.36% Off for HorizonTech Talons Pod System Kit 700mAh, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $299 GET $50 OFF (CODE: UR50)\\\\\\\"\\\"\""
-date: 2024-12-20T00:10:37.275Z
-updated: 2024-12-25T05:17:54.256Z
+date: 2024-12-29T17:26:13.287Z
+updated: 2025-01-03T12:36:29.057Z
 categories:
   - Women's Apparel
 ---
@@ -52,13 +52,13 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1001823-share-90958-sale/"><u>2024-12 Discount Coupons - 22.68% Off Posh MAX 2.0 5200 Puffs Disposable Vape Kit 5%, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1000280-share-90958-sale/"><u>2024-12 Discount Coupons - 26.68% Off Mr Fog Switch 5500 Puffs Disposable Vape Kit 15Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-983052-share-90958-sale/"><u>2024-12 Discount Coupons - 30.56% Off for Vandy Vape Requiem RTA 24Mm 4.5Ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1021173-share-90958-sale/"><u>2024-12 Discount Coupons - 37.51% Off for ThunderHead Creations Tauren Elite Pro RTA 22Mm 2Ml/4ml, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-832290-share-90958-sale/"><u>2025-01 Discount Coupons - 26.68% Off for Dovpo Blotto Single Coil RTA 23Mm, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-889773-share-90958-sale/"><u>2025-01 Discount Coupons - 37.51% Off for Geekvape Max100 (Aegis Max 2) Mod 100W, only $29.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-943111-share-90958-sale/"><u>2025-01 Discount Coupons - 38.97% Off for Geekvape Wenax U Pod System Kit 1000mAh 20W, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-942014-share-90958-sale/"><u>2025-01 Discount Coupons - 51.37% Off for VOOPOO Drag H80 S Pod Mod Kit 80W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

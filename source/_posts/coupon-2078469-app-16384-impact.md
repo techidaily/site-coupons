@@ -1,7 +1,7 @@
 ---
 title: "2024-09 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $169 GET $30 OFF (CODE: UR30)\\\\\\\"\\\"\""
-date: 2024-12-19T02:36:58.987Z
-updated: 2024-12-24T18:30:00.016Z
+date: 2024-12-28T17:14:21.700Z
+updated: 2025-01-03T02:41:09.957Z
 categories:
   - Women's Apparel
 ---
@@ -52,17 +52,17 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-967926-share-90958-sale/"><u>2024-12 Discount Coupons - 25.29% Off for Lost Vape Centaurus M200 Box Mod 200W, only $39.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-840655-share-90958-sale/"><u>2024-12 Discount Coupons - 30.46% Off for SMOK SOLUS Pod System Kit, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-971128-share-90958-sale/"><u>2024-12 Discount Coupons - 30.56% Off for Eleaf iStick I40 Vape Kit With GTL D20 Tank, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-871445-share-90958-sale/"><u>2024-12 Discount Coupons - 31.05% Off for Vandy Vape Unicorn Pod Kit, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-941980-share-90958-sale/"><u>2024-12 Discount Coupons - 33.34% Off for Uwell Caliburn X Pod System Kit 850mAh 20W, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-978835-share-90958-sale/"><u>2024-12 Discount Coupons - 35.73% Off for Lost Vape Thelema Mini Box Mod 1500mAh 45W, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-979348-share-90958-sale/"><u>2024-12 Discount Coupons - 39.15% Off for Freemax Starlux Pod Mod Kit 1400mAh 40W, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-945529-share-90958-sale/"><u>2024-12 Discount Coupons - 41.13% Off for VOOPOO VINCI SE Pod System Kit 900mAh 15W, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086301-share-59344-sale/"><u>2025-01 Discount Coupons - $18.88 for Lost Vape Thelema Elite 40W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086303-share-59344-sale/"><u>2025-01 Discount Coupons - $25.88 for VOOPOO Drag S2 60W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086306-share-59344-sale/"><u>2025-01 Discount Coupons - $28.88 for VOOPOO Drag X2 80W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086546-share-59344-sale/"><u>2025-01 Discount Coupons - $8.88 for EBCREATE BC5000 Disposable Vape ( 5%, 5000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-706469-share-90958-sale/"><u>2025-01 Discount Coupons - 32.27% Off for Geekvape Aegis Hero Pod Mod Kit, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-817996-share-90958-sale/"><u>2025-01 Discount Coupons - 34.15% Off for Eleaf Mini iStick 2 Kit 1050mAh with GS Air 4 Tank, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086349-share-90958-sale/"><u>2025-01 Discount Coupons - Extra 18% Off for Clearance HEMP | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086346-share-90958-sale/"><u>2025-01 Discount Coupons - Extra 18% Off for Clearance Vapes | Vapesourcing Electronics Co.,Ltd.</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
