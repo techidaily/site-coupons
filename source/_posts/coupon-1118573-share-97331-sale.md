@@ -1,7 +1,7 @@
 ---
-title: 2024-12 Discount Coupons - Xiaomi Youpin Funsnap Capture2S 3-Achsen-Handheld-Gimbal-Stabilisator | Gshopper
-date: 2024-12-24T05:36:33.050Z
-updated: 2024-12-24T05:36:33.050Z
+title: 2025-01 Discount Coupons - Xiaomi Youpin Funsnap Capture2S 3-Achsen-Handheld-Gimbal-Stabilisator | Gshopper
+date: 2025-01-02T12:59:32.958Z
+updated: 2025-01-02T12:59:32.958Z
 categories:
   - Auto & Sport
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(30.29k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(45.09k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

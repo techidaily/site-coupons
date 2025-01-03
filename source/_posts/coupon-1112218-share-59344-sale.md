@@ -1,10 +1,11 @@
 ---
-title: 2024-12 Discount Coupons - Only $9.88 for MOTI Duo 9000 Disposable Vape | EightVape
-date: 2024-12-20T20:33:51.812Z
-updated: 2024-12-24T20:13:17.905Z
+title: 2025-01 Discount Coupons - Only $9.88 for MOTI Duo 9000 Disposable Vape | EightVape
+date: 2025-01-02T12:59:33.087Z
+updated: 2025-01-02T12:59:33.087Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(34.48k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(3.33k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1118630-share-97331-sale/"><u>2024-12 Discount Coupons - DUOTTS D66 Electric Scooter | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118631-share-97331-sale/"><u>2024-12 Discount Coupons - DUOTTS D88 Electric Scooter | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118629-share-97331-sale/"><u>2024-12 Discount Coupons - Presale DUOTTS S26 Electric Bike | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118633-share-97331-sale/"><u>2024-12 Discount Coupons - Realme Buds Air 3 NeoGlobal Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118632-share-97331-sale/"><u>2024-12 Discount Coupons - Realme Buds Air 3SGlobal Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118569-share-97331-sale/"><u>2024-12 Discount Coupons - Zeblaze Ares 3 Pro 1.43 Inch 466*466 Pxels Ultra HD | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118571-share-97331-sale/"><u>2024-12 Discount Coupons - Zeblaze GTR 3 360*360 HD Screen | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118568-share-97331-sale/"><u>2024-12 Discount Coupons - Zeblaze GTR 3 Pro 1.43 Inch Ultra HD | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1118570-share-97331-sale/"><u>2024-12 Discount Coupons - Zeblaze Vibe 7 Pro 1.43 Inch AMOLED Display | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

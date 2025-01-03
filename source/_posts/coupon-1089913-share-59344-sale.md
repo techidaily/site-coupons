@@ -1,10 +1,11 @@
 ---
-title: 2024-12 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape
-date: 2024-12-18T16:18:44.939Z
-updated: 2024-12-25T00:07:51.730Z
+title: 2025-01 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape
+date: 2025-01-02T12:59:33.154Z
+updated: 2025-01-02T12:59:33.154Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(35.13k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(11.75k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,25 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-921239-share-90958-sale/"><u>2024-12 Discount Coupons - 24.84% Off for SMOK MAG 18 Vape Kit 230W With TFV18 Tank 7.5Ml, only $29.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-922358-share-90958-sale/"><u>2024-12 Discount Coupons - 25.01% Off for SMOK Nord 5 Pod System Kit 2000mAh 80W, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-931576-share-90958-sale/"><u>2024-12 Discount Coupons - 30.79% Off for R and M Tornado 9000 Puffs Rechargeable Disposable Kit 18Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-902959-share-90958-sale/"><u>2024-12 Discount Coupons - 40.02% Off for Eleaf iJust D20 Vape Pen Kit 1500mAh 30W, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-929032-share-90958-sale/"><u>2024-12 Discount Coupons - 50.02% Off for DotMod dotStick Revo Pod System Kit 35W 3.5Ml, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
