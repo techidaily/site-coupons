@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - Only $8.66 for ICEWAVE X8500 Disposable Vape | EightVape
-date: 2024-12-30T10:19:51.492Z
-updated: 2025-01-02T19:06:12.183Z
+date: 2025-01-09T06:53:00.652Z
+updated: 2025-01-09T06:53:00.652Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(21.43k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(5.38k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,25 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1113758-share-90958-sale/"><u>2025-01 Discount Coupons - 16.55% Off Spaceman Nebula 25K Plus Disposable Vape 18Ml, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1075018-share-90958-sale/"><u>2025-01 Discount Coupons - 27.54% Off Vandy Vape Pulse AIO V2 Kit 80W, only $49.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1080591-share-90958-sale/"><u>2025-01 Discount Coupons - 29.39% Off for SMOK Priv Bar Turbo 15000 Rechargeable Disposable Vape 16Ml, only $6.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1081672-share-90958-sale/"><u>2025-01 Discount Coupons - 30.45% Off SMOK Tech247 Pod System 1800mAh 30W, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1116681-share-115200-sale/"><u>2025-01 Discount Coupons - X10 Omi $100 Off Exclusive Code | Eufy | Fantasia Trading LLC</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
