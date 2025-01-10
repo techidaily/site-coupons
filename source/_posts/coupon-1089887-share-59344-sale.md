@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%%, 3500 Puffs) | Eight Vape
-date: 2025-01-09T06:53:00.720Z
-updated: 2025-01-09T06:53:00.720Z
+date: 2025-01-06T04:53:04.149Z
+updated: 2025-01-10T00:05:28.350Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     Grab Your Deal Now, While Supplies Hold Up! 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089923-share-59344-sale/"><u>2025-01 Discount Coupons - $11.88 for Pink Guava Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089920-share-59344-sale/"><u>2025-01 Discount Coupons - $3.66 for Wotofo Profile BF Squonk Bottle | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089921-share-59344-sale/"><u>2025-01 Discount Coupons - $4.00 for BLNG Disposable Vape (5%, 3000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089922-share-59344-sale/"><u>2025-01 Discount Coupons - $4.00 for Cali Pro Mesh 5Ml Disposable Vape (5%, 2500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089924-share-59344-sale/"><u>2025-01 Discount Coupons - $6.66 for Chew Disposable Vape (3%, 4000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089918-share-59344-sale/"><u>2025-01 Discount Coupons - $6.66 for Flum Wafer Disposable Vape (5%, 1600 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089919-share-59344-sale/"><u>2025-01 Discount Coupons - $9.66 for Lucid Flow Disposable Vape (5%, 5000 Puffs) | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
