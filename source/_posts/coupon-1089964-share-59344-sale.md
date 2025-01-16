@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - $11.88 for Peach Ice 60Ml Vape Juice - Yogi | Eight Vape
-date: 2025-01-15T01:52:45.508Z
-updated: 2025-01-15T01:52:45.508Z
+date: 2025-01-13T20:15:41.638Z
+updated: 2025-01-15T23:30:11.624Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,25 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1068827-share-90958-sale/"><u>2025-01 Discount Coupons - 26.68% Off CZAR CZ9000 Disposable Vape Kit 17Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1056479-share-90958-sale/"><u>2025-01 Discount Coupons - 28.59% Off KK Energy8 12000 Puffs Disposable Vape Kit, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1062195-share-90958-sale/"><u>2025-01 Discount Coupons - 30.79% Off Lost Vape Ursa Nano Air Pod Kit 800mAh 16W, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1033810-share-90958-sale/"><u>2025-01 Discount Coupons - 32.15% Off for Uwell Crown B Pod Kit 1150mAh 35W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089791-share-90958-sale/"><u>2025-01 Discount Coupons - 33.36% Off Prima UL9000 Disposable Vape 18Ml, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

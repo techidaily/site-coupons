@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - Buy a MOTI Go Pro Disposable Vape  and Get a Moti Ultra for Free | EightVape
-date: 2025-01-15T01:52:45.238Z
-updated: 2025-01-15T01:52:45.238Z
+date: 2025-01-11T22:21:08.607Z
+updated: 2025-01-16T01:09:25.734Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,28 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1089886-share-59344-sale/"><u>2025-01 Discount Coupons - $2.66 for TFV8 X-Baby Replacement Glass #3 - Smok | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089884-share-59344-sale/"><u>2025-01 Discount Coupons - $5.66 for RGC RBA Coil - Smok | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089883-share-59344-sale/"><u>2025-01 Discount Coupons - $5.66 for RPM 2 Pods (3Pcs) - Smok | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089973-share-59344-sale/"><u>2025-01 Discount Coupons - $5.66 for Yocan Falcon Replacement Glass | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089887-share-59344-sale/"><u>2025-01 Discount Coupons - $6.66 for PHRUT Bar Exotix Disposable Vape (5%, 3500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089885-share-59344-sale/"><u>2025-01 Discount Coupons - $8.66 for Vaporesso QF Replacement Coils (3X Pack) | Hot Buy Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089881-share-59344-sale/"><u>2025-01 Discount Coupons - $9.66 for SMOK LP2 Replacement Coils (Pack of 5) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089807-share-122475-sale/"><u>2025-01 Discount Coupons - 79% of Wismec HiFlask Pod System 40W Kit, only $9.99 | Bellavapor</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
