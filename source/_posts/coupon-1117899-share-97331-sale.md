@@ -1,7 +1,7 @@
 ---
 title: 2025-01 Discount Coupons - GameSir X4 Aileron Xbox Mobile Controller | Gshopper
-date: 2025-01-09T06:53:00.615Z
-updated: 2025-01-09T06:53:00.615Z
+date: 2025-01-15T01:52:45.408Z
+updated: 2025-01-15T01:52:45.408Z
 categories:
   - Game & Mini PC &TV Boxs
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(33.24k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(22.95k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

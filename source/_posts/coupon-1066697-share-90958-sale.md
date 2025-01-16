@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - $10.99 for Nasty Bar 8500 DX8.5i Disposable Vape Kit 17Ml | Vapesourcing Electronics Co.,Ltd.
-date: 2025-01-03T23:42:06.271Z
-updated: 2025-01-09T16:40:22.183Z
+date: 2025-01-15T01:52:45.505Z
+updated: 2025-01-15T01:52:45.505Z
 categories:
   - Disposable Pod Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.95 <span class="font-normal text-slate-400">(20.34k)</span></span>
+      <span>4.97 <span class="font-normal text-slate-400">(16.42k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,24 +44,3 @@ categories:
     $10.99 for Nasty Bar 8500 DX8.5i Disposable Vape Kit 17Ml 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1926528-app-17463-impact/"><u>2024-09 Discount Coupons - Dreo Affiliate Program Dreo Atom One Personal Portable Ceramic Space Heater with 4 Energy-Saving Modes, Removable Dust Filter and Professional Technology for Multiple Safety Protection.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1926523-app-17463-impact/"><u>2024-09 Discount Coupons - Dreo Affiliate Program Dreo OH515 Oil Heater with Timer, 1500W of Power and a Programmable 41-95°F Digital Thermostat, and Is Easy to Assemble.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1926527-app-17463-impact/"><u>2024-09 Discount Coupons - Dreo Affiliate Program DREO Solaris Slim H3 Is an Ultra-Thin and Quiet Space Heater with Advanced Black Gold Color Matching. Portable Heaters Are the Best Electric Heaters for Large Rooms.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1926569-app-17463-impact/"><u>2024-09 Discount Coupons - Dreo Affiliate Program For Online StoreUp to 15% OFFNo Minimum Purchase RequirementAll CustomersNo Usage Limits</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

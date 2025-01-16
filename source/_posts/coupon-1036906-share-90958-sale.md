@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - 38.11%% Off for Geekvape Wenax M1 Combo Pod Kit 800mAh 16W, only $12.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2025-01-08T20:27:46.072Z
-updated: 2025-01-09T18:52:43.215Z
+date: 2025-01-15T01:52:45.503Z
+updated: 2025-01-15T01:52:45.503Z
 categories:
   - Starter Kits
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(15.91k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(34.99k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     38.11%% Off for Geekvape Wenax M1 Combo Pod Kit 800mAh 16W, only $12.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-2048903-app-16384-impact/"><u>2024-09 Discount Coupons - " "Ursime "Buy 5Th Get Free Off (Code: URfree) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2078469-app-16384-impact/"><u>2024-09 Discount Coupons - " "Ursime "OVER $169 GET $30 OFF (CODE: UR30) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2078468-app-16384-impact/"><u>2024-09 Discount Coupons - " "Ursime "OVER$109 GET $10 OFF (CODE: UR10) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1462168-app-17093-impact/"><u>2024-09 Discount Coupons - Bluetti IT EB3A 80 OFF, ONLY €299.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2123463-app-16836-impact/"><u>2024-11 Discount Coupons - " "25home.com " 25Home: Fall Season Sale, UP TO 50% OFF, Code: Au25 " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2136533-app-16384-impact/"><u>2024-11 Discount Coupons - " "Ursime " $5.00 OFF OVER $79.00 (CODE: UR05) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2078470-app-16384-impact/"><u>2024-11 Discount Coupons - " "Ursime "OVER $299 GET $50 OFF (CODE: UR50) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-2133127-app-15852-impact/"><u>2024-11 Discount Coupons - FitVille Labor Day Sale 25% Off Code：LABOR25</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

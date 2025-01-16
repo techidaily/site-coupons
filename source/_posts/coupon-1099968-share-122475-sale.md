@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - 32%% of Lost Mary OS5000 Frozen Edition Disposable Vape Kit 5000 Puffs 13Ml, only $12.99 | Bellavapor
-date: 2025-01-07T18:13:57.092Z
-updated: 2025-01-10T06:38:30.381Z
+date: 2025-01-15T01:52:45.481Z
+updated: 2025-01-15T01:52:45.481Z
 categories:
   - Disposable
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(22.60k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(26.38k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,24 +44,3 @@ categories:
     32%% of Lost Mary OS5000 Frozen Edition Disposable Vape Kit 5000 Puffs 13Ml, only $12.99 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-729997-share-90958-sale/"><u>2025-01 Discount Coupons - 20.09% Off for SMOK Nord 4 Pod System Kit 80W 2000mAh, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-978833-share-90958-sale/"><u>2025-01 Discount Coupons - 29.42% Off for Lost Vape Thelema Mini Pod Mod Kit 1500mAh 45W, only $23.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-985935-share-90958-sale/"><u>2025-01 Discount Coupons - 33.14% Off for Steam Crave Meson RTA 25Mm 5Ml/6ml, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-851254-share-90958-sale/"><u>2025-01 Discount Coupons - 62.53% Off for Voopoo Drag Nano 2 Pod System Kit, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

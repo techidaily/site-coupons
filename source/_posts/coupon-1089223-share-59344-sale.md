@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape
-date: 2025-01-07T18:08:39.571Z
-updated: 2025-01-09T22:40:02.321Z
+date: 2025-01-15T01:52:45.518Z
+updated: 2025-01-15T01:52:45.518Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(36.87k)</span></span>
+      <span>4.95 <span class="font-normal text-slate-400">(26.05k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1227550-share-59344-sale/"><u>2025-01 Discount Coupons - $13.88 for Mr Fog Switch SW15000 Disposable Vape | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228157-share-59344-sale/"><u>2025-01 Discount Coupons - Buy a MOTI Beast Pro Disposable Vape and Get a Moti Ultra Disposable Vape for Free | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228158-share-59344-sale/"><u>2025-01 Discount Coupons - Buy a MOTI Go Pro Disposable Vape and Get a Moti Ultra for Free | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228159-share-59344-sale/"><u>2025-01 Discount Coupons - Buy a MOTI Go Pro Disposable Vape and Get a Moti Ultra for Free | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228160-share-59344-sale/"><u>2025-01 Discount Coupons - Buy a MOTI Go Pro Disposable Vape Get a Moti Ultra for Free | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228156-share-59344-sale/"><u>2025-01 Discount Coupons - Buy a MOTI Play Bar 7500 Disposable Vape Get a Moti Ultra Disposable Vape for Free | EightVape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228161-share-59344-sale/"><u>2025-01 Discount Coupons - Buy a Spree Bar 6000 Diposable Starter Pack and Get a Moti Ultra for Free | EightVape</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
