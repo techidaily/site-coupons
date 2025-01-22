@@ -1,7 +1,7 @@
 ---
 title: "2025-01 Discount Coupons - \"Code:8R9APFDY, $127.22 TITAN ARMY P2510H 24.5-Inch Gaming Monitor\" | Geekbuying"
-date: 2025-01-15T01:52:45.223Z
-updated: 2025-01-15T01:52:45.223Z
+date: 2025-01-21T05:43:02.602Z
+updated: 2025-01-21T05:43:02.602Z
 categories:
   - \"\"
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(34.29k)</span></span>
+      <span>4.99 <span class="font-normal text-slate-400">(47.45k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

@@ -1,7 +1,7 @@
 ---
 title: 2025-01 Discount Coupons - 28.59%% Off Innokin Trine Q Pod System Kit 1050mAh 20W, only $9.99 | Vapesourcing Electronics Co.,Ltd.
-date: 2025-01-15T01:52:45.237Z
-updated: 2025-01-15T01:52:45.237Z
+date: 2025-01-21T05:43:02.616Z
+updated: 2025-01-21T05:43:02.616Z
 categories:
   - Starter Kit
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(19.95k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(18.25k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
