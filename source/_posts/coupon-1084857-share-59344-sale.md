@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - $13.88 for Geekvape Wenax K2 18W Pod Kit | Eight Vape
-date: 2025-01-21T05:43:02.916Z
-updated: 2025-01-21T05:43:02.916Z
+date: 2025-01-18T20:15:26.177Z
+updated: 2025-01-21T19:04:48.032Z
 categories:
   - Coupon Code
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,26 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-892179-share-90958-sale/"><u>2025-01 Discount Coupons - 25.02% Off for Geekvape Wenax M1 Pod System Kit 800mAh 16W, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1102845-share-90958-sale/"><u>2025-01 Discount Coupons - 25.19% Off Nasty Bar XL 20000 Disposable Vape Kit 17Ml, only $11.88 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-704070-share-90958-sale/"><u>2025-01 Discount Coupons - 29.10% Off for Uwell Caliburn G 15W Pod System Kit, only $15.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-791468-share-90958-sale/"><u>2025-01 Discount Coupons - 36.01% Off for Geekvape Z Max Sub Ohm Tank, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-873638-share-90958-sale/"><u>2025-01 Discount Coupons - 37.52% Off for Joyetech eGo Air Pod System Kit 650mAh, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-829802-share-90958-sale/"><u>2025-01 Discount Coupons - 37.79% Off for Geekvape S100 Box Mod (Aegis Solo 2) 100W, only $27.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

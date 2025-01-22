@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"New Customers: 15%% Off on Orders over $69\\\\\\\"\\\"\""
-date: 2025-01-08T20:51:14.136Z
-updated: 2025-01-16T00:18:24.409Z
+date: 2025-01-15T02:16:50.369Z
+updated: 2025-01-21T19:21:28.046Z
 categories:
   - Women's Apparel
 ---
@@ -52,13 +52,14 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-767142-share-90958-sale/"><u>2025-01 Discount Coupons - 27.69% Off for SMOK ACRO Pod System Kit, only $17.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-829868-share-90958-sale/"><u>2025-01 Discount Coupons - 43.34% Off for Geekvape M100 Kit (Aegis Mini 2) 100W with Zeus Nano 2 Tank, only $33.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-794855-share-90958-sale/"><u>2025-01 Discount Coupons - 56.68% Off Geekvape L200 (Aegis Legend 2) Kit 200W with Z Sub Ohm Tank 2021, only $25.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-794856-share-90958-sale/"><u>2025-01 Discount Coupons - 60.01% Off for Geekvape L200 (Aegis Legend 2) 200W Box Mod, only $19.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1102163-share-90958-sale/"><u>2025-01 Discount Coupons - 23.09% Off HQD Wapor Pro Disposable Vape Kit 20000 Puffs, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086350-share-90958-sale/"><u>2025-01 Discount Coupons - 24.33% Off SnowWolf Smart HD 15K Disposable Vape 15000 Puffs Quick Charge, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1100387-share-90958-sale/"><u>2025-01 Discount Coupons - 26.14% Off Geek Bar Digiflavor Lush 20K Disposable Vape Kit 18Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1068463-share-90958-sale/"><u>2025-01 Discount Coupons - 31.83% Off Rincoe Jellybox Nano 3 Pod System Kit, only $14.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1107188-share-92020-sale/"><u>2025-01 Discount Coupons - UK_40% Off On Devices | RELX Global</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
