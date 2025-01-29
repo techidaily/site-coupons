@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - $13.88 for Geekvape Wenax Q 25W Mini Pod Kit | Eight Vape
-date: 2025-01-28T18:53:11.251Z
-updated: 2025-01-28T18:53:11.251Z
+date: 2025-01-26T16:43:49.534Z
+updated: 2025-01-29T16:23:55.676Z
 categories:
   - Coupon Code
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,25 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1119500-share-116593-sale/"><u>2025-01 Discount Coupons - $30 Off for KOTC01 Paint Thickness Gauge | Kaiweets</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1119447-share-90958-sale/"><u>2025-01 Discount Coupons - 25.02% Off HorizonTech Talons TW Pod System Kit 1200mAh 32W, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1119450-share-90958-sale/"><u>2025-01 Discount Coupons - 26.68% Off Smoant Charon T50 Pod System 1500mAh 50W, only $21.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1119449-share-90958-sale/"><u>2025-01 Discount Coupons - 26.70% Off Uwell COZI Pod System Kit 800mAh 25W, only $6.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1119444-share-90958-sale/"><u>2025-01 Discount Coupons - 27.79% Off SMOK Solus GT Box Pod System Kit 1000mAh, only $12.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

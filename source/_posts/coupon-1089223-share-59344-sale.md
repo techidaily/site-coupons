@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - $1.66 for MOTI Refillable Replacement Pod Cartridges (Pack of 4) | Eight Vape
-date: 2025-01-28T18:53:11.236Z
-updated: 2025-01-28T18:53:11.236Z
+date: 2025-01-25T17:07:22.968Z
+updated: 2025-01-29T16:34:44.109Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,24 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1117926-share-97331-sale/"><u>2025-01 Discount Coupons - Huawei Sound Joy Portable Smart Speaker | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117928-share-97331-sale/"><u>2025-01 Discount Coupons - POCO F6 Global Version | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117927-share-97331-sale/"><u>2025-01 Discount Coupons - Xiaomi 80W Adaptive Wireless Charging Stand | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1117925-share-97331-sale/"><u>2025-01 Discount Coupons - Xiaomi Electric Toothbrush T700 | Gshopper</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

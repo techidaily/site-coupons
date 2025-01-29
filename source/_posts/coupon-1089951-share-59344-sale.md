@@ -1,11 +1,10 @@
 ---
 title: 2025-01 Discount Coupons - $8.66 for U TooB 100 Blue Razz Ice 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2025-01-28T18:53:11.227Z
-updated: 2025-01-28T18:53:11.227Z
+date: 2025-01-22T16:04:06.696Z
+updated: 2025-01-29T16:48:43.497Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1103151-share-59344-sale/"><u>2025-01 Discount Coupons - $3.00 Off RabBeats RC10000 Touch Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1103149-share-59344-sale/"><u>2025-01 Discount Coupons - 18% Off GeekVape Digi Q Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1104126-share-122475-sale/"><u>2025-01 Discount Coupons - 18% Off of Spring Sale Sitewide | Bellavapor</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1103103-share-90958-sale/"><u>2025-01 Discount Coupons - 26.93% Off Uwell Caliburn GK3 Tenet Pod System Kit 25W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1074718-share-90958-sale/"><u>2025-01 Discount Coupons - 30.45% Off VOOPOO VMATE Pro Pod System, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1087676-share-90958-sale/"><u>2025-01 Discount Coupons - 37.52% Off Exeek EK15000 Disposable Vape, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1062294-share-90958-sale/"><u>2025-01 Discount Coupons - 43.78% Off Fat Boy FB10000 Disposable Vape Kit 10000 Puffs 15Ml, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
