@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape
-date: 2025-01-20T20:47:22.225Z
-updated: 2025-01-21T23:46:14.517Z
+date: 2025-01-28T18:53:11.229Z
+updated: 2025-01-28T18:53:11.229Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(13.39k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(18.40k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,27 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1228221-share-38812-sale/"><u>2025-01 Discount Coupons - $1694.75 FOSSiBOT F3600 Pro Portable Power Station | Geekbuying</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228403-share-90958-sale/"><u>2025-01 Discount Coupons - 24.34% Off Pillow Talk Ice Control IC40000 Disposable Vape 20Ml, only $13.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228185-share-90958-sale/"><u>2025-01 Discount Coupons - 28.59% Off Innokin Trine Q Pod System Kit 1050mAh 20W, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228401-share-90958-sale/"><u>2025-01 Discount Coupons - 29.43% Off GINI GN30000 Disposable Vape 14Ml 3.5%, only $11.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228402-share-90958-sale/"><u>2025-01 Discount Coupons - 31.27% Off Bounce Turbo 25000 Disposable Vape 20Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228340-share-147961-sale/"><u>2025-01 Discount Coupons - 56.99$ for TK75 SE | Gamakay</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1228191-share-77287-sale/"><u>2025-01 Discount Coupons - Labor Day Sale,15% Off Sitewide | EWININDUSTRIAL</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

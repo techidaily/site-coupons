@@ -1,7 +1,7 @@
 ---
 title: 2025-01 Discount Coupons - Xiaomi Youpin Electric Heating Massage Wristband to Relieve Wrist Pain, Single Pack (Universal for Both Left and Right Hands) | Gshopper
-date: 2025-01-21T05:43:02.784Z
-updated: 2025-01-21T05:43:02.784Z
+date: 2025-01-28T18:53:11.114Z
+updated: 2025-01-28T18:53:11.114Z
 categories:
   - Consumer Electronics
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(36.49k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(34.24k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

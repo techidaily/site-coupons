@@ -1,10 +1,11 @@
 ---
 title: 2025-01 Discount Coupons - $8.88 for EBCREATE BC5000 Disposable Vape ( 5%%, 5000 Puffs) | Eight Vape
-date: 2025-01-15T21:46:49.307Z
-updated: 2025-01-22T00:29:48.191Z
+date: 2025-01-28T18:53:11.246Z
+updated: 2025-01-28T18:53:11.246Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(46.74k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(5.83k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,25 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1092831-share-59344-sale/"><u>2025-01 Discount Coupons - $9.88 for Off-Stamp SW9000 Disposable Vape Kit (5%,9000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093539-share-90958-sale/"><u>2025-01 Discount Coupons - 28.13% Off Innokin Ares Finale RTA 24.5Mm 4.5Ml, only $22.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093762-share-122475-sale/"><u>2025-01 Discount Coupons - Buy 1 Get 1 Free of Eleaf Tance Max Pod System Kit, only $12.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1093761-share-122475-sale/"><u>2025-01 Discount Coupons - Buy 1 Get 1 Free of Eleaf Tance Pod System Kit, only $12.99 | Bellavapor</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1092989-share-122475-sale/"><u>2025-01 Discount Coupons - Buy 2 Get 1 Free of Packwoods Packspod Disposable Vape Kit 5000 Puffs | Bellavapor</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
