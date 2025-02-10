@@ -1,10 +1,11 @@
 ---
-title: 2025-01 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape
-date: 2025-01-26T16:32:21.918Z
-updated: 2025-01-29T16:50:08.030Z
+title: 2025-02 Discount Coupons - $3.66 for SMOK Nord X RPM Replacement Pods (3X Pack) | Eight Vape
+date: 2025-02-09T03:46:28.411Z
+updated: 2025-02-09T03:46:28.411Z
 categories:
   - Coupon Code
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(13.84k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(8.88k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,29 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1117881-share-97331-sale/"><u>2025-01 Discount Coupons - CUKTECH Mobile Power Bank 30W Power Block PB100 | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117880-share-97331-sale/"><u>2025-01 Discount Coupons - CUKTECH Power Block with Built-In Cable 20000mAh PB200N | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117886-share-97331-sale/"><u>2025-01 Discount Coupons - EU Version OnePlus Nord CE 3 Lite 5G | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117884-share-97331-sale/"><u>2025-01 Discount Coupons - FENGMI S5 Mini Laser Projector | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117888-share-97331-sale/"><u>2025-01 Discount Coupons - Global Version Realme 12 Pro Plus | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117885-share-97331-sale/"><u>2025-01 Discount Coupons - Realme GT Neo 6 SE CN ROM Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117883-share-97331-sale/"><u>2025-01 Discount Coupons - VIVO X100S PRO | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117887-share-97331-sale/"><u>2025-01 Discount Coupons - Xiaomi 13T Global Version | Gshopper</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1117882-share-97331-sale/"><u>2025-01 Discount Coupons - Youpin Honeywell Air Outlet Gravity Car Phone Holder | Gshopper</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

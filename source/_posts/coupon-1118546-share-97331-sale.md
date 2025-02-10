@@ -1,7 +1,7 @@
 ---
-title: 2025-01 Discount Coupons - Applicable Xiaomi Tablet 6 Protective Case MI Pad5 Pro 2023 Quad Airbag Fall Protection Transparent Soft Case | Gshopper
-date: 2025-01-28T18:53:11.034Z
-updated: 2025-01-28T18:53:11.034Z
+title: 2025-02 Discount Coupons - Applicable Xiaomi Tablet 6 Protective Case MI Pad5 Pro 2023 Quad Airbag Fall Protection Transparent Soft Case | Gshopper
+date: 2025-02-09T03:46:28.205Z
+updated: 2025-02-09T03:46:28.205Z
 categories:
   - Computer & Tablet
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(10.75k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(33.67k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

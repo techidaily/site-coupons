@@ -1,10 +1,11 @@
 ---
-title: 2025-01 Discount Coupons - $8.66 for Ripe Vapes VCT Strawberry 60Ml Vape Juice | Eight Vape
-date: 2025-01-27T18:38:07.771Z
-updated: 2025-01-29T18:38:42.213Z
+title: 2025-02 Discount Coupons - $8.66 for Ripe Vapes VCT Strawberry 60Ml Vape Juice | Eight Vape
+date: 2025-02-09T03:46:28.401Z
+updated: 2025-02-09T03:46:28.401Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(7.79k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(26.12k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,25 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1061237-share-90958-sale/"><u>2025-01 Discount Coupons - $14.99 for EBDESIGN Pi9000 Disposable Vape Kit 9000 Puffs 19Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056160-share-90958-sale/"><u>2025-01 Discount Coupons - 26.68% Off Puff PIXI Pro Disposable Vape Kit 8000 Puffs 14Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1060473-share-90958-sale/"><u>2025-01 Discount Coupons - 31.78% Off ICEWAVE X8500 Disposable Vape Kit 8500 Puffs 18Ml, only $11.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1067304-share-90958-sale/"><u>2025-01 Discount Coupons - 33.77% Off Geekvape Wenax Q Mini Pod System, only $10.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1071024-share-90958-sale/"><u>2025-01 Discount Coupons - 41.20% Off VASY Drag Disposable Vape Kit 10000 Puffs 20Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

@@ -1,7 +1,7 @@
 ---
-title: 2025-01 Discount Coupons - 29.49%% Off for Geekvape Aegis Boost Pro 2 Pod Mod Kit 100W, only $27.49 | Vapesourcing Electronics Co.,Ltd.
-date: 2025-01-28T18:53:11.149Z
-updated: 2025-01-28T18:53:11.149Z
+title: 2025-02 Discount Coupons - 29.49%% Off for Geekvape Aegis Boost Pro 2 Pod Mod Kit 100W, only $27.49 | Vapesourcing Electronics Co.,Ltd.
+date: 2025-02-09T03:46:28.321Z
+updated: 2025-02-09T03:46:28.321Z
 categories:
   - Starter Kits
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.98 <span class="font-normal text-slate-400">(48.77k)</span></span>
+      <span>5.00 <span class="font-normal text-slate-400">(38.47k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
