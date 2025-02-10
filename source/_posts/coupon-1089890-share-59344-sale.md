@@ -1,11 +1,10 @@
 ---
 title: 2025-02 Discount Coupons - $4.66 for Smok SCAR-P5 Pods (3Pcs) | Eight Vape
-date: 2025-02-09T03:46:28.406Z
-updated: 2025-02-09T03:46:28.407Z
+date: 2025-02-05T01:13:50.971Z
+updated: 2025-02-10T02:53:13.147Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,24 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1086546-share-59344-sale/"><u>2025-02 Discount Coupons - $8.88 for EBCREATE BC5000 Disposable Vape ( 5%, 5000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-706469-share-90958-sale/"><u>2025-02 Discount Coupons - 32.27% Off for Geekvape Aegis Hero Pod Mod Kit, only $20.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-817996-share-90958-sale/"><u>2025-02 Discount Coupons - 34.15% Off for Eleaf Mini iStick 2 Kit 1050mAh with GS Air 4 Tank, only $26.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1086349-share-90958-sale/"><u>2025-02 Discount Coupons - Extra 18% Off for Clearance HEMP | Vapesourcing Electronics Co.,Ltd.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

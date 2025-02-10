@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $299 GET $50 OFF (CODE: UR50)\\\\\\\"\\\"\""
-date: 2025-01-28T17:13:50.828Z
-updated: 2025-01-29T16:24:25.210Z
+date: 2025-02-08T23:27:13.146Z
+updated: 2025-02-09T18:16:35.284Z
 categories:
   - Women's Apparel
 ---
@@ -52,16 +52,18 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1110238-share-90958-sale/"><u>2025-01 Discount Coupons - $12.99 for BLVK Bar 20000 Puffs Disposable Vape Kit 22Ml | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109985-share-90958-sale/"><u>2025-01 Discount Coupons - 23.09% Off Lost Vape Ursa Epoch Pod System Kit, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1109982-share-90958-sale/"><u>2025-01 Discount Coupons - 25.02% Off Lost Vape Ursa Cap 25W Pod System Kit, only $8.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110209-share-90958-sale/"><u>2025-01 Discount Coupons - 26.68% Off Cokii 16K Double Tanks Disposable Vape Kit 16Ml, only $10.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-643237-share-77450-sale/"><u>2025-01 Discount Coupons - 300? - 15? Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-643238-share-77450-sale/"><u>2025-01 Discount Coupons - 400? - 20? Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1110003-share-138391-sale/"><u>2025-01 Discount Coupons - Get $10 Off on SJCAM Action Cameras | Shenzhen Zhencheng Technology Co.,Ltd.</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089935-share-59344-sale/"><u>2025-02 Discount Coupons - $11.88 for Blueberry Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089923-share-59344-sale/"><u>2025-02 Discount Coupons - $11.88 for Pink Guava Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089936-share-59344-sale/"><u>2025-02 Discount Coupons - $15.66 for Vaptio Prod 20W Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089927-share-59344-sale/"><u>2025-02 Discount Coupons - $38.66 for YiHi SXmini SX Nano Pod Mod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089924-share-59344-sale/"><u>2025-02 Discount Coupons - $6.66 for Chew Disposable Vape (3%, 4000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089944-share-59344-sale/"><u>2025-02 Discount Coupons - $6.66 for Hyde N-Bar Recharge Disposable Vape (5%, 4500 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089934-share-59344-sale/"><u>2025-02 Discount Coupons - $6.66 for Vaptio Pago Replacement Pod | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089925-share-59344-sale/"><u>2025-02 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1089928-share-59344-sale/"><u>2025-02 Discount Coupons - $8.66 for OXVA UniPro RBA | Eight Vape</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

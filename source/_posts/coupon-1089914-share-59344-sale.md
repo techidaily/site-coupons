@@ -1,11 +1,10 @@
 ---
 title: 2025-02 Discount Coupons - $5.66 for Uppen Replacement Pod (Pack of 2X) - Upends | Eight Vape
-date: 2025-02-09T03:46:28.405Z
-updated: 2025-02-09T03:46:28.405Z
+date: 2025-02-09T00:17:02.507Z
+updated: 2025-02-10T00:27:09.988Z
 categories:
   - Deals
 ---
-
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -44,3 +43,27 @@ categories:
     "" 
 ""  </p>
 </div>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://coupons.techidaily.com/coupon-1083758-share-59344-sale/"><u>2025-02 Discount Coupons - $10.88 for RAZ CA6000 Disposable Vape (5%, 6000 Puffs) | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083528-share-59344-sale/"><u>2025-02 Discount Coupons - $11.88 for Fruitia X ESCO Bar 6000 Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083526-share-59344-sale/"><u>2025-02 Discount Coupons - $6.88 for Avidvape Plump Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083529-share-59344-sale/"><u>2025-02 Discount Coupons - $7.28 for Avidvape Legend Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083527-share-59344-sale/"><u>2025-02 Discount Coupons - $7.58 for MNKE Bars Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083530-share-59344-sale/"><u>2025-02 Discount Coupons - $7.88 for Huff Buzz Exfenty Disposable Vape | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1083757-share-59344-sale/"><u>2025-02 Discount Coupons - $7.88 for KROS Unlimited Disposable Vape | Eight Vape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
