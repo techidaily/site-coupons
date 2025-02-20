@@ -1,7 +1,7 @@
 ---
 title: "2024-11 Discount Coupons - \"\\\"Ursime \\\\\\\"OVER $299 GET $50 OFF (CODE: UR50)\\\\\\\"\\\"\""
-date: 2025-02-08T23:27:13.146Z
-updated: 2025-02-09T18:16:35.284Z
+date: 2025-02-13T21:51:45.608Z
+updated: 2025-02-20T01:52:39.256Z
 categories:
   - Women's Apparel
 ---
@@ -52,18 +52,17 @@ categories:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1089935-share-59344-sale/"><u>2025-02 Discount Coupons - $11.88 for Blueberry Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089923-share-59344-sale/"><u>2025-02 Discount Coupons - $11.88 for Pink Guava Ice 30Ml Nic Salt Vape Juice - Yogi | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089936-share-59344-sale/"><u>2025-02 Discount Coupons - $15.66 for Vaptio Prod 20W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089927-share-59344-sale/"><u>2025-02 Discount Coupons - $38.66 for YiHi SXmini SX Nano Pod Mod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089924-share-59344-sale/"><u>2025-02 Discount Coupons - $6.66 for Chew Disposable Vape (3%, 4000 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089944-share-59344-sale/"><u>2025-02 Discount Coupons - $6.66 for Hyde N-Bar Recharge Disposable Vape (5%, 4500 Puffs) | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089934-share-59344-sale/"><u>2025-02 Discount Coupons - $6.66 for Vaptio Pago Replacement Pod | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089925-share-59344-sale/"><u>2025-02 Discount Coupons - $8.00 for Geekvape Wenax S-C Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1089928-share-59344-sale/"><u>2025-02 Discount Coupons - $8.66 for OXVA UniPro RBA | Eight Vape</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118456-share-97331-sale/"><u>2025-02 Discount Coupons - KIXIN X7 E-Scooter OFF-ROAD AIR WHEEL FOLDING SCOOTER | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118453-share-97331-sale/"><u>2025-02 Discount Coupons - KIXIN X8 ELECTRIC SCOOTER | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118457-share-97331-sale/"><u>2025-02 Discount Coupons - KUU YEPBOOK 15.6 Inch Notebook, | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118460-share-97331-sale/"><u>2025-02 Discount Coupons - NexTool Arc Defense High Brightness Flashlight | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118458-share-97331-sale/"><u>2025-02 Discount Coupons - NexTool Outdoor Strong Light Flashlight Portable | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118454-share-97331-sale/"><u>2025-02 Discount Coupons - UGREEN 100W USBC to USBC Cable 90 Degree Type C Cable | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118459-share-97331-sale/"><u>2025-02 Discount Coupons - UGREEN 2-in-1 Magnetic Wireless Charging Station, | Gshopper</u></a></li>
+<li><a href="https://coupons.techidaily.com/coupon-1118455-share-97331-sale/"><u>2025-02 Discount Coupons - UGREEN Magnetic 25W Wireless Charger Stand 15W 3-in-1 Charging Station For iPhone 14 Pro Max For Apple Watch AirPods | Gshopper</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
