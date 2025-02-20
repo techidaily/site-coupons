@@ -1,7 +1,7 @@
 ---
 title: 2025-02 Discount Coupons - Galaxy Tab A9+ 11�� 64GB WIFI Tablet SM-X210 OTA Version | Gshopper
-date: 2025-02-09T03:46:28.272Z
-updated: 2025-02-09T03:46:28.272Z
+date: 2025-02-19T05:56:40.625Z
+updated: 2025-02-19T05:56:40.625Z
 categories:
   - Computer & Tablet
 ---
@@ -22,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(43.10k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(18.82k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">

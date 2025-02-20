@@ -1,10 +1,11 @@
 ---
 title: 2025-02 Discount Coupons - $5.66 for RPM 2 Pods (3Pcs) - Smok | Eight Vape
-date: 2025-02-06T21:41:47.385Z
-updated: 2025-02-10T02:20:04.316Z
+date: 2025-02-19T05:56:40.752Z
+updated: 2025-02-19T05:56:40.752Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.99 <span class="font-normal text-slate-400">(49.18k)</span></span>
+      <span>4.96 <span class="font-normal text-slate-400">(26.43k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,26 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1088918-share-59344-sale/"><u>2025-02 Discount Coupons - $15.88 for Lost Vape URSA NANO 2 22W Pod Kit | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-702423-share-90958-sale/"><u>2025-02 Discount Coupons - 28.44% Off Uwell Caliburn Vape Pod System Kit, only $13.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-864033-share-90958-sale/"><u>2025-02 Discount Coupons - 30.45% Off for Geekvape Aegis One & 1FC Kit, only $15.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-789445-share-90958-sale/"><u>2025-02 Discount Coupons - 36.70% Off for Joyetech eGo Pod AST Version Kit 1000mAh, only $7.59 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-872378-share-90958-sale/"><u>2025-02 Discount Coupons - 39.03% Off for Innokin Kroma 217 100W Mod, only $24.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-843488-share-77450-sale/"><u>2025-02 Discount Coupons - 500? - 5% Discount for Sitewide | GEEKMAXI.COM</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

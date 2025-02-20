@@ -1,10 +1,11 @@
 ---
 title: 2025-02 Discount Coupons - $4.66 for SMOK Stick N18 Replacement Tank | Eight Vape
-date: 2025-02-03T23:53:12.218Z
-updated: 2025-02-10T00:14:03.926Z
+date: 2025-02-19T05:56:40.750Z
+updated: 2025-02-19T05:56:40.750Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.97 <span class="font-normal text-slate-400">(37.27k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(6.06k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,26 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1081572-share-59344-sale/"><u>2025-02 Discount Coupons - $7.88 for Freeton F-Resin Max 2 Disposable Vape | Eight Vape</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1056157-share-90958-sale/"><u>2025-02 Discount Coupons - 28.59% Off SnowWolf Easy Smart EA9000 Disposable Vape Kit 9000 Puffs 12.5Ml, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1064892-share-90958-sale/"><u>2025-02 Discount Coupons - 29.64% Off OXVA Xlim SQ Pro Pod System 30W, only $18.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1053374-share-90958-sale/"><u>2025-02 Discount Coupons - 33.36% Off Innokin ArcFire Pod Kit 650mAh, only $9.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1068822-share-90958-sale/"><u>2025-02 Discount Coupons - 37.05% Off Joyetech eRoll Slim Pod System 13W, only $16.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1072465-share-90958-sale/"><u>2025-02 Discount Coupons - 38.49% Off Aroma King 8000 Disposable Vape, only $7.99 | Vapesourcing Electronics Co.,Ltd.</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-

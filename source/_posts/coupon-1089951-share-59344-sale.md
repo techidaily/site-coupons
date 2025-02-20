@@ -1,10 +1,11 @@
 ---
 title: 2025-02 Discount Coupons - $8.66 for U TooB 100 Blue Razz Ice 2X 60Ml (120Ml) Vape Juice | Eight Vape
-date: 2025-02-06T20:23:49.696Z
-updated: 2025-02-09T19:16:31.521Z
+date: 2025-02-19T05:56:40.748Z
+updated: 2025-02-19T05:56:40.748Z
 categories:
   - Deals
 ---
+
 
 <div class="max-w-4xl mx-auto grid grid-cols-1 lg:max-w-5xl lg:gap-x-20 lg:grid-cols-2">
   <div class="relative p-3 col-start-1 row-start-1 flex flex-col-reverse rounded-lg bg-gradient-to-t from-black/75 via-black/0 sm:bg-none sm:row-start-2 sm:p-0 lg:row-start-1">
@@ -21,7 +22,7 @@ categories:
       <svg width="24" height="24" fill="none" aria-hidden="true" class="mr-1 stroke-current dark:stroke-indigo-500">
         <path d="m12 5 2 5h5l-4 4 2.103 5L12 16l-5.103 3L9 14l-4-4h5l2-5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      <span>4.96 <span class="font-normal text-slate-400">(35.96k)</span></span>
+      <span>4.98 <span class="font-normal text-slate-400">(3.13k)</span></span>
     </dd>
     <dt class="sr-only">ExpiresDate</dt>
     <dd class="flex items-center">
@@ -43,28 +44,3 @@ categories:
     "" 
 ""  </p>
 </div>
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://coupons.techidaily.com/coupon-1709188-app-19272-impact/"><u>2024-09 Discount Coupons - " "Aligrace Hair "Ali Grace Hair Flash SaleTransparent Lace Bob WigPrice Dropped to $49.99Use Code: BP10Only 5 PCS!RUSH TO BUY " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1726536-app-19272-impact/"><u>2024-09 Discount Coupons - " "Aligrace Hair "BRAND DAY SaleBuy More Save More$100 OFF Over $959 (Code: AG100) " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1781349-app-19272-impact/"><u>2024-09 Discount Coupons - " "Aligrace Hair "Ready To Wear & Go Aligrace Glueless WigExclusive 12% OFF Use Code:GL12 " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1700026-app-19272-impact/"><u>2024-09 Discount Coupons - " "Aligrace Hair "Supple! Smooth! Best Body Wave Wig!Here's 72% OFFUse Code:DM12 " " "</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1698894-app-19272-impact/"><u>2024-09 Discount Coupons - Aligrace Hair 0Ur Fave 90S Styles!Every Vintage Girl Should Have It on aligracehair.com</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1705007-app-19272-impact/"><u>2024-09 Discount Coupons - Aligrace Hair Ali Grace Body Wave Wig UP TO 70% OFF 24 HOURS ONLY!Pay Now Ship in 24 Hours Love Won’t Delay</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1702840-app-19272-impact/"><u>2024-09 Discount Coupons - Aligrace Hair Ali Grace Hair Hot Deal Cool Summer Fashion Loose Wave UO TO 69% OFFSave on All of Your Summer Wig,including Swim</u></a></li>
-<li><a href="https://coupons.techidaily.com/coupon-1701058-app-19272-impact/"><u>2024-09 Discount Coupons - Aligrace Hair Hours Left Semi Annual Sale Black Bob Wig Low To $80</u></a></li>
-</ul></div>
-
-<ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
